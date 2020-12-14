@@ -31,7 +31,7 @@ image of avalanche events (left) and avalanche accidents (right) on the map of F
 
 ## How to run the code
 
-- Data exploration: in files avalanche_events_EDA.ipynb and avalanche_accidents_EDA.ipynb, or png.images can be displayed without checking ipynb files.
+- Data exploration: in files **avalanche_events_EDA.ipynb** and **avalanche_accidents_EDA.ipynb**, or png.images can be displayed without checking ipynb files.
 
 - Avalanche prediction with machine learning: In order to repeat data wrangling of my final dataset, you need to download source nc files from The S2M meteorological and snow cover reanalysis (link above) and then run folowwing files in this order:
     1) scripts in **year_select.py** and **one_year_meteo.py** to get data about meteo variables into csv files for different years
@@ -47,11 +47,11 @@ This project is licensed under the MIT License - see the [license](https://opens
 
 ## Sources
 
-- [ANENA - for avalanche accidents reports](https://www.anena.org/5041-bilan-des-accidents.htm#par42276)
-- [The S2M meteorological and snow cover reanalysis in the French mountainous areas (1958 - present) - for snow and meteo variables](https://en.aeris-data.fr/metadata/?865730e8-edeb-4c6b-ae58-80f95166509b)
-- [Data-avalanche.org - for avalanche events reports](http://www.data-avalanche.org/)
-- [Bagging and Random Forest for Imbalanced Classification](https://machinelearningmastery.com/bagging-and-random-forest-for-imbalanced-classification/)
-- [Growing RForest - 97% Recall and 100% Precision](https://www.kaggle.com/palmbook/growing-rforest-97-recall-and-100-precision)
-- [Implementing a Random Forest Classification Model in Python](https://medium.com/@hjhuney/implementing-a-random-forest-classification-model-in-python-583891c99652)
-- [Adding CSS styling to your website](https://pythonhow.com/add-css-to-flask-website/)
-- [Build a Python Web Server with Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask)
+- [ANENA](https://www.anena.org/5041-bilan-des-accidents.htm#par42276):  for avalanche accidents reports
+- [The S2M meteorological and snow cover reanalysis in the French mountainous areas (1958 - present) ](https://en.aeris-data.fr/metadata/?865730e8-edeb-4c6b-ae58-80f95166509b): for snow and meteo variables
+- [Data-avalanche.org](http://www.data-avalanche.org/):  for avalanche events reports
+- [Bagging and Random Forest for Imbalanced Classification](https://machinelearningmastery.com/bagging-and-random-forest-for-imbalanced-classification/): for dealing with imbalanced dataset
+- [Growing RForest - 97% Recall and 100% Precision](https://www.kaggle.com/palmbook/growing-rforest-97-recall-and-100-precision): for ways how to improve recall
+- [Implementing a Random Forest Classification Model in Python](https://medium.com/@hjhuney/implementing-a-random-forest-classification-model-in-python-583891c99652): for Random forest model
+- [Adding CSS styling to your website](https://pythonhow.com/add-css-to-flask-website/): for changes in CSS styles
+- [Build a Python Web Server with Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask): for building Flask app
