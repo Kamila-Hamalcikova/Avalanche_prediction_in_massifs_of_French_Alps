@@ -27,7 +27,7 @@ My dataset is compilation of 3 sources:
 ![](readme.assets/bokeh_maps.png)
 image of avalanche events (left) and avalanche accidents (right) on the map of French Alps, source: Kamila Hamalcikova/Bokeh
 
-- Avalanche prediction with machine learning: Random Forest (RF) was machine learning model used for prediction of avalanche events and accidents. Model did provide very good performance when undersampling was used (sample divided in 50 % od cas with avalanche and 50 % without avalanche). However, when RF model was used on normal sample where we have very **imbalanced data due to very low number of days with avalanches**, it returned very **good results for weighted F1-score; 0.998 for avalanche events and 0.995 for avalanche accidents, but recall for days with avalanches was not very satisfying, especially for avalanche accidents**. Recall for days without avalanche events or accident was 1, so perfect, but recall for days with avalanche event was 0.55 and 0.44 for avalanche accident.
+- Avalanche prediction with machine learning: Random Forest (RF) was machine learning model used for prediction of avalanche events and accidents. Results were better when predicting avalanche events because independent variables in dataset were more suitable for it. I was dealing with strongly imbalanced dataset (99,6 % of cases without avalanche and only 0.4 % with avalanche). I focused mainly on recall for days with avalanche and weighted F1 score as performance metrics of RF models, instead of accuracy that is misleading for imbalanced datasets. The best choice was RF model when removing summer months from the sample. It resulted in 0.58 recall for avalanche days and very high recall 0.9956. It was minor improvement over baseline values 0.55 from simple RF without feature selection. Other options were RF only on data with limited altitude (1500- 3600 metres), without division into 22 massifs and modification of RF model (Balanced Random Forest), but these variants of machine learning models provided less satisfying results.
 
 ## How to run the code
 
@@ -37,7 +37,7 @@ image of avalanche events (left) and avalanche accidents (right) on the map of F
     1) scripts in **year_select.py** and **one_year_meteo.py** to get data about meteo variables into csv files for different years
     2) **snow_variables.ipynb** to get data about snow variables into csv file, **meteo_variables.ipynb** to get data about meteo variables into final csv file and merge it with snow variables data
     3) **final_merge.ipynb** to get final dataset for machine learning
-    4) **random_forest_avalanche_events.ipynb** and **random_forest_avalanche_accidents.ipynb** to get results of Random Forest model
+    4) **random_forest_avalanche_events_v2_final.ipynb** and **random_forest_avalanche_accidents.ipynb** to get results of Random Forest model 
 
 - Flask app: in folder Flask app (if you are not familiar with Flask, you can view video of the app [here](https://www.youtube.com/watch?v=-0ov6QQifV8&ab_channel=KamilaHamalcikova)
 
