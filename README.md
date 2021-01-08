@@ -27,7 +27,7 @@ My dataset is compilation of 3 sources:
 ![](readme.assets/bokeh_maps.png)
 image of avalanche events (left) and avalanche accidents (right) on the map of French Alps, source: Kamila Hamalcikova/Bokeh
 
-- Avalanche prediction with machine learning: **Random Forest (RF)** was machine learning model used for prediction of avalanche events and accidents. Results were better when predicting avalanche events because independent variables in dataset were more suitable for it. I was dealing with **strongly imbalanced dataset (99,6 % of cases without avalanche and only 0.4 % with avalanche)**. I focused mainly on recall for days with avalanche and weighted F1 score as performance metrics of RF models, instead of accuracy that is misleading for imbalanced datasets. **The best choice was RF model when removing summer months from the sample. It resulted in 0.58 recall for avalanche days and very high recall 0.9976**. It was minor improvement over baseline values 0.55 from simple RF without feature selection. Other options were RF only on data with limited altitude (1500- 3600 metres), without division into 22 massifs and modification of RF model (Balanced Random Forest), but these variants of machine learning models provided less satisfying results.
+- Avalanche prediction with machine learning: **Random Forest (RF)** was machine learning model used for prediction of avalanche events and accidents. Results were better when predicting avalanche events because independent variables in dataset were more suitable for it. I was dealing with **strongly imbalanced dataset (99,6 % of cases without avalanche and only 0.4 % with avalanche)**. I focused mainly on recall for days with avalanche and weighted F1 score as performance metrics of RF models, instead of accuracy that is misleading for imbalanced datasets. **The best choice was RF model when removing summer months from the sample. It resulted in 0.58 recall for avalanche days and very high recall 0.9976**. It was minor improvement over baseline values 0.55 from simple RF without feature selection. Other options were RF only on data with limited altitude (1500- 3600 metres), without division into 22 massifs and modification of RF model (Balanced Random Forest), but these variants of machine learning models provided less satisfying results. More details about machine learning part cn be found in my article on [TowardsDataScience.com](https://towardsdatascience.com/random-forest-for-imbalanced-dataset-example-with-avalanches-in-french-alps-77ffa582f68b).
 
 ## How to run the code
 
@@ -39,7 +39,7 @@ image of avalanche events (left) and avalanche accidents (right) on the map of F
     3) **final_merge.ipynb** to get final dataset for machine learning
     4) **random_forest_avalanche_events_v2_final.ipynb** and **random_forest_avalanche_accidents.ipynb** to get results of Random Forest model
 
-- Flask app: in folder Flask app (if you are not familiar with Flask, you can view video of the app [here](https://www.youtube.com/watch?v=-0ov6QQifV8&ab_channel=KamilaHamalcikova)
+- Flask app: in folder Flask app (if you are not familiar with Flask, you can view video of the app [here](https://www.youtube.com/watch?v=-0ov6QQifV8&ab_channel=KamilaHamalcikova) or simply check [this webiste](https://avalanche-danger-index.herokuapp.com/), where app is stored.
 
 ## License
 
