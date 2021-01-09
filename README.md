@@ -39,7 +39,7 @@ image of avalanche events (left) and avalanche accidents (right) on the map of F
     3) **final_merge.ipynb** to get final dataset for machine learning
     4) **random_forest_avalanche_events_v2_final.ipynb** and **random_forest_avalanche_accidents.ipynb** to get results of Random Forest model
 
-- Flask app: in folder Flask app (if you are not familiar with Flask, you can view video of the app [here](https://www.youtube.com/watch?v=-0ov6QQifV8&ab_channel=KamilaHamalcikova) or simply check [this webiste](https://avalanche-danger-index.herokuapp.com/), where app is stored.
+- Flask app: in folder Flask app (if you are not familiar with Flask, you can view video of the app [here](https://www.youtube.com/watch?v=-0ov6QQifV8&ab_channel=KamilaHamalcikova) or simply check [this website](https://avalanche-danger-index.herokuapp.com/), where app is stored.
 
 ## License
 
