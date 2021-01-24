@@ -59,3 +59,5 @@ This project is licensed under the MIT License - see the [license](https://opens
 - [Implementing a Random Forest Classification Model in Python](https://medium.com/@hjhuney/implementing-a-random-forest-classification-model-in-python-583891c99652): for Random forest model
 - [Adding CSS styling to your website](https://pythonhow.com/add-css-to-flask-website/): for changes in CSS styles
 - [Build a Python Web Server with Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask): for building Flask app
+- [XGBoost for imbalanced data](https://machinelearningmastery.com/xgboost-for-imbalanced-classification/)
+- [Introduction to XGBoost ML model](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
