@@ -23,7 +23,8 @@ My dataset is compilation of 3 sources:
 
 ## Main findings
 
-- Data exploration: **Avalanche accidents** (with people injured,dead or in need of rescue team) and **avalanche events** (natural events where people might or might not be involved) **are most frequent in March, in altitude from 2000 to 3000 metres**. Avalanche accidents happen most often to groups of 2 people while hiking. Avalanche accidents happen most in Vanoise massif, while avalanche events were most frequent in Haute Maurienne massif.
+- Data exploration: **Avalanche accidents** (with people injured,dead or in need of rescue team) and **avalanche events** (natural events where people might or might not be involved) **are most frequent in March, in altitude from 2000 to 3000 metres**. Avalanche accidents happen most often to groups of 2 people while hiking. Avalanche accidents happen most in Vanoise massif, while avalanche events were most frequent in Haute Maurienne massif. 
+Dataviz for avalanche events is also accessible via [Tableau](https://public.tableau.com/profile/kamilalala#!/vizhome/Avalanches_in_French_Alps/maininfo)
 ![](readme.assets/bokeh_maps.png)
 image of avalanche events (left) and avalanche accidents (right) on the map of French Alps, source: Kamila Hamalcikova/Bokeh
 
@@ -59,5 +60,5 @@ This project is licensed under the MIT License - see the [license](https://opens
 - [Implementing a Random Forest Classification Model in Python](https://medium.com/@hjhuney/implementing-a-random-forest-classification-model-in-python-583891c99652): for Random forest model
 - [Adding CSS styling to your website](https://pythonhow.com/add-css-to-flask-website/): for changes in CSS styles
 - [Build a Python Web Server with Flask](https://projects.raspberrypi.org/en/projects/python-web-server-with-flask): for building Flask app
-- [XGBoost for imbalanced data](https://machinelearningmastery.com/xgboost-for-imbalanced-classification/)
-- [Introduction to XGBoost ML model](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
+- [How to Configure XGBoost for Imbalanced Classification](https://machinelearningmastery.com/xgboost-for-imbalanced-classification/): XGBoost for imbalanced dataset
+- [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/): Introduction to XGBoost ML model
