@@ -1,0 +1,570 @@
+date,hour,massif,region,massif_unique,altitude,inclination,orientation,size_of_group,transported,with head buried in snow,dead,injured,unharmed,activite_regrouped,only_hour,year,month
+2010-12-04,13:05,aravis,alps,Aravis,2350,,NO,3,3,1,0,3,0,hiking,13,2010,12
+2010-12-26,10:55,aravis,alps,Aravis,1950,30-34,S,3,1,1,0,1,0,hiking,10,2010,12
+2011-03-20,12:05,aravis,alps,Aravis,2430,35-39,NO,3,1,1,1,0,0,hiking,12,2011,3
+2010-11-28,14:00,sancy,other,other,1725,40-44,NO,2,1,0,0,1,0,hiking,14,2010,11
+2012-12-06,12:45,aravis,alps,Aravis,1710,40-44,O,2,2,1,1,0,1,hiking,12,2012,12
+2013-12-27,10:45,aravis,alps,Aravis,2375,30-34,NO,3,2,2,2,0,0,"off-piste (ski, snowboard)",10,2013,12
+2014-02-12,15:50,aravis,alps,Aravis,1975,40-44,SE,3,2,0,0,0,1,"off-piste (ski, snowboard)",15,2014,2
+2014-03-02,10:30,aravis,alps,Aravis,0,,,2,2,0,0,0,0,hiking,10,2014,3
+2014-04-13,11:10,aravis,alps,Aravis,0,,,8,8,0,0,0,2,hiking,11,2014,4
+2015-02-08,11:55,aravis,alps,Aravis,1930,30-34,O,2,1,0,0,0,1,hiking,11,2015,2
+2015-02-09,16:00,aravis,alps,Aravis,0,,,4,4,0,0,0,0,"off-piste (ski, snowboard)",16,2015,2
+2010-12-17,12:40,hohneck,other,other,1300,30-34,E,2,1,0,0,1,0,hiking,12,2010,12
+2015-04-06,13:00,aravis,alps,Aravis,0,,,3,3,1,1,0,1,hiking,13,2015,4
+2016-01-30,09:57,aravis,alps,Aravis,2500,40-44,NO,2,1,1,1,0,0,hiking,9,2016,1
+2016-02-27,11:10,aravis,alps,Aravis,1980,35-39,NO,3,1,1,1,0,0,hiking,11,2016,2
+2016-03-09,,aravis,alps,Aravis,0,,,3,2,1,1,0,0,hiking,0,2016,3
+2017-02-12,13:15,aravis,alps,Aravis,1970,35-39,N,4,2,1,1,0,0,hiking,13,2017,2
+2018-03-03,14:05,aravis,alps,Aravis,1800,40-44,SE,6,6,0,0,0,6,hiking,14,2018,3
+2018-03-05,,aravis,alps,Aravis,0,,,2,2,0,0,0,0,hiking,0,2018,3
+2018-12-13,,aravis,alps,Aravis,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2018,12
+2010-12-28,13:45,hohneck,other,other,1244,35-39,NE,5,1,0,0,1,0,alpinisme,13,2010,12
+2018-12-18,,aravis,alps,Aravis,0,,,1,1,1,0,0,1,"cross-country (ski, snowboard etc.)",0,2018,12
+2019-01-26,,aravis,alps,Aravis,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,1
+2019-01-31,,aravis,alps,Aravis,0,,,2,2,0,0,1,1,"off-piste (ski, snowboard)",0,2019,1
+2019-11-24,,aravis,alps,Aravis,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,11
+2019-12-06,,aravis,alps,Aravis,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,12
+2011-02-18,,couserans,pyrenees,couseran,2000,30-34,N,2,1,1,0,0,1,hiking,0,2011,2
+2019-12-31,,aravis,alps,Aravis,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,12
+2020-03-03,,aravis,alps,Aravis,0,,,2,2,0,0,0,2,"off-piste (ski, snowboard)",0,2020,3
+2011-02-22,,luchonnais,pyrenees,luchonnais,2250,35-39,SE,2,2,2,2,0,0,hiking,0,2011,2
+2012-02-18,11:05,bauges,alps,Bauges,1980,30-34,SO,2,1,0,0,0,1,hiking,11,2012,2
+2012-02-27,,bauges,alps,Bauges,0,,,1,1,1,1,0,0,hiking,0,2012,2
+2015-01-29,,bauges,alps,Bauges,0,,,1,1,1,1,0,0,hiking,0,2015,1
+2017-12-09,,bauges,alps,Bauges,0,,,3,3,1,1,0,1,hiking,0,2017,12
+2018-03-05,16:30,bauges,alps,Bauges,2060,35-39,NO,1,1,0,0,0,1,hiking,16,2018,3
+2018-03-24,,bauges,alps,Bauges,0,,,1,1,0,0,0,1,hiking,0,2018,3
+2019-01-25,,bauges,alps,Bauges,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,1
+2011-03-05,12:50,capcir puymorens,pyrenees,capcir,2300,35-39,NO,2,1,1,0,1,0,"off-piste (ski, snowboard)",12,2011,3
+2019-03-10,,bauges,alps,Bauges,0,,,5,5,0,0,0,5,"cross-country (ski, snowboard etc.)",0,2019,3
+2011-03-06,13:30,haute bigorre,pyrenees,hte-bigo,2000,,,3,3,1,0,1,2,hiking,13,2011,3
+2013-04-01,13:30,beaufortain,alps,Beaufortin,2400,35-39,N,3,2,0,0,0,2,hiking,13,2013,4
+2014-01-05,14:00,beaufortain,alps,Beaufortin,2300,,,4,2,0,0,0,0,hiking,14,2014,1
+2014-02-12,14:50,beaufortin,alps,Beaufortin,2340,30-34,SO,2,1,1,1,0,0,hiking,14,2014,2
+2015-02-02,16:55,beaufortain,alps,Beaufortin,2150,30-34,NO,2,1,0,0,0,1,"off-piste (ski, snowboard)",16,2015,2
+2016-01-21,13:55,beaufortain,alps,Beaufortin,2440,,,1,1,0,0,0,0,hiking,13,2016,1
+2017-04-30,12:05,beaufortain,alps,Beaufortin,0,,,1,1,0,0,0,1,hiking,12,2017,4
+2017-12-15,14:10,beaufortain,alps,Beaufortin,2410,40-44,E,2,1,1,1,0,0,hiking,14,2017,12
+2018-02-24,,beaufortain,alps,Beaufortin,0,,NO,3,3,0,0,0,0,hiking,0,2018,2
+2018-03-03,13:35,beaufortain,alps,Beaufortin,2000,30-34,N,2,2,1,0,1,1,hiking,13,2018,3
+2018-03-03,16:30,beaufortain,alps,Beaufortin,1550,35-39,NE,2,1,1,1,0,0,"off-piste (ski, snowboard)",16,2018,3
+2018-03-04,,beaufortain,alps,Beaufortin,0,,,4,1,0,0,0,1,"off-piste (ski, snowboard)",0,2018,3
+2018-03-04,13:15,beaufortain,alps,Beaufortin,0,,,2,2,2,2,0,0,"off-piste (ski, snowboard)",13,2018,3
+2019-01-14,,beaufortin,alps,Beaufortin,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2019,1
+2012-03-23,12:10,belledonne,alps,Belledone,2200,35-39,N,2,1,1,0,1,0,hiking,12,2012,3
+2013-01-12,11:30,belledonne,alps,Belledone,0,35-39,O,1,1,0,0,0,1,hiking,11,2013,1
+2013-03-19,11:45,belledonne,alps,Belledone,1850,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",11,2013,3
+2011-05-08,10:00,haute bigorre,pyrenees,hte-bigo,2280,>45,NO,2,1,1,1,0,0,hiking,10,2011,5
+2013-04-07,11:45,belledonne,alps,Belledone,2600,40-44,E,50,3,0,0,0,3,hiking,11,2013,4
+2014-01-25,13:45,belledonne,alps,Belledone,2330,35-39,SO,2,2,1,1,0,1,hiking,13,2014,1
+2014-01-27,12:40,belledonne,alps,Belledone,2170,30-34,SE,4,1,1,0,1,0,"off-piste (ski, snowboard)",12,2014,1
+2014-01-31,15:50,belledonne,alps,Belledone,2165,30-34,O,2,1,1,1,0,0,hiking,15,2014,1
+2014-03-06,13:45,belledonne,alps,Belledone,0,,,3,1,0,0,0,0,hiking,13,2014,3
+2014-03-13,17:00,belledonne,alps,Belledone,0,,O,1,1,0,0,0,1,hiking,17,2014,3
+2015-03-05,13:00,belledonne,alps,Belledone,2500,30-34,NE,2,1,1,1,0,0,hiking,13,2015,3
+2016-03-05,12:00,belledonne,alps,Belledone,0,,,2,2,0,0,0,0,"off-piste (ski, snowboard)",12,2016,3
+2016-03-07,11:45,belledonne,alps,Belledone,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",11,2016,3
+2016-04-24,11:00,belledonne,alps,Belledone,2300,30-34,SE,9,5,3,2,1,1,hiking,11,2016,4
+2017-12-28,13:45,belledonne,alps,Belledone,2120,35-39,SO,2,1,0,0,0,0,hiking,13,2017,12
+2018-01-17,,belledonne,alps,Belledone,2000,35-39,NO,1,1,1,1,0,0,hiking,0,2018,1
+2018-02-24,09:30,belledonne,alps,Belledone,2035,35-39,N,2,1,0,0,0,1,hiking,9,2018,2
+2018-03-04,10:45,belledonne,alps,Belledone,2000,40-44,NO,2,2,1,1,0,1,hiking,10,2018,3
+2019-04-20,,belledonne,alps,Belledone,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,4
+2012-02-18,,haute bigorre,pyrenees,hte-bigo,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2012,2
+2012-02-18,,haute bigorre,pyrenees,hte-bigo,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",0,2012,2
+2012-02-18,,luchonnais,pyrenees,luchonnais,2030,30-34,NO,5,5,0,0,0,0,hiking,0,2012,2
+2012-02-19,,haute bigorre,pyrenees,hte-bigo,0,,,2,1,0,0,0,1,"off-piste (ski, snowboard)",0,2012,2
+2019-11-14,,belledonne,alps,Belledone,0,,,1,1,1,0,1,0,other,0,2019,11
+2020-01-02,,belledonne,alps,Belledone,0,,,2,2,0,2,0,0,"cross-country (ski, snowboard etc.)",0,2020,1
+2020-01-18,,belledonne,alps,Belledone,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2020,1
+2014-01-26,,dévoluy,alps,Devoluy,0,,,2,1,0,0,0,0,hiking,0,2014,1
+2017-02-04,,dévoluy,alps,Devoluy,2300,,NO,10,3,2,2,0,1,"off-piste (ski, snowboard)",0,2017,2
+2010-12-26,15:15,grandes rousses,alps,Gdes-rouss,3200,,O,2,1,0,0,1,0,"off-piste (ski, snowboard)",15,2010,12
+2012-02-17,14:05,grandes rousses,alps,Gdes-rouss,2050,35-39,SE,4,1,1,1,0,0,hiking,14,2012,2
+2012-04-05,15:30,luchonnais,pyrenees,luchonnais,0,,NE,2,2,2,2,0,0,hiking,15,2012,4
+2012-04-20,15:45,grandes rousses,alps,Gdes-rouss,2600,40-44,O,2,1,1,0,1,0,"off-piste (ski, snowboard)",15,2012,4
+2013-01-20,13:50,grandes rousses,alps,Gdes-rouss,1790,35-39,SO,6,3,3,3,0,0,"off-piste (ski, snowboard)",13,2013,1
+2013-04-17,,grandes rousses,alps,Gdes-rouss,0,35-39,S,2,2,1,1,0,1,other,0,2013,4
+2014-01-26,14:40,grandes rousses,alps,Gdes-rouss,2000,30-34,S,2,2,2,2,0,0,"off-piste (ski, snowboard)",14,2014,1
+2015-02-07,15:00,grandes rousses,alps,Gdes-rouss,1970,35-39,O,1,1,0,0,0,0,hiking,15,2015,2
+2017-12-09,09:30,grandes rousses,alps,Gdes-rouss,0,,,2,2,0,0,0,1,other,9,2017,12
+2018-03-04,13:50,grandes rousses,alps,Gdes-rouss,0,,,1,1,0,0,0,1,hiking,13,2018,3
+2018-03-04,11:55,grandes rousses,alps,Gdes-rouss,0,,,1,1,0,0,0,0,"off-piste (ski, snowboard)",11,2018,3
+2018-03-04,14:35,grandes rousses,alps,Gdes-rouss,0,,,5,3,1,1,0,1,"off-piste (ski, snowboard)",14,2018,3
+2018-03-04,15:10,grandes rousses,alps,Gdes-rouss,0,,,6,1,1,1,0,0,hiking,15,2018,3
+2018-03-13,09:20,grandes rousses,alps,Gdes-rouss,3300,35-39,S,2,2,0,0,0,2,other,9,2018,3
+2019-01-31,,grandes rousses,alps,Gdes-rouss,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2019,1
+2019-12-25,,grandes rousses,alps,Gdes-rouss,0,,,2,2,0,0,0,2,"off-piste (ski, snowboard)",0,2019,12
+2019-12-28,,grandes rousses,alps,Gdes-rouss,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",0,2019,12
+2018-03-02,10:30,haut var,alps,Ht_Var-Ver,2280,35-39,E,6,6,5,4,1,1,hiking,10,2018,3
+2019-02-03,,Haut-Verdon,alps,Ht_Var-Ver,0,,,1,1,0,0,1,0,"off-piste (ski, snowboard)",0,2019,2
+2010-11-01,09:00,Haute Maurienne,alps,Hte-maurie,3100,35-39,N,3,3,3,3,0,0,alpinisme,9,2010,11
+2011-03-05,14:30,haute maurienne,alps,Hte-maurie,3000,,NO,3,2,1,0,1,1,"off-piste (ski, snowboard)",14,2011,3
+2011-03-21,12:40,haute maurienne,alps,Hte-maurie,2530,,NE,2,2,0,0,0,2,"off-piste (ski, snowboard)",12,2011,3
+2013-01-02,12:45,aspe ossau,pyrenees,aspe-ossau,0,,,2,1,1,1,0,0,"off-piste (ski, snowboard)",12,2013,1
+2011-04-03,13:00,haute maurienne,alps,Hte-maurie,2500,35-39,NO,8,4,0,0,1,3,hiking,13,2011,4
+2012-04-09,11:30,haute maurienne,alps,Hte-maurie,3200,,NO,7,3,0,0,0,0,hiking,11,2012,4
+2014-01-10,12:00,haute maurienne,alps,Hte-maurie,2635,40-44,NO,2,1,1,1,0,0,hiking,12,2014,1
+2014-01-26,10:05,haute maurienne,alps,Hte-maurie,2200,35-39,NE,3,2,0,0,0,0,"off-piste (ski, snowboard)",10,2014,1
+2014-03-02,15:00,haute maurienne,alps,Hte-maurie,2900,35-39,N,2,1,0,0,0,0,"off-piste (ski, snowboard)",15,2014,3
+2014-04-29,11:30,haute maurienne,alps,Hte-maurie,3490,35-39,S,6,4,0,0,0,4,hiking,11,2014,4
+2014-05-04,11:15,haute maurienne,alps,Hte-maurie,3600,>45,O,1,1,0,0,0,0,alpinisme,11,2014,5
+2014-05-04,11:00,haute maurienne,alps,Hte-maurie,3430,40-44,SO,3,1,1,1,0,0,hiking,11,2014,5
+2014-05-18,12:30,haute maurienne,alps,Hte-maurie,0,,NE,2,2,1,0,1,0,hiking,12,2014,5
+2015-02-02,08:55,haute maurienne,alps,Hte-maurie,2200,35-39,NE,2,1,0,0,0,1,other,8,2015,2
+2015-03-29,11:45,haute maurienne,alps,Hte-maurie,3200,40-44,S,9,5,2,1,1,2,hiking,11,2015,3
+2016-01-18,13:05,haute maurienne,alps,Hte-maurie,2600,>45,E,52,18,11,8,3,7,hiking,13,2016,1
+2016-02-15,16:25,haute maurienne,alps,Hte-maurie,3000,40-44,O,4,1,1,1,0,0,"off-piste (ski, snowboard)",16,2016,2
+2016-04-05,10:30,haute maurienne,alps,Hte-maurie,1970,35-39,NO,12,7,0,0,0,3,"piste (ski, snowboard)",10,2016,4
+2017-01-14,14:00,haute maurienne,alps,Hte-maurie,2300,40-44,NO,5,2,0,0,0,2,hiking,14,2017,1
+2017-02-05,14:40,haute maurienne,alps,Hte-maurie,2240,35-39,NE,2,1,1,1,0,0,"off-piste (ski, snowboard)",14,2017,2
+2017-02-16,11:00,haute maurienne,alps,Hte-maurie,2450,35-39,NE,9,5,0,0,0,5,hiking,11,2017,2
+2017-03-01,15:00,haute maurienne,alps,Hte-maurie,2250,>45,,3,1,0,0,0,0,hiking,15,2017,3
+2017-03-07,16:00,haute maurienne,alps,Hte-maurie,2251,35-39,NE,3,3,2,2,0,1,"off-piste (ski, snowboard)",16,2017,3
+2017-05-05,,haute maurienne,alps,Hte-maurie,0,,,2,2,0,0,0,0,hiking,0,2017,5
+2017-05-09,11:00,haute maurienne,alps,Hte-maurie,2990,>45,NO,3,3,0,0,0,3,alpinisme,11,2017,5
+2018-01-02,14:10,haute maurienne,alps,Hte-maurie,2290,35-39,N,6,2,1,1,0,1,"off-piste (ski, snowboard)",14,2018,1
+2018-01-09,14:30,haute maurienne,alps,Hte-maurie,2610,>45,O,12,1,1,0,1,0,"piste (ski, snowboard)",14,2018,1
+2013-03-06,16:00,haute bigorre,pyrenees,hte-bigo,0,,,8,6,0,0,0,6,hiking,16,2013,3
+2018-03-16,14:50,haute maurienne,alps,Hte-maurie,2550,,,6,4,0,0,0,3,"off-piste (ski, snowboard)",14,2018,3
+2018-03-25,16:25,haute maurienne,alps,Hte-maurie,2550,35-39,NO,3,2,2,2,0,0,hiking,16,2018,3
+2018-11-24,,haute maurienne,alps,Hte-maurie,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2018,11
+2013-03-15,,haute ariège,pyrenees,hte-ariege,0,,,1,1,0,0,0,0,"off-piste (ski, snowboard)",0,2013,3
+2013-03-15,,haute ariège,pyrenees,hte-ariege,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2013,3
+2013-03-15,,haute bigorre,pyrenees,hte-bigo,0,,S,1,1,0,0,0,0,"off-piste (ski, snowboard)",0,2013,3
+2018-12-05,,haute maurienne,alps,Hte-maurie,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2018,12
+2019-01-18,,haute maurienne,alps,Hte-maurie,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2019,1
+2019-02-02,,haute maurienne,alps,Hte-maurie,0,,,3,3,1,1,2,0,"off-piste (ski, snowboard)",0,2019,2
+2019-04-25,,haute maurienne,alps,Hte-maurie,0,,,1,1,1,1,0,0,"cross-country (ski, snowboard etc.)",0,2019,4
+2019-11-23,,haute maurienne,alps,Hte-maurie,0,,,4,4,1,0,2,2,"cross-country (ski, snowboard etc.)",0,2019,11
+2020-01-02,,haute maurienne,alps,Hte-maurie,0,,,2,2,0,0,0,2,"cross-country (ski, snowboard etc.)",0,2020,1
+2020-01-24,,haute maurienne,alps,Hte-maurie,0,,,1,1,1,1,0,0,"cross-country (ski, snowboard etc.)",0,2020,1
+2010-11-12,08:20,haute tarentaise,alps,Hte-tarent,2480,,N,5,2,0,1,1,0,other,8,2010,11
+2010-12-02,11:30,haute tarentaise,alps,Hte-tarent,2580,35-39,O,3,1,1,0,1,0,"off-piste (ski, snowboard)",11,2010,12
+2010-12-09,12:37,haute tarentaise,alps,Hte-tarent,2650,>45,N,2,2,1,1,1,0,"off-piste (ski, snowboard)",12,2010,12
+2010-12-14,12:50,haute tarentaise,alps,Hte-tarent,3100,35-39,SO,7,1,1,1,0,0,hiking,12,2010,12
+2010-12-26,09:34,haute tarentaise,alps,Hte-tarent,2740,40-44,N,4,2,2,1,0,1,"off-piste (ski, snowboard)",9,2010,12
+2011-01-10,,haute tarentaise,alps,Hte-tarent,2400,35-39,O,4,1,0,0,1,0,"off-piste (ski, snowboard)",0,2011,1
+2011-01-11,11:03,haute tarentaise,alps,Hte-tarent,2700,35-39,N,7,5,4,4,0,1,"off-piste (ski, snowboard)",11,2011,1
+2011-03-04,15:15,haute tarentaise,alps,Hte-tarent,2400,35-39,NO,2,1,1,0,1,0,"off-piste (ski, snowboard)",15,2011,3
+2011-03-18,12:00,haute tarentaise,alps,Hte-tarent,2850,35-39,NO,6,1,1,1,0,0,"off-piste (ski, snowboard)",12,2011,3
+2011-03-20,10:00,haute tarentaise,alps,Hte-tarent,2600,,SO,3,2,0,0,2,0,"off-piste (ski, snowboard)",10,2011,3
+2011-03-21,12:54,haute tarentaise,alps,Hte-tarent,2750,35-39,NO,10,2,2,0,1,1,hiking,12,2011,3
+2011-03-31,11:10,haute tarentaise,alps,Hte-tarent,3000,35-39,SE,2,2,1,0,1,1,"off-piste (ski, snowboard)",11,2011,3
+2011-04-01,11:35,haute tarentaise,alps,Hte-tarent,2660,40-44,E,7,1,0,0,1,0,"off-piste (ski, snowboard)",11,2011,4
+2012-12-05,11:25,haute tarentaise,alps,Hte-tarent,2600,30-34,N,11,2,2,2,0,0,"off-piste (ski, snowboard)",11,2012,12
+2012-12-12,12:55,haute tarentaise,alps,Hte-tarent,2750,35-39,NO,7,4,2,1,1,0,"off-piste (ski, snowboard)",12,2012,12
+2012-12-21,12:05,haute tarentaise,alps,Hte-tarent,2755,30-34,N,3,3,1,1,0,0,"off-piste (ski, snowboard)",12,2012,12
+2013-03-02,16:40,haute tarentaise,alps,Hte-tarent,2200,30-34,N,2,1,0,0,0,1,"off-piste (ski, snowboard)",16,2013,3
+2013-03-06,11:30,haute tarentaise,alps,Hte-tarent,2200,35-39,N,2,2,2,1,1,0,"off-piste (ski, snowboard)",11,2013,3
+2013-03-18,13:10,haute tarentaise,alps,Hte-tarent,1880,35-39,SO,2,1,1,1,0,0,"off-piste (ski, snowboard)",13,2013,3
+2013-10-13,12:10,haute tarentaise,alps,Hte-tarent,3665,35-39,NE,5,2,0,0,0,1,"off-piste (ski, snowboard)",12,2013,10
+2014-01-26,16:10,haute tarentaise,alps,Hte-tarent,2400,30-34,SE,2,1,1,1,0,0,"off-piste (ski, snowboard)",16,2014,1
+2014-04-15,13:15,haute tarentaise,alps,Hte-tarent,2375,35-39,NO,7,2,0,0,0,1,"off-piste (ski, snowboard)",13,2014,4
+2014-05-04,,haute tarentaise,alps,Hte-tarent,0,,,1,1,0,0,0,0,hiking,0,2014,5
+2014-12-18,09:20,haute tarentaise,alps,Hte-tarent,2747,>45,SE,11,4,1,1,0,3,hiking,9,2014,12
+2015-01-05,13:05,haute tarentaise,alps,Hte-tarent,2820,40-44,N,6,5,0,0,0,3,hiking,13,2015,1
+2015-01-15,15:10,haute tarentaise,alps,Hte-tarent,2550,>45,NE,2,1,1,1,0,0,"off-piste (ski, snowboard)",15,2015,1
+2015-03-31,12:28,haute tarentaise,alps,Hte-tarent,2550,30-34,NE,2,1,1,1,0,0,"off-piste (ski, snowboard)",12,2015,3
+2016-01-05,11:50,haute tarentaise,alps,Hte-tarent,2375,35-39,SE,4,1,1,1,0,0,"off-piste (ski, snowboard)",11,2016,1
+2016-01-05,10:24,haute tarentaise,alps,Hte-tarent,2650,40-44,E,3,3,2,2,0,0,"off-piste (ski, snowboard)",10,2016,1
+2016-01-13,13:54,haute tarentaise,alps,Hte-tarent,2205,35-39,NO,1,1,0,0,0,1,"off-piste (ski, snowboard)",13,2016,1
+2016-01-18,15:05,haute tarentaise,alps,Hte-tarent,2600,35-39,NE,4,1,0,0,0,0,"off-piste (ski, snowboard)",15,2016,1
+2016-04-19,13:05,haute tarentaise,alps,Hte-tarent,2880,40-44,N,4,1,0,0,0,1,"off-piste (ski, snowboard)",13,2016,4
+2016-11-13,11:15,haute tarentaise,alps,Hte-tarent,2800,,,4,1,0,0,0,0,hiking,11,2016,11
+2017-01-13,11:00,haute-tarentaise,alps,Hte-tarent,2400,30-34,SE,3,1,1,1,0,0,"off-piste (ski, snowboard)",11,2017,1
+2017-01-20,14:30,haute-tarentaise,alps,Hte-tarent,2150,35-39,NO,3,1,1,1,0,0,hiking,14,2017,1
+2017-02-13,10:35,haute-tarentaise,alps,Hte-tarent,2450,40-44,NO,4,4,4,4,0,0,"off-piste (ski, snowboard)",10,2017,2
+2017-03-07,09:45,haute tarentaise,alps,Hte-tarent,2650,40-44,N,33,33,6,1,5,14,"piste (ski, snowboard)",9,2017,3
+2017-05-20,18:10,haute tarentaise,alps,Hte-tarent,3240,>45,N,2,1,0,0,0,0,hiking,18,2017,5
+2017-12-13,12:44,haute tarentaise,alps,Hte-tarent,2550,35-39,SE,2,1,1,1,0,0,"off-piste (ski, snowboard)",12,2017,12
+2017-12-30,16:00,haute tarentaise,alps,Hte-tarent,2740,35-39,SO,4,2,2,1,1,0,hiking,16,2017,12
+2018-01-03,16:00,haute tarentaise,alps,Hte-tarent,2500,35-39,SE,1,1,1,1,0,0,other,16,2018,1
+2018-01-09,,haute tarentaise,alps,Hte-tarent,0,,,2,1,0,0,0,0,"off-piste (ski, snowboard)",0,2018,1
+2018-02-05,17:35,haute tarentaise,alps,Hte-tarent,2880,40-44,NE,4,1,0,0,0,0,hiking,17,2018,2
+2018-02-18,12:35,haute tarentaise,alps,Hte-tarent,3050,>45,S,7,3,2,2,0,0,"off-piste (ski, snowboard)",12,2018,2
+2018-04-13,12:20,haute tarentaise,alps,Hte-tarent,2550,,,2,1,1,1,0,0,"off-piste (ski, snowboard)",12,2018,4
+2018-12-11,,haute tarentaise,alps,Hte-tarent,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",0,2018,12
+2014-01-26,14:00,cerdagne canigou,pyrenees,cerdagne,0,,,7,1,0,0,0,1,hiking,14,2014,1
+2018-12-11,,haute tarentaise,alps,Hte-tarent,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2018,12
+2018-12-25,,haute tarentaise,alps,Hte-tarent,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2018,12
+2019-01-15,,haute tarentaise,alps,Hte-tarent,0,,,1,1,0,0,1,0,"off-piste (ski, snowboard)",0,2019,1
+2019-02-04,,haute tarentaise,alps,Hte-tarent,0,,,2,2,0,0,0,2,"off-piste (ski, snowboard)",0,2019,2
+2019-02-04,,haute tarentaise,alps,Hte-tarent,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2019,2
+2014-01-26,,vosges,other,other,1300,>45,N,2,2,0,0,0,0,alpinisme,0,2014,1
+2019-02-08,,haute tarentaise,alps,Hte-tarent,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,2
+2019-02-08,,haute tarentaise,alps,Hte-tarent,0,,,2,2,1,0,0,2,"cross-country (ski, snowboard etc.)",0,2019,2
+2019-04-30,,haute tarentaise,alps,Hte-tarent,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,4
+2020-03-03,,haute tarentaise,alps,Hte-tarent,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2020,3
+2020-03-03,,haute tarentaise,alps,Hte-tarent,0,,,1,1,0,0,1,0,"off-piste (ski, snowboard)",0,2020,3
+2020-03-03,,haute tarentaise,alps,Hte-tarent,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",0,2020,3
+2010-11-28,12:00,chablais,alps,Chablais,1950,40-44,SE,15,2,2,0,0,2,hiking,12,2010,11
+2010-12-21,13:20,chablais,alps,Chablais,2300,40-44,SE,3,1,1,0,0,1,hiking,13,2010,12
+2010-12-21,,chablais,alps,Chablais,0,,,2,2,0,0,2,0,"off-piste (ski, snowboard)",0,2010,12
+2011-03-03,,chablais,alps,Chablais,0,,,3,3,0,0,2,1,hiking,0,2011,3
+2012-02-04,11:15,chablais,alps,Chablais,1780,,NO,4,1,1,0,1,0,"off-piste (ski, snowboard)",11,2012,2
+2012-02-04,12:30,chablais,alps,Chablais,1840,35-39,NO,4,1,0,0,0,0,"off-piste (ski, snowboard)",12,2012,2
+2012-02-21,10:00,chablais,alps,Chablais,2050,40-44,O,2,2,0,0,0,0,hiking,10,2012,2
+2013-01-19,13:10,chablais,alps,Chablais,2100,40-44,O,2,1,0,0,0,0,hiking,13,2013,1
+2013-02-05,16:10,chablais,alps,Chablais,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",16,2013,2
+2014-03-06,10:30,haute ariège,pyrenees,hte-ariege,0,,,4,1,1,1,0,0,"off-piste (ski, snowboard)",10,2014,3
+2013-03-19,,chablais,alps,Chablais,0,,,1,1,1,0,1,0,hiking,0,2013,3
+2013-03-22,12:45,chablais,alps,Chablais,2000,40-44,NO,2,1,0,0,0,0,"off-piste (ski, snowboard)",12,2013,3
+2013-12-01,12:25,chablais,alps,Chablais,2290,35-39,S,2,2,0,0,0,0,hiking,12,2013,12
+2013-12-29,13:50,chablais,alps,Chablais,0,,,2,1,0,0,0,0,"off-piste (ski, snowboard)",13,2013,12
+2014-03-29,12:55,couserans,pyrenees,couseran,2050,,NE,3,3,2,2,0,0,alpinisme,12,2014,3
+2014-03-29,14:00,lioran,other,other,1540,40-44,N,1,1,0,0,0,1,hiking,14,2014,3
+2013-12-30,12:25,chablais,alps,Chablais,2150,30-34,N,2,1,0,0,0,1,hiking,12,2013,12
+2015-01-31,,chablais,alps,Chablais,1960,35-39,O,2,1,1,1,0,0,"off-piste (ski, snowboard)",0,2015,1
+2015-02-02,16:25,chablais,alps,Chablais,1900,,,4,4,0,0,0,0,"off-piste (ski, snowboard)",16,2015,2
+2015-03-05,,chablais,alps,Chablais,0,,,1,1,0,0,0,0,"off-piste (ski, snowboard)",0,2015,3
+2016-01-13,13:35,chablais,alps,Chablais,2255,40-44,NO,5,1,0,0,0,0,"piste (ski, snowboard)",13,2016,1
+2016-02-27,13:45,chablais,alps,Chablais,1750,35-39,SE,1,1,0,0,0,1,hiking,13,2016,2
+2017-04-28,,chablais,alps,Chablais,0,,,1,1,1,1,0,0,hiking,0,2017,4
+2018-03-04,11:15,chablais,alps,Chablais,0,,NO,2,2,2,2,0,0,hiking,11,2018,3
+2018-03-29,15:00,chablais,alps,Chablais,1700,>45,,6,1,0,0,0,1,"off-piste (ski, snowboard)",15,2018,3
+2014-12-12,,haute bigorre,pyrenees,hte-bigo,0,,,4,2,0,0,0,2,hiking,0,2014,12
+2018-03-31,13:00,chablais,alps,Chablais,0,,,8,8,0,0,0,8,hiking,13,2018,3
+2019-02-07,,chablais,alps,Chablais,0,,,2,2,0,0,0,2,"cross-country (ski, snowboard etc.)",0,2019,2
+2019-04-19,,chablais,alps,Chablais,0,,,1,1,1,1,0,0,"cross-country (ski, snowboard etc.)",0,2019,4
+2011-02-19,13:10,champsaur,alps,Champsaur,2800,35-39,N,6,3,1,0,1,2,hiking,13,2011,2
+2011-02-26,16:10,champsaur,alps,Champsaur,2100,40-44,N,7,3,0,0,1,2,hiking,16,2011,2
+2013-03-25,13:45,champsaur,alps,Champsaur,2600,30-34,N,2,1,1,0,1,0,hiking,13,2013,3
+2013-04-13,10:00,champsaur,alps,Champsaur,2500,30-34,NO,1,1,0,0,0,1,hiking,10,2013,4
+2013-04-13,13:00,champsaur,alps,Champsaur,2750,30-34,N,2,2,1,1,0,1,hiking,13,2013,4
+2015-01-18,13:00,haute ariege,pyrenees,hte-ariege,2440,35-39,NO,2,1,1,1,0,0,alpinisme,13,2015,1
+2014-01-28,13:00,champsaur,alps,Champsaur,0,,,5,2,0,0,0,2,hiking,13,2014,1
+2014-03-05,,champsaur,alps,Champsaur,0,,NE,1,1,0,0,0,0,hiking,0,2014,3
+2018-02-18,12:00,champsaur,alps,Champsaur,2610,35-39,NO,1,1,1,0,1,0,hiking,12,2018,2
+2010-12-05,11:45,chartreuse,alps,Chartreuse,1570,35-39,NE,3,3,3,3,0,0,hiking,11,2010,12
+2012-02-17,08:25,chartreuse,alps,Chartreuse,1774,35-39,O,1,1,1,1,0,0,hiking,8,2012,2
+2012-12-13,12:45,chartreuse,alps,Chartreuse,1680,30-34,NO,2,2,2,2,0,0,hiking,12,2012,12
+2015-02-28,10:10,charteuse,alps,Chartreuse,1690,30-34,O,7,1,1,1,0,0,hiking,10,2015,2
+2017-02-12,14:00,chartreuse,alps,Chartreuse,1400,30-34,SO,2,1,0,0,0,0,hiking,14,2017,2
+2017-12-02,,chartreuse,alps,Chartreuse,1670,35-39,SO,2,2,2,2,0,0,hiking,0,2017,12
+2017-12-02,,chartreuse,alps,Chartreuse,1910,40-44,SO,1,1,0,0,0,0,hiking,0,2017,12
+2018-03-03,,chartreuse,alps,Chartreuse,0,,,1,1,0,0,0,0,hiking,0,2018,3
+2018-03-18,11:45,chartreuse,alps,Chartreuse,2040,35-39,O,4,3,0,0,0,0,hiking,11,2018,3
+2019-01-25,,chartreuse,alps,Chartreuse,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,1
+2015-02-01,08:15,haute bigorre,pyrenees,hte-bigo,2200,35-39,SE,2,2,0,0,0,2,other,8,2015,2
+2019-01-29,,chartreuse,alps,Chartreuse,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,1
+2019-01-30,,chartreuse,alps,Chartreuse,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,1
+2019-01-31,,chartreuse,alps,Chartreuse,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,1
+2015-02-02,14:30,luchonnais,pyrenees,luchonnais,0,,N,5,5,1,1,0,0,"off-piste (ski, snowboard)",14,2015,2
+2011-02-26,11:30,maurienne,alps,Maurienne,2500,30-34,NE,2,1,0,0,0,1,hiking,11,2011,2
+2011-03-04,,maurienne,alps,Maurienne,0,,,2,1,0,0,1,0,"off-piste (ski, snowboard)",0,2011,3
+2012-02-01,10:25,maurienne,alps,Maurienne,0,,,19,10,6,6,0,0,hiking,10,2012,2
+2012-04-09,11:30,maurienne,alps,Maurienne,2800,,,2,1,1,1,0,0,hiking,11,2012,4
+2013-01-20,,maurienne,alps,Maurienne,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2013,1
+2013-01-30,11:30,maurienne,alps,Maurienne,2000,30-34,NO,4,2,0,0,0,2,hiking,11,2013,1
+2013-02-20,10:00,maurienne,alps,Maurienne,2510,30-34,O,22,2,1,1,0,1,other,10,2013,2
+2013-03-05,16:15,maurienne,alps,Maurienne,0,35-39,NO,2,2,1,1,0,1,"off-piste (ski, snowboard)",16,2013,3
+2013-03-06,11:00,maurienne,alps,Maurienne,2200,30-34,NO,2,2,0,0,0,2,"off-piste (ski, snowboard)",11,2013,3
+2013-03-19,15:05,maurienne,alps,Maurienne,1825,30-34,NE,6,1,1,1,0,0,"off-piste (ski, snowboard)",15,2013,3
+2014-01-09,12:30,maurienne,alps,Maurienne,2840,40-44,NO,3,3,0,0,0,0,hiking,12,2014,1
+2014-05-04,,maurienne,alps,Maurienne,0,,,1,1,0,0,0,0,hiking,0,2014,5
+2016-01-05,13:58,maurienne,alps,Maurienne,2150,40-44,NO,2,1,1,1,0,0,"off-piste (ski, snowboard)",13,2016,1
+2017-01-28,16:17,maurienne,alps,Maurienne,2460,35-39,NE,2,1,0,0,0,1,hiking,16,2017,1
+2018-02-18,12:06,maurienne,alps,Maurienne,2550,40-44,NO,4,1,0,0,0,0,hiking,12,2018,2
+2015-02-17,16:15,aspe ossau,pyrenees,aspe-ossau,1690,35-39,SO,5,5,4,4,0,1,hiking,16,2015,2
+2018-12-13,,maurienne,alps,Maurienne,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2018,12
+2019-01-14,,maurienne,alps,Maurienne,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",0,2019,1
+2015-03-03,15:00,haute ariege,pyrenees,hte-ariege,1900,40-44,SE,2,2,0,0,0,0,other,15,2015,3
+2019-03-16,,maurienne,alps,Maurienne,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2019,3
+2019-12-04,,maurienne,alps,Maurienne,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,12
+2019-12-29,,maurienne,alps,Maurienne,0,,,2,2,0,0,0,2,"cross-country (ski, snowboard etc.)",0,2019,12
+2020-01-30,,maurienne,alps,Maurienne,0,,,3,3,3,2,1,0,"off-piste (ski, snowboard)",0,2020,1
+2020-01-31,,maurienne,alps,Maurienne,0,,,1,1,1,0,0,1,"cross-country (ski, snowboard etc.)",0,2020,1
+2020-03-06,,maurienne,alps,Maurienne,0,,,1,1,1,0,0,1,"cross-country (ski, snowboard etc.)",0,2020,3
+2013-04-15,13:25,mercantour,alps,Mercantour,2150,30-34,E,2,1,1,1,0,0,"off-piste (ski, snowboard)",13,2013,4
+2014-01-26,10:10,mercantour,alps,Mercantour,2300,35-39,E,2,1,1,1,0,0,"off-piste (ski, snowboard)",10,2014,1
+2014-12-07,10:45,mercantour,alps,Mercantour,2600,35-39,SO,4,4,0,0,0,0,hiking,10,2014,12
+2014-12-28,11:40,mercantour,alps,Mercantour,2300,40-44,NE,3,1,1,1,0,0,"off-piste (ski, snowboard)",11,2014,12
+2015-02-06,,mercantour,alps,Mercantour,0,,,3,3,0,0,0,0,other,0,2015,2
+2015-02-16,10:15,mercantour,alps,Mercantour,0,,,3,3,2,2,0,1,hiking,10,2015,2
+2017-03-07,12:00,mercantour,alps,Mercantour,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",12,2017,3
+2017-03-07,14:15,mercantour,alps,Mercantour,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",14,2017,3
+2019-02-09,,mercantour,alps,Mercantour,0,,,11,11,0,0,2,9,"cross-country (ski, snowboard etc.)",0,2019,2
+2019-05-06,,mercantour,alps,Mercantour,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,5
+2019-05-19,,mercantour,alps,Mercantour,0,,,2,2,1,1,0,1,"cross-country (ski, snowboard etc.)",0,2019,5
+2019-12-07,,mercantour,alps,Mercantour,0,,,3,3,0,0,3,0,"cross-country (ski, snowboard etc.)",0,2019,12
+2010-12-22,11:00,mont blanc,alps,Mont-Blanc,2050,35-39,SO,9,1,1,0,1,0,hiking,11,2010,12
+2010-12-22,11:00,mont blanc,alps,Mont-Blanc,2150,<30,O,2,2,1,0,2,0,hiking,11,2010,12
+2010-12-24,15:00,mont blanc,alps,Mont-Blanc,2175,>45,NE,1,1,0,0,1,0,other,15,2010,12
+2011-03-17,15:15,mont blanc,alps,Mont-Blanc,2230,35-39,N,5,1,0,0,1,0,hiking,15,2011,3
+2011-06-04,17:25,mont blanc,alps,Mont-Blanc,3650,>45,SO,2,1,1,1,0,0,alpinisme,17,2011,6
+2012-01-21,10:00,mont blanc,alps,Mont-Blanc,1780,>45,NE,3,1,0,0,0,1,other,10,2012,1
+2012-01-29,15:55,mont blanc,alps,Mont-Blanc,2300,,NO,4,1,1,1,0,0,"off-piste (ski, snowboard)",15,2012,1
+2012-02-16,,mont blanc,alps,Mont-Blanc,0,,,3,3,0,0,0,0,"off-piste (ski, snowboard)",0,2012,2
+2012-04-03,15:50,mont blanc,alps,Mont-Blanc,1900,30-34,NO,2,1,1,0,1,0,hiking,15,2012,4
+2012-04-28,12:55,mont blanc,alps,Mont-Blanc,0,,,3,1,0,0,0,0,alpinisme,12,2012,4
+2012-07-12,05:20,mont blanc,alps,Mont-Blanc,4200,40-44,N,23,23,9,9,0,0,alpinisme,5,2012,7
+2012-10-30,11:55,mont blanc,alps,Mont-Blanc,3500,30-34,SE,2,2,0,0,0,0,alpinisme,11,2012,10
+2013-02-08,10:55,mont blanc,alps,Mont-Blanc,2280,35-39,SE,1,1,1,1,0,0,"off-piste (ski, snowboard)",10,2013,2
+2013-02-26,09:30,mont blanc,alps,Mont-Blanc,1970,35-39,SO,15,6,0,0,0,0,hiking,9,2013,2
+2013-03-22,09:35,mont blanc,alps,Mont-Blanc,2070,40-44,O,2,1,0,0,0,1,hiking,9,2013,3
+2013-04-14,13:10,mont blanc,alps,Mont-Blanc,1970,30-34,S,4,1,0,0,0,0,hiking,13,2013,4
+2013-08-13,03:50,mont blanc,alps,Mont-Blanc,4300,40-44,N,6,3,2,2,0,1,alpinisme,3,2013,8
+2016-02-13,14:15,ballon des vosges,other,other,0,,,8,1,0,0,0,0,hiking,14,2016,2
+2013-11-11,16:55,mont blanc,alps,Mont-Blanc,2300,30-34,SE,1,1,0,0,0,1,hiking,16,2013,11
+2014-01-05,17:30,mont blanc,alps,Mont-Blanc,2175,35-39,NO,2,1,0,0,0,1,hiking,17,2014,1
+2014-02-25,12:30,mont blanc,alps,Mont-Blanc,3040,>45,NE,2,1,1,0,1,0,hiking,12,2014,2
+2014-03-02,15:30,mont blanc,alps,Mont-Blanc,2880,35-39,SO,3,1,1,0,1,0,hiking,15,2014,3
+2014-12-24,,mont blanc,alps,Mont-Blanc,3400,35-39,O,2,2,0,0,0,2,hiking,0,2014,12
+2015-01-21,12:00,mont blanc,alps,Mont-Blanc,2450,40-44,NE,7,1,1,1,0,0,"off-piste (ski, snowboard)",12,2015,1
+2015-01-31,12:30,mont blanc,alps,Mont-Blanc,2190,30-34,NO,3,1,1,1,0,0,"off-piste (ski, snowboard)",12,2015,1
+2015-04-18,10:45,mont blanc,alps,Mont-Blanc,3230,40-44,NE,2,1,0,0,0,1,other,10,2015,4
+2016-03-03,13:45,ballon d'alsace,other,other,1225,>45,E,2,1,0,0,0,1,hiking,13,2016,3
+2015-08-25,08:40,mont blanc,alps,Mont-Blanc,0,,,3,2,0,0,0,0,alpinisme,8,2015,8
+2016-01-03,12:45,mont blanc,alps,Mont-Blanc,3390,30-34,N,3,3,1,0,1,1,alpinisme,12,2016,1
+2016-01-11,,mont blanc,alps,Mont-Blanc,0,,,1,1,0,0,0,0,other,0,2016,1
+2016-03-08,,haute bigorre,pyrenees,hte-bigo,0,,NO,5,2,1,1,0,1,hiking,0,2016,3
+2016-02-12,,mont blanc,alps,Mont-Blanc,0,,NO,2,2,0,0,0,0,hiking,0,2016,2
+2016-02-27,10:15,mont blanc,alps,Mont-Blanc,2100,30-34,SO,1,1,1,1,0,0,hiking,10,2016,2
+2016-03-20,11:00,capcir puymorens,pyrenees,capcir,0,,,4,4,0,0,0,0,hiking,11,2016,3
+2016-03-22,17:35,haute bigorre,pyrenees,hte-bigo,1850,>45,O,15,15,0,0,0,3,hiking,17,2016,3
+2016-02-27,18:00,mont blanc,alps,Mont-Blanc,2015,30-34,O,1,1,0,0,0,1,hiking,18,2016,2
+2016-04-17,08:30,haute bigorre,pyrenees,hte-bigo,2360,40-44,NE,3,3,0,0,0,3,alpinisme,8,2016,4
+2016-06-20,11:30,mont blanc,alps,Mont-Blanc,4020,30-34,NO,2,3,1,0,1,2,alpinisme,11,2016,6
+2017-02-12,08:30,mont blanc,alps,Mont-Blanc,2250,35-39,NO,1,1,1,1,0,0,hiking,8,2017,2
+2018-02-13,,mont blanc,alps,Mont-Blanc,0,,,2,2,0,0,0,1,"off-piste (ski, snowboard)",0,2018,2
+2016-05-01,12:00,mont dore,other,other,0,,N,2,1,1,1,0,0,hiking,12,2016,5
+2018-03-04,,mont blanc,alps,Mont-Blanc,0,,,4,2,0,0,0,0,hiking,0,2018,3
+2018-03-04,14:00,mont blanc,alps,Mont-Blanc,2050,35-39,O,3,1,0,0,0,0,"off-piste (ski, snowboard)",14,2018,3
+2018-03-04,16:00,mont blanc,alps,Mont-Blanc,2050,35-39,O,3,1,0,0,0,0,"off-piste (ski, snowboard)",16,2018,3
+2018-04-02,11:00,mont blanc,alps,Mont-Blanc,2680,40-44,S,9,7,0,0,0,0,hiking,11,2018,4
+2018-04-30,11:00,mont blanc,alps,Mont-Blanc,3450,>45,NO,4,1,1,0,1,0,hiking,11,2018,4
+2019-03-10,,mont blanc,alps,Mont-Blanc,0,,,5,5,0,0,0,5,"cross-country (ski, snowboard etc.)",0,2019,3
+2017-01-14,12:17,aspe ossau,pyrenees,aspe-ossau,2300,35-39,N,3,3,2,2,0,1,hiking,12,2017,1
+2019-03-14,,mont blanc,alps,Mont-Blanc,0,,,1,1,0,0,1,0,alpinisme,0,2019,3
+2019-04-21,,mont blanc,alps,Mont-Blanc,0,,,3,3,0,0,0,3,"cross-country (ski, snowboard etc.)",0,2019,4
+2019-05-18,,mont blanc,alps,Mont-Blanc,0,,,1,1,1,1,0,0,"cross-country (ski, snowboard etc.)",0,2019,5
+2019-12-28,,mont blanc,alps,Mont-Blanc,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2019,12
+2020-01-29,,mont blanc,alps,Mont-Blanc,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2020,1
+2020-01-30,,mont blanc,alps,Mont-Blanc,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2020,1
+2020-01-30,,mont blanc,alps,Mont-Blanc,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",0,2020,1
+2020-02-03,,mont blanc,alps,Mont-Blanc,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2020,2
+2020-03-01,,mont blanc,alps,Mont-Blanc,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2020,3
+2020-05-31,,mont blanc,alps,Mont-Blanc,0,,,2,2,0,1,1,0,"cross-country (ski, snowboard etc.)",0,2020,5
+2020-06-20,,mont blanc,alps,Mont-Blanc,0,,,2,2,0,0,1,1,alpinisme,0,2020,6
+2011-01-12,13:30,oisans,alps,Oisans,2800,30-34,SO,4,2,0,0,0,2,"off-piste (ski, snowboard)",13,2011,1
+2011-02-21,14:00,oisans,alps,Oisans,2500,30-34,SO,2,2,0,0,0,2,"off-piste (ski, snowboard)",14,2011,2
+2017-02-12,13:45,hohneck,other,other,1300,>45,N,4,2,0,0,0,0,alpinisme,13,2017,2
+2012-02-06,15:30,oisans,alps,Oisans,2400,30-34,NO,2,1,1,1,0,0,hiking,15,2012,2
+2012-12-14,,oisans,alps,Oisans,0,,,3,3,0,0,0,0,other,0,2012,12
+2013-01-02,,oisans,alps,Oisans,2450,35-39,O,3,1,0,0,0,0,hiking,0,2013,1
+2013-01-30,,oisans,alps,Oisans,2320,>45,SE,2,2,2,0,2,0,alpinisme,0,2013,1
+2013-04-14,09:55,oisans,alps,Oisans,2900,30-34,SE,8,2,0,0,0,0,hiking,9,2013,4
+2014-03-08,14:00,oisans,alps,Oisans,0,,NE,2,1,0,0,0,0,hiking,14,2014,3
+2015-02-22,13:15,oisans,alps,Oisans,1950,30-34,O,4,4,2,1,1,2,hiking,13,2015,2
+2016-01-13,15:45,oisans,alps,Oisans,2690,35-39,NE,11,5,4,3,1,0,"off-piste (ski, snowboard)",15,2016,1
+2016-12-20,20:00,oisans,alps,Oisans,2560,>45,NE,3,3,0,0,0,0,hiking,20,2016,12
+2018-02-13,13:45,oisans,alps,Oisans,3140,35-39,SE,5,1,0,0,0,0,hiking,13,2018,2
+2018-02-14,14:45,oisans,alps,Oisans,2300,30-34,NO,1,1,0,0,0,1,hiking,14,2018,2
+2018-02-17,,oisans,alps,Oisans,0,,,1,1,0,0,0,1,hiking,0,2018,2
+2018-02-18,15:40,oisans,alps,Oisans,2850,,S,1,1,0,0,0,0,"off-piste (ski, snowboard)",15,2018,2
+2018-03-02,17:15,oisans,alps,Oisans,2400,40-44,NO,4,1,1,1,0,0,"off-piste (ski, snowboard)",17,2018,3
+2018-03-02,16:45,oisans,alps,Oisans,2430,35-39,NE,1,1,1,1,0,0,"piste (ski, snowboard)",16,2018,3
+2018-03-23,13:15,oisans,alps,Oisans,2840,40-44,O,2,1,0,0,0,1,"off-piste (ski, snowboard)",13,2018,3
+2018-05-03,12:20,oisans,alps,Oisans,0,,,2,1,0,0,0,0,hiking,12,2018,5
+2018-12-18,,oisans,alps,Oisans,0,,,3,3,0,0,0,3,alpinisme,0,2018,12
+2019-01-29,,oisans,alps,Oisans,0,,,2,2,2,2,0,0,"off-piste (ski, snowboard)",0,2019,1
+2019-03-09,,oisans,alps,Oisans,0,,,3,3,0,0,0,3,alpinisme,0,2019,3
+2019-04-13,,oisans,alps,Oisans,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,4
+2011-04-03,11:30,embrunnais,alps,Pelvoux,2400,,NO,2,1,1,0,1,0,"off-piste (ski, snowboard)",11,2011,4
+2012-12-16,12:25,embrunais parpaillon,alps,Parpaillon,2520,30-34,NO,1,1,1,1,0,0,"off-piste (ski, snowboard)",12,2012,12
+2013-03-05,,embrunais parpaillon,alps,Parpaillon,0,,,5,5,0,0,0,0,alpinisme,0,2013,3
+2017-11-26,,haute bigorre,pyrenees,hte-bigo,0,,N,3,1,0,0,0,0,hiking,0,2017,11
+2013-04-19,10:20,embrunais parpaillon,alps,Parpaillon,2300,,,1,1,0,0,0,0,"piste (ski, snowboard)",10,2013,4
+2016-01-16,12:00,embrunnais-parpaillon,alps,Parpaillon,0,,,2,1,0,0,0,1,hiking,12,2016,1
+2016-02-14,12:30,embrunnais-parpaillon,alps,Parpaillon,0,,,2,1,1,1,0,0,"off-piste (ski, snowboard)",12,2016,2
+2017-03-03,12:30,embrunnais,alps,Pelvoux,0,,,1,1,0,0,0,1,"off-piste (ski, snowboard)",12,2017,3
+2017-03-07,16:00,embrunais parpaillon,alps,Parpaillon,2315,>45,NE,3,2,1,1,0,1,"off-piste (ski, snowboard)",16,2017,3
+2017-03-12,13:55,embrunais parpaillon,alps,Parpaillon,0,,N,3,1,0,0,0,1,"off-piste (ski, snowboard)",13,2017,3
+2017-04-16,09:55,embrunais parpaillon,alps,Parpaillon,2270,40-44,N,2,2,0,0,0,0,hiking,9,2017,4
+2019-11-20,,embrunnais-parpaillon,alps,Parpaillon,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,11
+2017-12-16,,lioran,other,other,1530,35-39,SE,1,1,1,0,1,0,hiking,0,2017,12
+2011-01-08,11:06,pelvoux,alps,Pelvoux,0,,,2,1,1,0,0,1,"off-piste (ski, snowboard)",11,2011,1
+2017-12-30,13:10,capcir puymorens,pyrenees,capcir,2610,40-44,SE,4,4,0,0,0,4,hiking,13,2017,12
+2011-12-10,14:40,pelvoux,alps,Pelvoux,2600,<30,NE,2,1,1,1,0,0,hiking,14,2011,12
+2013-02-06,,pelvoux,alps,Pelvoux,0,,,12,1,0,0,0,1,hiking,0,2013,2
+2013-03-15,13:30,pelvoux,alps,Pelvoux,0,,,3,3,0,0,0,0,hiking,13,2013,3
+2018-01-09,15:00,haute bigorre,pyrenees,hte-bigo,1600,,,2,1,1,1,0,0,hiking,15,2018,1
+2018-01-09,13:30,haute bigorre,pyrenees,hte-bigo,1790,30-34,N,2,1,0,0,0,1,hiking,13,2018,1
+2013-03-25,,pelvoux,alps,Pelvoux,0,,,2,2,0,0,0,0,"off-piste (ski, snowboard)",0,2013,3
+2013-12-26,14:20,pelvoux,alps,Pelvoux,2565,35-39,SO,2,2,0,0,0,1,"off-piste (ski, snowboard)",14,2013,12
+2013-12-27,14:50,pelvoux,alps,Pelvoux,2150,40-44,NE,1,1,1,1,0,0,"off-piste (ski, snowboard)",14,2013,12
+2018-02-01,,ballon d'alsace,other,other,1210,>45,E,1,1,1,0,1,0,hiking,0,2018,2
+2014-01-05,15:00,pelvoux,alps,Pelvoux,0,,,3,1,0,0,0,0,"off-piste (ski, snowboard)",15,2014,1
+2015-01-18,13:00,pelvoux,alps,Pelvoux,2400,,NE,3,3,2,2,0,0,"off-piste (ski, snowboard)",13,2015,1
+2015-01-21,09:55,pelvoux,alps,Pelvoux,2350,35-39,NO,2,2,1,0,1,1,"off-piste (ski, snowboard)",9,2015,1
+2018-02-13,14:45,haute bigorre,pyrenees,hte-bigo,2120,35-39,N,1,1,1,1,0,0,"off-piste (ski, snowboard)",14,2018,2
+2015-02-14,16:00,pelvoux,alps,Pelvoux,2200,>45,NO,1,1,0,0,0,1,"off-piste (ski, snowboard)",16,2015,2
+2015-04-01,14:45,pelvoux,alps,Pelvoux,3420,>45,SE,14,12,6,4,2,2,hiking,14,2015,4
+2018-02-14,14:45,haute bigorre,pyrenees,hte-bigo,2600,>45,SE,3,3,3,3,0,0,"off-piste (ski, snowboard)",14,2018,2
+2015-04-28,,pelvoux,alps,Pelvoux,3000,40-44,N,1,1,0,0,0,0,alpinisme,0,2015,4
+2015-09-15,11:45,pelvoux,alps,Pelvoux,3965,40-44,N,8,8,5,1,4,0,alpinisme,11,2015,9
+2016-04-24,,pelvoux,alps,Pelvoux,0,>45,NO,2,2,0,0,0,0,alpinisme,0,2016,4
+2017-03-04,,pelvoux,alps,Pelvoux,2440,35-39,NE,2,2,0,0,0,1,"off-piste (ski, snowboard)",0,2017,3
+2018-02-02,,pelvoux,alps,Pelvoux,0,,,3,1,0,0,0,0,hiking,0,2018,2
+2018-03-04,14:15,pelvoux,alps,Pelvoux,1990,35-39,SE,2,1,0,0,0,0,hiking,14,2018,3
+2018-02-23,,aure louron,pyrenees,aure_lour,2570,>45,SE,1,1,1,1,0,0,hiking,0,2018,2
+2018-03-12,12:15,pelvoux,alps,Pelvoux,2300,40-44,N,3,1,1,1,0,0,"off-piste (ski, snowboard)",12,2018,3
+2018-03-22,10:35,pelvoux,alps,Pelvoux,2900,30-34,E,2,2,1,1,0,1,hiking,10,2018,3
+2018-05-26,,pelvoux,alps,Pelvoux,0,>45,O,11,2,1,1,0,1,alpinisme,0,2018,5
+2018-11-24,,pelvoux,alps,Pelvoux,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2018,11
+2019-03-01,,pelvoux,alps,Pelvoux,0,,,3,3,0,1,1,1,"cross-country (ski, snowboard etc.)",0,2019,3
+2019-04-27,,pelvoux,alps,Pelvoux,0,,,2,2,0,0,2,0,"cross-country (ski, snowboard etc.)",0,2019,4
+2011-01-30,10:00,queyras,alps,Queyras,2650,35-39,O,8,4,1,1,0,3,hiking,10,2011,1
+2011-03-02,16:40,queyras,alps,Queyras,2005,35-39,NO,3,1,0,0,0,1,"off-piste (ski, snowboard)",16,2011,3
+2011-03-16,14:30,queyras,alps,Queyras,2600,35-39,NO,1,1,1,0,0,1,hiking,14,2011,3
+2018-03-03,12:00,haute bigorre,pyrenees,hte-bigo,0,,,5,3,2,2,0,1,hiking,12,2018,3
+2011-03-18,14:00,queyras,alps,Queyras,2300,30-34,N,2,1,1,1,0,0,hiking,14,2011,3
+2011-03-19,12:05,queyras,alps,Queyras,2530,30-34,N,4,4,3,3,0,1,hiking,12,2011,3
+2011-03-19,15:30,queyras,alps,Queyras,2540,40-44,N,2,1,1,1,0,0,"off-piste (ski, snowboard)",15,2011,3
+2012-03-10,11:25,queyras,alps,Queyras,2770,30-34,NO,6,1,0,0,0,0,hiking,11,2012,3
+2012-03-20,10:00,queyras,alps,Queyras,2800,40-44,N,4,1,0,0,0,0,hiking,10,2012,3
+2012-03-24,11:30,queyras,alps,Queyras,2980,35-39,NO,7,1,0,0,0,0,hiking,11,2012,3
+2012-12-26,15:30,queyras,alps,Queyras,2865,>45,N,1,1,0,0,0,1,"off-piste (ski, snowboard)",15,2012,12
+2013-02-13,14:15,queyras,alps,Queyras,2400,30-34,E,2,1,0,0,0,0,hiking,14,2013,2
+2013-03-09,10:30,queyras,alps,Queyras,2600,,,3,3,1,1,0,1,"off-piste (ski, snowboard)",10,2013,3
+2013-03-22,13:00,queyras,alps,Queyras,0,,,10,2,0,0,0,0,hiking,13,2013,3
+2013-12-23,,queyras,alps,Queyras,2600,,,2,2,0,0,0,0,hiking,0,2013,12
+2014-02-17,,queyras,alps,Queyras,0,,,2,1,0,0,0,1,"off-piste (ski, snowboard)",0,2014,2
+2015-01-24,11:40,queyras,alps,Queyras,2770,35-39,NE,6,6,6,6,0,0,hiking,11,2015,1
+2015-02-08,13:30,queyras,alps,Queyras,2340,30-34,SO,1,1,1,1,0,0,hiking,13,2015,2
+2015-02-09,10:45,queyras,alps,Queyras,2400,30-34,O,3,1,1,1,0,0,hiking,10,2015,2
+2015-02-16,,queyras,alps,Queyras,2550,35-39,NO,2,2,2,2,0,0,hiking,0,2015,2
+2016-02-23,13:00,queyras,alps,Queyras,2520,35-39,NE,20,3,1,1,0,0,hiking,13,2016,2
+2016-12-27,15:10,queyras,alps,Queyras,2570,35-39,NE,5,5,0,0,0,0,hiking,15,2016,12
+2017-01-29,11:40,queyras,alps,Queyras,0,,,2,2,0,0,0,0,hiking,11,2017,1
+2018-03-21,11:40,haute bigorre,pyrenees,hte-bigo,0,,,4,1,0,0,0,0,"off-piste (ski, snowboard)",11,2018,3
+2017-02-11,15:55,queyras,alps,Queyras,2350,40-44,N,3,1,1,1,0,0,"off-piste (ski, snowboard)",15,2017,2
+2017-02-11,11:00,queyras,alps,Queyras,2270,35-39,O,2,1,0,0,0,1,"off-piste (ski, snowboard)",11,2017,2
+2017-03-07,10:05,queyras,alps,Queyras,2430,40-44,N,2,1,1,1,0,0,"off-piste (ski, snowboard)",10,2017,3
+2017-03-12,14:50,queyras,alps,Queyras,2500,35-39,N,13,1,0,0,0,0,hiking,14,2017,3
+2017-05-08,12:00,queyras,alps,Queyras,2950,>45,NE,1,1,0,0,0,0,hiking,12,2017,5
+2018-03-31,15:30,haute bigorre,pyrenees,hte-bigo,1900,35-39,N,3,2,1,0,1,1,alpinisme,15,2018,3
+2017-12-08,15:15,queyras,alps,Queyras,2550,35-39,NO,2,1,0,0,0,0,hiking,15,2017,12
+2019-02-03,,queyras,alps,Queyras,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2019,2
+2019-12-14,,queyras,alps,Queyras,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2019,12
+2020-01-20,,queyras,alps,Queyras,0,,,1,1,0,0,1,0,alpinisme,0,2020,1
+2020-03-03,,queyras,alps,Queyras,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2020,3
+2013-01-20,13:30,thabor,alps,Thabor,0,,,1,1,0,0,0,0,hiking,13,2013,1
+2013-02-03,,thabor,alps,Thabor,0,,,1,1,0,0,0,0,"off-piste (ski, snowboard)",0,2013,2
+2014-01-25,17:00,thabor,alps,Thabor,0,,,6,1,1,1,0,0,hiking,17,2014,1
+2014-03-02,12:00,thabor,alps,Thabor,2560,30-34,NE,7,1,0,0,0,0,hiking,12,2014,3
+2014-12-31,12:50,thabor,alps,Thabor,2750,30-34,E,4,1,1,1,0,0,hiking,12,2014,12
+2015-01-23,12:50,thabor,alps,Thabor,2980,35-39,NE,2,1,1,1,0,0,hiking,12,2015,1
+2015-02-06,,thabor,alps,Thabor,0,,,3,1,0,0,0,0,hiking,0,2015,2
+2017-02-17,12:35,thabor,alps,Thabor,3040,40-44,NE,3,3,0,0,0,3,hiking,12,2017,2
+2018-12-21,,thabor,alps,Thabor,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2018,12
+2019-03-09,,thabor,alps,Thabor,0,,,1,1,0,0,1,0,alpinisme,0,2019,3
+2020-03-03,,thabor,alps,Thabor,0,,,3,3,1,0,0,3,"cross-country (ski, snowboard etc.)",0,2020,3
+2012-02-16,14:45,ubaye,alps,Ubaye,2800,30-34,SO,4,1,0,0,0,0,hiking,14,2012,2
+2013-03-19,15:30,ubaye,alps,Ubaye,2340,35-39,O,3,1,1,1,0,0,"off-piste (ski, snowboard)",15,2013,3
+2014-01-17,14:00,ubaye,alps,Ubaye,0,,,2,1,1,0,1,0,"off-piste (ski, snowboard)",14,2014,1
+2015-02-08,11:20,ubaye,alps,Ubaye,1910,35-39,NO,4,1,0,0,0,1,hiking,11,2015,2
+2016-03-05,16:40,ubaye,alps,Ubaye,1970,40-44,N,2,2,0,0,0,1,"off-piste (ski, snowboard)",16,2016,3
+2017-03-26,14:10,ubaye,alps,Ubaye,2480,40-44,NO,5,4,2,2,0,2,hiking,14,2017,3
+2018-04-06,15:10,ubaye,alps,Ubaye,2890,,,4,1,0,0,0,0,hiking,15,2018,4
+2018-11-24,,ubaye,alps,Ubaye,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2018,11
+2019-02-09,,ubaye,alps,Ubaye,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,2
+2019-02-12,,ubaye,alps,Ubaye,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,2
+2010-12-10,15:00,vanoise,alps,Vanoise,2820,30-34,S,9,4,0,0,1,3,"off-piste (ski, snowboard)",15,2010,12
+2011-03-18,13:00,vanoise,alps,Vanoise,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",13,2011,3
+2011-03-20,14:35,vanoise,alps,Vanoise,0,,,4,1,1,1,0,0,hiking,14,2011,3
+2011-05-16,09:35,vanoise,alps,Vanoise,3434,30-34,E,1,1,0,0,0,1,hiking,9,2011,5
+2012-04-17,19:00,vanoise,alps,Vanoise,2950,40-44,NO,3,1,1,1,0,0,hiking,19,2012,4
+2019-01-26,,capcir puymorens,pyrenees,capcir,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,1
+2019-01-27,,vosges,other,other,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,1
+2012-04-17,19:00,vanoise,alps,Vanoise,2950,40-44,NO,3,1,0,0,0,1,hiking,19,2012,4
+2019-01-29,,luchonnais,pyrenees,luchonnais,0,,,2,2,0,0,2,0,other,0,2019,1
+2012-04-29,13:40,vanoise,alps,Vanoise,0,,O,15,1,0,0,0,0,hiking,13,2012,4
+2012-12-28,,vanoise,alps,Vanoise,0,,,5,1,1,1,0,0,"off-piste (ski, snowboard)",0,2012,12
+2013-02-03,,vanoise,alps,Vanoise,0,,,2,2,0,0,0,0,"off-piste (ski, snowboard)",0,2013,2
+2013-02-08,11:10,vaoise,alps,Vanoise,2350,30-34,NO,3,2,1,1,0,1,"off-piste (ski, snowboard)",11,2013,2
+2013-02-08,,vanoise,alps,Vanoise,0,,,3,3,0,0,0,0,"off-piste (ski, snowboard)",0,2013,2
+2013-02-13,12:55,vanoise,alps,Vanoise,2400,,O,7,5,1,1,0,1,hiking,12,2013,2
+2013-02-26,16:40,vanoise,alps,Vanoise,2100,30-34,NO,1,1,0,0,0,1,hiking,16,2013,2
+2013-03-19,,vanoise,alps,Vanoise,0,,N,1,1,0,0,0,0,"off-piste (ski, snowboard)",0,2013,3
+2013-03-19,15:55,vanoise,alps,Vanoise,1990,40-44,NO,5,1,1,1,0,0,"off-piste (ski, snowboard)",15,2013,3
+2013-03-29,16:15,vanoise,alps,Vanoise,2490,40-44,E,6,1,1,1,0,0,"piste (ski, snowboard)",16,2013,3
+2013-04-01,14:00,vanoise,alps,Vanoise,2900,>45,NO,3,2,0,0,0,0,hiking,14,2013,4
+2013-04-01,,vanoise,alps,Vanoise,2800,,O,3,1,0,0,0,0,"off-piste (ski, snowboard)",0,2013,4
+2013-04-14,,vanoise,alps,Vanoise,3600,30-34,SE,6,6,6,6,0,0,hiking,0,2013,4
+2013-05-02,10:25,vanoise,alps,Vanoise,3530,>45,O,4,3,1,1,0,2,alpinisme,10,2013,5
+2013-10-26,13:30,vanoise,alps,Vanoise,3450,>45,O,2,2,0,0,0,2,alpinisme,13,2013,10
+2013-12-22,11:15,vanoise,alps,Vanoise,2150,35-39,NO,2,2,1,1,0,0,hiking,11,2013,12
+2013-12-26,11:00,vanoise,alps,Vanoise,2245,35-39,N,2,1,1,1,0,0,"off-piste (ski, snowboard)",11,2013,12
+2013-12-27,09:55,vanoise,alps,Vanoise,2540,35-39,E,6,3,1,1,0,1,"off-piste (ski, snowboard)",9,2013,12
+2013-12-27,12:15,vanoise,alps,Vanoise,2100,35-39,NE,2,1,1,1,0,0,"cross-country (ski, snowboard etc.)",12,2013,12
+2013-12-29,16:15,vanoise,alps,Vanoise,2200,40-44,NO,1,1,0,0,0,0,"off-piste (ski, snowboard)",16,2013,12
+2014-01-05,14:05,vanoise,alps,Vanoise,2350,35-39,NO,2,2,1,1,0,1,"off-piste (ski, snowboard)",14,2014,1
+2014-01-07,11:00,vanoise,alps,Vanoise,2830,35-39,NO,4,1,0,0,0,0,"off-piste (ski, snowboard)",11,2014,1
+2014-01-27,16:30,vanoise,alps,Vanoise,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",16,2014,1
+2014-02-09,14:50,vanoise,alps,Vanoise,2400,40-44,NE,4,1,0,0,0,0,hiking,14,2014,2
+2014-03-06,10:40,vanoise,alps,Vanoise,3150,40-44,N,3,1,0,0,0,0,"off-piste (ski, snowboard)",10,2014,3
+2014-03-19,14:50,vanoise,alps,Vanoise,0,,NO,1,1,0,0,0,0,"off-piste (ski, snowboard)",14,2014,3
+2014-12-22,12:35,vanoise,alps,Vanoise,3100,35-39,SE,5,2,1,1,0,1,hiking,12,2014,12
+2014-12-30,15:00,vanoise,alps,Vanoise,2720,40-44,NO,2,1,1,1,0,0,"off-piste (ski, snowboard)",15,2014,12
+2019-03-19,,vosges,other,other,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2019,3
+2015-01-30,16:10,vanoise,alps,Vanoise,2100,,,1,1,0,0,0,0,"off-piste (ski, snowboard)",16,2015,1
+2019-04-14,,cinto,other,other,0,,,1,1,0,0,0,1,hiking,0,2019,4
+2015-01-31,,vanoise,alps,Vanoise,2370,30-34,S,1,1,1,1,0,0,"cross-country (ski, snowboard etc.)",0,2015,1
+2015-01-31,,vanoise,alps,Vanoise,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2015,1
+2015-02-02,15:45,vanoise,alps,Vanoise,2250,,,2,1,1,1,0,0,"off-piste (ski, snowboard)",15,2015,2
+2015-02-03,,vanoise,alps,Vanoise,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2015,2
+2015-02-07,13:03,vanoise,alps,Vanoise,3050,40-44,NO,3,1,1,0,1,0,"off-piste (ski, snowboard)",13,2015,2
+2015-03-03,11:35,vanoise,alps,Vanoise,0,,,4,4,1,1,0,0,"off-piste (ski, snowboard)",11,2015,3
+2015-03-03,12:00,vanoise,alps,Vanoise,0,,SO,4,1,1,1,0,0,"off-piste (ski, snowboard)",12,2015,3
+2015-04-06,13:35,vanoise,alps,Vanoise,2700,,,3,1,0,0,0,0,"off-piste (ski, snowboard)",13,2015,4
+2015-04-06,,vanoise,alps,Vanoise,2730,,,2,1,0,0,0,0,hiking,0,2015,4
+2016-01-09,13:00,vanoise,alps,Vanoise,0,,,1,1,0,0,0,0,"off-piste (ski, snowboard)",13,2016,1
+2016-01-17,16:30,vanoise,alps,Vanoise,0,,,1,1,0,0,0,0,"piste (ski, snowboard)",16,2016,1
+2016-01-20,12:25,vanoise,alps,Vanoise,2650,>45,E,2,1,1,1,0,0,"off-piste (ski, snowboard)",12,2016,1
+2016-01-21,,vanoise,alps,Vanoise,0,,,3,3,0,0,0,0,"off-piste (ski, snowboard)",0,2016,1
+2016-01-25,14:50,vanoise,alps,Vanoise,0,>45,S,3,1,0,0,0,0,hiking,14,2016,1
+2016-01-27,11:38,vanoise,alps,Vanoise,2490,30-34,NE,9,4,0,0,0,1,"off-piste (ski, snowboard)",11,2016,1
+2016-02-06,14:35,vanoise,alps,Vanoise,0,,,3,1,0,0,0,1,"off-piste (ski, snowboard)",14,2016,2
+2016-02-13,12:55,vanoise,alps,Vanoise,2150,40-44,N,1,1,1,0,1,0,"off-piste (ski, snowboard)",12,2016,2
+2019-12-10,,haute ariege,pyrenees,hte-ariege,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,12
+2016-03-15,14:15,vanoise,alps,Vanoise,1700,,,2,2,0,0,0,0,hiking,14,2016,3
+2016-11-20,12:30,vanoise,alps,Vanoise,0,,,4,1,0,0,0,1,"off-piste (ski, snowboard)",12,2016,11
+2017-01-14,13:00,vanoise,alps,Vanoise,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",13,2017,1
+2017-01-19,11:50,vanoise,alps,Vanoise,2430,30-34,O,15,1,1,1,0,0,hiking,11,2017,1
+2017-02-12,14:55,vanoise,alps,Vanoise,1490,,,5,1,0,0,0,0,hiking,14,2017,2
+2017-03-03,14:25,vanoise,alps,Vanoise,2300,,,7,5,0,0,0,0,"off-piste (ski, snowboard)",14,2017,3
+2017-12-09,15:55,vanoise,alps,Vanoise,0,,,2,2,0,0,0,2,other,15,2017,12
+2018-02-05,13:35,vanoise,alps,Vanoise,1890,30-34,SO,4,1,1,1,0,0,other,13,2018,2
+2018-03-01,09:05,vanoise,alps,Vanoise,1890,30-34,SO,2,1,0,0,0,0,other,9,2018,3
+2018-03-31,11:45,vanoise,alps,Vanoise,2450,,,1,1,0,0,0,0,"off-piste (ski, snowboard)",11,2018,3
+2018-12-11,,vanoise,alps,Vanoise,0,,,3,3,0,0,0,3,"off-piste (ski, snowboard)",0,2018,12
+2018-12-25,,vanoise,alps,Vanoise,0,,,2,2,0,0,0,2,"off-piste (ski, snowboard)",0,2018,12
+2018-12-26,,vanoise,alps,Vanoise,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2018,12
+2020-01-28,,haute bigorre,pyrenees,hte-bigo,0,,,1,1,0,0,0,1,"cross-country (ski, snowboard etc.)",0,2020,1
+2019-01-30,,vanoise,alps,Vanoise,0,,,1,1,1,1,0,0,other,0,2019,1
+2019-02-04,,vanoise,alps,Vanoise,0,,,1,1,0,0,1,0,"off-piste (ski, snowboard)",0,2019,2
+2019-02-06,,vanoise,alps,Vanoise,0,,,2,2,0,0,0,2,"off-piste (ski, snowboard)",0,2019,2
+2019-03-07,,vanoise,alps,Vanoise,0,,,1,1,1,1,0,0,"off-piste (ski, snowboard)",0,2019,3
+2019-03-12,,vanoise,alps,Vanoise,0,,,1,1,1,0,1,0,"cross-country (ski, snowboard etc.)",0,2019,3
+2019-04-29,,vanoise,alps,Vanoise,0,,,1,1,0,0,1,0,"off-piste (ski, snowboard)",0,2019,4
+2019-12-10,,vanoise,alps,Vanoise,0,,,1,1,1,0,0,1,"piste (ski, snowboard)",0,2019,12
+2019-12-25,,vanoise,alps,Vanoise,0,,,1,1,0,0,1,0,other,0,2019,12
+2020-01-30,,vanoise,alps,Vanoise,0,,,1,1,1,0,1,0,"off-piste (ski, snowboard)",0,2020,1
+2020-01-30,,vanoise,alps,Vanoise,0,,,1,1,0,0,1,0,"off-piste (ski, snowboard)",0,2020,1
+2020-01-31,,vanoise,alps,Vanoise,0,,,2,2,0,0,0,2,"off-piste (ski, snowboard)",0,2020,1
+2020-02-05,,vanoise,alps,Vanoise,0,,,1,1,0,0,1,0,"off-piste (ski, snowboard)",0,2020,2
+2020-02-28,,vanoise,alps,Vanoise,0,,,1,1,0,0,1,0,"off-piste (ski, snowboard)",0,2020,2
+2020-03-06,,vanoise,alps,Vanoise,0,,,3,3,1,1,0,2,"off-piste (ski, snowboard)",0,2020,3
+2020-03-11,,vanoise,alps,Vanoise,0,,,5,5,3,0,0,5,"off-piste (ski, snowboard)",0,2020,3
+2010-12-03,16:00,vercors,alps,Vercors,1000,30-34,O,1,1,0,0,1,0,hiking,16,2010,12
+2011-02-28,,vercors,alps,Vercors,1850,30-34,N,4,3,3,1,2,0,"off-piste (ski, snowboard)",0,2011,2
+2012-02-05,12:55,vercors,alps,Vercors,1680,30-34,S,3,2,1,1,0,1,hiking,12,2012,2
+2012-12-09,,vercors diois,alps,Vercors,1270,40-44,S,1,1,0,0,0,0,hiking,0,2012,12
+2015-01-23,12:30,vercors,alps,Vercors,0,35-39,NO,4,1,0,0,0,0,hiking,12,2015,1
+2015-01-28,12:20,vercors,alps,Vercors,1870,35-39,SO,18,3,1,1,0,2,hiking,12,2015,1
+2020-03-15,,haute bigorre,pyrenees,hte-bigo,0,,,4,4,2,2,0,2,"cross-country (ski, snowboard etc.)",0,2020,3
+2015-02-08,11:30,vercors,alps,Vercors,1830,40-44,SO,3,1,0,0,0,0,hiking,11,2015,2
+2018-12-18,,vercors,alps,Vercors,0,,,1,1,0,0,1,0,"cross-country (ski, snowboard etc.)",0,2018,12
