@@ -1,0 +1,580 @@
+code accident,date,heure,département,commune,massif,region,massif_unique,site,"coordonnées
+ zone départ",altitude,inclinaison,orientation,groupe,emportés,"ensevelis 
+ tête",décédés,blessées,indemnes,activité,activite_regrouped,évolution,BRA,"qualité 
+ neige","cohésion
+ neige","type 
+ départ",cause départ,"dénivelé
+ (mètres)","largeur 
+ cassure
+ (mètres)","épaisseur
+ cassure max. 
+ (cm)"
+1011-05-09,2011-03-19,15:30,5,molines,queyras,alps,Queyras,rif ousselat,32t 0333526 4953556,2540,40-44,N,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,450,800,70
+1415-73-04,2015-01-05,13:05,73,sainte foy tarentaise,haute tarentaise,alps,Hte-tarent,face nord fogliettaz,"45°34'55.9"" / 6°56'17.66""",2820,40-44,N,6,5,0,0,0,3,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,330,800,100
+1718-73-12,2018-02-18,12:35,73,val d'isere,haute tarentaise,alps,Hte-tarent,piste rouge combe du géant / pisaillas,"45°25'48"" / 7°02'47""",3050,>45,S,7,3,2,2,0,0,hors-piste,"off-piste (ski, snowboard)",,3,humide,tendre,linéaire,naturelle,200,500,80
+1011-05-08,2011-03-19,12:05,5,ceillac,queyras,alps,Queyras,vallon beaubarnon,32t 0328612 4945259,2530,30-34,N,4,4,3,3,0,1,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,150,500,60
+1718-73-06,2018-01-03,16:00,73,bonneval sur arc,haute tarentaise,alps,Hte-tarent,lécharenne pont de la lama,"45°23'6"" / 7°4'24""",2500,35-39,SE,1,1,1,1,0,0,habitation,other,,4,sèche,,linéaire,naturelle,600,450,
+1617-05-12,2017-03-12,14:50,5,cervières,queyras,alps,Queyras,face N arpelin,"44°49'38"" / 6°44'20""",2500,35-39,N,13,1,0,0,0,0,randonnée,hiking,,2,humide,tendre,linéaire,accidentelle soi-même,200,450,
+1617-38-01,2016-12-20,20:00,38,saint christophe en oisans,oisans,alps,Oisans,refuge pilatte,"44°52'14.33"" / 6°19'52.73""",2560,>45,NE,3,3,0,0,0,0,randonnée,hiking,montée,2,sèche,tendre,linéaire,accidentelle soi-même,160,450,
+1213-73-24,2013-04-14,,73,aussois,vanoise,alps,Vanoise,chaise aux papes / dent parrachée,6°45'13.8'' / 45°17'18.2'',3600,30-34,SE,,6,6,6,0,0,randonnée,hiking,montée,3,sèche,dure,linéaire,accidentelle tiers,400,400,
+1112-04-01,2012-02-16,14:45,4,saint paul s/ ubaye,ubaye,alps,Ubaye,col girardin crête observatoire,"44°36'27.4"" 6°49'42.9""",2800,30-34,SO,4,1,0,0,0,0,randonnée,hiking,montée,3,sèche,dure,linéaire,accidentelle soi-même,300,400,40
+1415-73-03,2014-12-30,15:00,73,les allues,vanoise,alps,Vanoise,lac de la chambre,"45°19'02.85"" // 6°35'25.17""",2720,40-44,NO,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,170,400,40
+1213-73-25,2013-05-02,10:25,73,pralognan,vanoise,alps,Vanoise,grands couloirs grande casse,45°24'16''/6°49'01.2'' /// 45°24'05.8''/6°49'02.6'',3530,>45,O,4,3,1,1,0,2,alpinisme,alpinisme,montée,,humide,dure,linéaire,accidentelle soi-même,500,350,50
+1011-74-11,2011-03-20,12:05,74,magland,aravis,alps,Aravis,face nord pointe d'Areu,32t 0312804 5094955,2430,35-39,NO,3,1,1,1,0,0,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,500,350,40
+1011-09-01,2011-02-18,,9,ustou,couserans,pyrenees,couseran,etang de la lacarde,"42°44'30.5"" 1°16'22.4""",2000,30-34,N,2,1,1,0,0,1,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,80,350,40
+1415-74-01,2014-12-24,,74,les contamines montjoie,mont blanc,alps,Mont-Blanc,glacier armancette,"45°48'24.2""/6°47'01.4""",3400,35-39,O,2,2,0,0,0,2,randonnée,hiking,descente,2,sèche,dure,linéaire,accidentelle soi-même,1800,300,30
+1617-05-10,2017-03-07,10:05,5,abriès,queyras,alps,Queyras,crête de gilly / grande combe,"44°47'57.8 / 6°57'28.6""",2430,40-44,N,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,accidentelle soi-même,450,300,150
+1213-05-02,2012-12-16,12:25,5,risoul,embrunais parpaillon,alps,Parpaillon,crete de razis,44.597714 / 6.648739,2520,30-34,NO,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,4,sèche,tendre,linéaire,accidentelle soi-même,140,300,190
+1718-05-07,2018-03-04,14:15,5,pelvoux,pelvoux,alps,Pelvoux,la blanche / les essanyères,"44°51'18"" / 6°27'49""",1990,35-39,SE,2,1,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,300,40
+1314-68-01,2014-01-26,,68,stosswihr,vosges,other,other,grand couloir dagobert,"7°00'476"" / 48°02'271""",1300,>45,N,2,2,0,0,0,0,alpinisme,alpinisme,,,sèche,,linéaire,accidentelle soi-même,260,260,
+1415-73-21,2015-01-23,12:50,73,valloire,thabor,alps,Thabor,pointe des cerces face nord,"45°4'4.2"" //6°29'2.95""",2980,35-39,NE,2,1,1,1,0,0,randonnée,hiking,montée,3,sèche,dure,linéaire,accidentelle soi-même,530,250,100
+1415-73-12,2015-02-02,16:55,73,la bathie,beaufortain,alps,Beaufortin,pionte de la grande combe,"45°39'3.83"" // 6°31'23.53""",2150,30-34,NO,2,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,300,250,100
+1415-05-12,2015-09-15,11:45,5,pelvoux,pelvoux,alps,Pelvoux,dome de neige des Ecrins,"44°55'23.2"" / 6°21'30.7""",3965,40-44,N,8,8,5,1,4,0,alpinisme,alpinisme,traversée,,humide,dure,linéaire,accidentelle soi-même,220,250,200
+1516-73-08,2016-01-18,13:05,73,modane,haute maurienne,alps,Hte-maurie,col du petit argentier,"45°8'8.47"" / 6°38'53.22""",2600,>45,E,52,18,11,8,3,7,randonnée,hiking,,3,sèche,,linéaire,accidentelle soi-même,260,220,180
+1718-65-05,2018-02-14,14:45,65,cauterets,haute bigorre,pyrenees,hte-bigo,piste asphodele / pic de Monné,"42°53'30' / 0°10'14""",2600,>45,SE,3,3,3,3,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,humide,dure,linéaire,naturelle,800,200,
+1415-05-04,2015-01-24,11:40,5,ceillac,queyras,alps,Queyras,combe du bachas,"44°38'16.8"" / 6°45'59.7""",2770,35-39,NE,6,6,6,6,0,0,randonnée,hiking,descente,3,sèche,dure,linéaire,accidentelle soi-même,450,200,80
+1415-05-10,2015-04-01,14:45,5,pelvoux,pelvoux,alps,Pelvoux,col emile pic,"44°57'16.8"" / 6°23'12.3""",3420,>45,SE,14,12,6,4,2,2,randonnée,hiking,arrêt,,sèche,dure,linéaire,accidentelle soi-même,360,200,350
+1314-73-26,2014-05-04,11:00,73,bessans,haute maurienne,alps,Hte-maurie,selle de l'albaron,"45°19'44.24""/7°06'24.85""",3430,40-44,SO,3,1,1,1,0,0,randonnée,hiking,,,sèche,tendre,linéaire,accidentelle soi-même,310,200,100
+1213-73-03,2012-12-21,12:05,73,val isere,haute tarentaise,alps,Hte-tarent,pointe du grand vallon creux de l'ouille,,2755,30-34,N,3,3,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,300,200,300
+1011-73-11,2011-03-05,14:30,73,bessans,haute maurienne,alps,Hte-maurie,andagne,,3000,,NO,3,2,1,0,1,1,hors-piste,"off-piste (ski, snowboard)",,4,sèche,tendre,linéaire,accidentelle soi-même,300,200,180
+1213-05-16,2013-04-13,13:00,5,orcieres,champsaur,alps,Champsaur,mourre froid,44°38'39'' / 6°23'38'',2750,30-34,N,2,2,1,1,0,1,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,250,200,40
+1718-38-18,2018-03-13,09:20,38,alpe d'huez,grandes rousses,alps,Gdes-rouss,combe 3000 pic blanc,"45°7'29"" / 6°7'39""",3300,35-39,S,2,2,0,0,0,2,minage,other,,,sèche,dure,linéaire,accidentelle soi-même,200,200,40
+1415-38-01,2015-01-28,12:20,38,villards de lans,vercors,alps,Vercors,combe chaulange,45°04.126 / 05°36.163,1870,35-39,SO,18,3,1,1,0,2,randonnée,hiking,montée,2,sèche,dure,linéaire,accidentelle soi-même,170,200,250
+1617-73-11,2017-02-16,11:00,73,lanslevillard,haute maurienne,alps,Hte-maurie,secteur pas de l'arcelle,"45°16'45.38"" / 6°57'09.31""",2450,35-39,NE,9,5,0,0,0,5,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,160,200,70
+1415-73-18,2015-03-31,12:28,73,tignes,haute tarentaise,alps,Hte-tarent,couloir chardonnet,,2550,30-34,NE,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,4,humide,dure,linéaire,accidentelle soi-même,150,200,80
+1011-73-20,2011-05-16,09:35,73,orelle,vanoise,alps,Vanoise,col de gebroulaz,,3434,30-34,E,1,1,0,0,0,1,randonnée,hiking,montée,,sèche,dure,linéaire,accidentelle soi-même,150,200,
+1617-73-06,2017-01-20,14:30,73,sainte foy tarentaise,haute-tarentaise,alps,Hte-tarent,col de l'argentiere archeboc,"45°35'52.77"" / 6°57'33.75""",2150,35-39,NO,3,1,1,1,0,0,randonnée,hiking,,2,sèche,dure,linéaire,accidentelle soi-même,130,200,50
+1718-05-04,2018-02-18,12:00,5,orcières,champsaur,alps,Champsaur,pic de barle,"44°38'4"" / 6°19'22""",2610,35-39,NO,1,1,1,0,1,0,randonnée,hiking,montée,,sèche,tendre,linéaire,accidentelle soi-même,120,200,
+1516-73-10,2016-01-21,,73,champagny en vanoise,vanoise,alps,Vanoise,combe des arriérés,,,,,3,3,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,tendre,linéaire,accidentelle soi-même,,200,
+1718-74-04,2018-03-04,11:15,74,samoens,chablais,alps,Chablais,bostan,,,,NO,2,2,2,2,0,0,randonnée,hiking,traversée,3,sèche,,linéaire,accidentelle soi-même,,200,
+1112-73-06,2012-04-17,19:00,73,saint martin de belleville,vanoise,alps,Vanoise,mont du borgne,32T 0312336 5019279,2950,40-44,NO,3,1,1,1,0,0,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,200,180,100
+1516-73-09,2016-01-20,12:25,73,les allues,vanoise,alps,Vanoise,crête roc des trois/mont de la chambre versant est,"45°19'58"" / 6°34'21""",2650,>45,E,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,130,180,200
+1314-73-18,2014-02-12,14:50,73,la léchère,beaufortin,alps,Beaufortin,pointe du dzonfié,45°34.960 / 6°34.326,2340,30-34,SO,2,1,1,1,0,0,randonnée,hiking,descente,3,sèche,dure,linéaire,accidentelle soi-même,170,160,120
+1213-74-05,2013-02-08,10:55,74,chamonix,mont blanc,alps,Mont-Blanc,brévent nant pcheu,N45°55'48.2 // E06°50'14.0,2280,35-39,SE,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,2,sèche,dure,linéaire,accidentelle soi-même,1000,150,80
+1011-73-01,2010-11-01,09:00,73,Bessans,Haute Maurienne,alps,Hte-maurie,couloir Roche MIchel,,3100,35-39,N,3,3,3,3,0,0,alpinisme,alpinisme,,,sèche,tendre,linéaire,accidentelle soi-même,700,150,50
+1213-04-01,2013-03-19,15:30,4,montclar,ubaye,alps,Ubaye,face ouest dormillouse,"44°24'23.6"" / 6°22'56.9""",2340,35-39,O,3,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,humide,tendre,linéaire,accidentelle soi-même,450,150,
+1516-74-04,2016-01-30,09:57,74,la clusaz,aravis,alps,Aravis,combe du grand crêt / tête pelouse,"45°54'34.9"" / 6°30'36.9""",2500,40-44,NO,2,1,1,1,0,0,randonnée,hiking,descente,2,sèche,dure,linéaire,accidentelle soi-même,440,150,150
+1112-65-03,2012-02-19,,65,bagnère de bigorre,haute bigorre,pyrenees,hte-bigo,la blanche,,,,,2,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,2,sèche,,linéaire,accidentelle soi-même,400,150,100
+1617-74-02,2017-02-12,08:30,74,praz sur arly,mont blanc,alps,Mont-Blanc,secteur Véry,32t 316209/5074550,2250,35-39,NO,1,1,1,1,0,0,randonnée,hiking,descente,2,sèche,dure,linéaire,accidentelle soi-même,375,150,150
+1011-05-03,2011-02-19,13:10,5,orcières,champsaur,alps,Champsaur,col de la montagne haute / mourre froid,,2800,35-39,N,6,3,1,0,1,2,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,200,150,80
+1516-73-16,2016-02-15,16:25,73,bonneval sur arc,haute maurienne,alps,Hte-maurie,pointe d'andagne,"45°20'55.78"" / 7°3'31.19""",3000,40-44,O,4,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,125,150,100
+1213-73-15,2013-03-06,11:00,73,modane,maurienne,alps,Maurienne,vallée perdue valfréjus,45°09'26.9'' / 6°39'25.5'',2200,30-34,NO,2,2,0,0,0,2,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,70,150,100
+1112-31-01,2012-02-18,,31,bagnères de luchon,luchonnais,pyrenees,luchonnais,pic d'aubas,"42°44'47.66"" 0°39'42.89""",2030,30-34,NO,5,5,0,0,0,0,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,,150,100
+1314-73-21,2014-04-15,13:15,73,val isere,haute tarentaise,alps,Hte-tarent,ruisseau du pisset,45°24.244 / 6°57.450,2375,35-39,NO,7,2,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,2,sèche,dure,linéaire,accidentelle soi-même,250,125,100
+1011-73-12,2011-03-18,12:00,73,val isère,haute tarentaise,alps,Hte-tarent,envers de cugnaï,,2850,35-39,NO,6,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,580,120,90
+1314-05-02,2013-12-26,14:20,5,monetier,pelvoux,alps,Pelvoux,cucumelle,44°56'046 / 6°30'350,2565,35-39,SO,2,2,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",traversée,4,sèche,dure,linéaire,accidentelle soi-même,350,120,60
+1617-73-13,2017-03-07,09:45,73,tignes,haute tarentaise,alps,Hte-tarent,grande balme piste Carline,"45°26'43.09"" / 6°53'8.77""",2650,40-44,N,33,33,6,1,5,14,piste,"piste (ski, snowboard)",,4,sèche,tendre,linéaire,naturelle,350,120,200
+1314-73-12,2014-01-10,12:00,73,bonneval,haute maurienne,alps,Hte-maurie,ouille mouta,"45°21'48.02"" / 7°4'51.46""",2635,40-44,NO,2,1,1,1,0,0,randonnée,hiking,,2,sèche,,linéaire,accidentelle soi-même,300,120,80
+1314-38-01,2014-01-26,14:40,38,auris,grandes rousses,alps,Gdes-rouss,combe des girauds,45°03.926 / 6°05.497,2000,30-34,S,2,2,2,2,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle soi-même,250,120,60
+1415-05-06,2015-02-08,13:30,5,molines en queyras,queyras,alps,Queyras,route col agnel,"44°41'53.0"" / 6°56'55.8""",2340,30-34,SO,1,1,1,1,0,0,randonnée,hiking,traversée,4,sèche,tendre,linéaire,accidentelle soi-même,50,120,120
+1617-73-14,2017-03-07,16:00,73,modane,haute maurienne,alps,Hte-maurie,couloir du seuil,"45°9'50.05"" // 6°39'57.24""",2251,35-39,NE,3,3,2,2,0,1,hors-piste,"off-piste (ski, snowboard)",,4,sèche,tendre,linéaire,accidentelle soi-même,475,115,200
+1314-74-03,2013-12-27,10:45,74,la clusaz,aravis,alps,Aravis,combe de torchere,"45°53'25"" / 6°29'15""",2375,30-34,NO,3,2,2,2,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,accidentelle soi-même,125,115,100
+1112-74-02,2012-01-29,15:55,74,chamonix,mont blanc,alps,Mont-Blanc,couloir cosmique/la para,45°53'37'' 06°51'51'',2300,,NO,4,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,2,humide,dure,linéaire,accidentelle soi-même,1000,100,30
+1415-05-11,2015-04-28,,5,le monetier les bains,pelvoux,alps,Pelvoux,couloir davin,,3000,40-44,N,1,1,0,0,0,0,alpinisme,alpinisme,montée,,sèche,,linéaire,,800,100,
+1213-05-03,2012-12-26,15:30,5,molines en queyras,queyras,alps,Queyras,chateau renard couloir NE,,2865,>45,N,1,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle soi-même,620,100,60
+1314-73-25,2014-05-04,11:15,73,bessans,haute maurienne,alps,Hte-maurie,face ouest pointe charbonnel,"45°16'48.26"" // 7°3'4.39",3600,>45,O,1,1,0,0,0,0,alpinisme,alpinisme,,,humide,,linéaire,accidentelle soi-même,500,100,50
+1617-64-01,2017-01-14,12:17,64,laruns,aspe ossau,pyrenees,aspe-ossau,crete de gabarderes,"42°51'5"" / 0°22'6""",2300,35-39,N,3,3,2,2,0,1,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,450,100,
+1617-05-13,2017-04-16,09:55,5,crots,embrunais parpaillon,alps,Parpaillon,gros ferrant,"44°28'06.98"" / 6°27'31.63",2270,40-44,N,2,2,0,0,0,0,randonnée,hiking,descente,2,humide,dure,linéaire,accidentelle soi-même,420,100,
+1516-38-01,2016-01-13,15:45,38,mont de lans,oisans,alps,Oisans,piste noire de Bellecombe / montagne de Rachas,"44°59'41.59"" / 6°9'28.08""",2690,35-39,NE,11,5,4,3,1,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle tiers,370,100,200
+1213-73-16,2013-03-06,11:30,73,tignes,haute tarentaise,alps,Hte-tarent,couloir bois de la laye,45°28'13.4' / 6°55'35.5'',2200,35-39,N,2,2,2,1,1,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle soi-même,360,100,80
+1617-74-01,2017-02-12,13:15,74,la clusaz,aravis,alps,Aravis,combe du rocher jaune face N pointe merdassier,32T0302123 / 5082122,1970,35-39,N,4,2,1,1,0,0,randonnée,hiking,descente,2,sèche,tendre,linéaire,accidentelle tiers,320,100,
+1314-73-01,2013-10-13,12:10,73,tignes,haute tarentaise,alps,Hte-tarent,pointe de la grande motte,,3665,35-39,NE,5,2,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,,sèche,dure,linéaire,accidentelle soi-même,300,100,60
+1718-73-13,2018-02-24,,73,beaufort,beaufortain,alps,Beaufortin,lac d'amour / pierra menta,,,,NO,3,3,0,0,0,0,randonnée,hiking,montée,,,,linéaire,accidentelle soi-même,250,100,60
+1213-73-10,2013-02-13,12:55,73,cote d'aime,vanoise,alps,Vanoise,combe benite,,2400,,O,7,5,1,1,0,1,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,200,100,130
+1718-73-04,2017-12-30,16:00,73,val d'isere,haute tarentaise,alps,Hte-tarent,face ouest pelaou blanc,"45°23'52"" / 6°59'56""",2740,35-39,SO,4,2,2,1,1,0,randonnée,hiking,,,sèche,tendre,linéaire,accidentelle soi-même,200,100,40
+1314-73-02,2013-10-26,13:30,73,pralognan,vanoise,alps,Vanoise,passage de rosoire,"45°18'05.6"" / 6°43'58.4""",3450,>45,O,2,2,0,0,0,2,alpinisme,alpinisme,montée,,sèche,dure,linéaire,accidentelle soi-même,150,100,80
+1718-66-01,2017-12-30,13:10,66,porta,capcir puymorens,pyrenees,capcir,pic dels pedrons,"42°31'55"" / 1°45'11""",2610,40-44,SE,4,4,0,0,0,4,randonnée,hiking,descente,4,sèche,dure,linéaire,accidentelle soi-même,130,100,120
+1718-73-16,2018-03-03,16:30,73,beaufort,beaufortain,alps,Beaufortin,plan des planes,,1550,35-39,NE,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,humide,tendre,linéaire,accidentelle soi-même,100,100,30
+1415-06-01,2014-12-07,10:45,6,isola,mercantour,alps,Mercantour,cime lombarde,"44°12'15"" / 7°09'37""",2600,35-39,SO,4,4,0,0,0,0,randonnée,hiking,montée,,sèche,tendre,linéaire,accidentelle soi-même,100,100,20
+1415-05-01,2014-12-31,12:50,5,le monetier les bains,thabor,alps,Thabor,secteur col du galibier,"45°3'35.3"" / 6°23'56.4""",2750,30-34,E,4,1,1,1,0,0,randonnée,hiking,traversée,3,sèche,dure,linéaire,accidentelle soi-même,100,100,70
+1213-06-01,2013-04-15,13:25,6,st etienne tinee,mercantour,alps,Mercantour,secteur dome station auron,"44°12'50"" / 6°54'25""",2150,30-34,E,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,4,humide,tendre,linéaire,,100,100,70
+1213-74-02,2012-12-06,12:45,74,serraval,aravis,alps,Aravis,sulens,32t 0295672 5078087,1710,40-44,O,2,2,1,1,0,1,randonnée,hiking,traversée,,sèche,tendre,linéaire,accidentelle soi-même,50,100,40
+1011-73-08,2011-02-26,11:30,73,montricher albanne,maurienne,alps,Maurienne,col du pertuite grande chible,"45°10'42.9"" 6°23'09.6""",2500,30-34,NE,2,1,0,0,0,1,randonnée,hiking,,2,sèche,dure,linéaire,accidentelle soi-même,50,100,70
+1314-38-02,2014-01-27,12:40,38,chamrousse,belledonne,alps,Belledone,piste lacs roberts,45°07.682 / 5°54.499,2170,30-34,SE,4,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",arrêt,3,sèche,dure,linéaire,accidentelle tiers,50,100,100
+1415-73-16,2015-03-03,12:00,73,orelle,vanoise,alps,Vanoise,face ouest col rénod,,,,SO,4,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,,100,
+1213-74-10,2013-04-01,13:30,74,contamines,beaufortain,alps,Beaufortin,col des chasseurs,,2400,35-39,N,3,2,0,0,0,2,randonnée,hiking,descente,,sèche,tendre,linéaire,accidentelle soi-même,,100,30
+1011-05-01,2011-01-08,11:06,5,monetier les bains,pelvoux,alps,Pelvoux,cibouit,,,,,2,1,1,0,0,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,,100,50
+1213-38-01,2012-12-13,12:45,38,saint christophe sur guiers,chartreuse,alps,Chartreuse,col de léchaud,5°48'38.2'' // 45°23'20.3'',1680,30-34,NO,2,2,2,2,0,0,randonnée,hiking,,,sèche,dure,linéaire,accidentelle soi-même,100,90,
+1617-04-01,2017-03-26,14:10,4,saint paul sur ubaye,ubaye,alps,Ubaye,col mirandol vallon grand,44°30'15.4 / 6°47'58.2,2480,40-44,NO,5,4,2,2,0,2,randonnée,hiking,descente,4,sèche,tendre,linéaire,accidentelle soi-même,50,90,45
+1011-05-07,2011-03-18,14:00,5,ceillac,queyras,alps,Queyras,ravin clausis,"44°38'32.9"" 6°51'40.9""",2300,30-34,N,2,1,1,1,0,0,randonnée,hiking,,4,sèche,dure,linéaire,accidentelle soi-même,50,90,50
+1718-73-20,2018-03-25,16:25,73,modane,haute maurienne,alps,Hte-maurie,belle plinier nord ouest,"45°9'36"" / 6°41'39""",2550,35-39,NO,3,2,2,2,0,0,randonnée,hiking,,2,sèche,,linéaire,accidentelle soi-même,600,80,
+1718-74-12,2018-04-02,11:00,74,chamonix,mont blanc,alps,Mont-Blanc,pointe alphonse favre,"45°59'18"" / 6°51'42""",2680,40-44,S,9,7,0,0,0,0,randonnée,hiking,montée,3,sèche,tendre,linéaire,accidentelle soi-même,580,80,40
+1011-73-16,2011-03-21,12:54,73,ste foy tarentaise,haute tarentaise,alps,Hte-tarent,pointe de l'argentière,,2750,35-39,NO,10,2,2,0,1,1,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,400,80,60
+1415-38-04,2015-02-22,13:15,38,saint honoré,oisans,alps,Oisans,combe de la mouche,"44°47'570"" / 5°50'175""",1950,30-34,O,4,4,2,1,1,2,randonnée,hiking,montée,3,humide,dure,linéaire,accidentelle soi-même,300,80,20
+1011-74-05,2010-12-22,11:00,74,contamines,mont blanc,alps,Mont-Blanc,chalet balme,"45°44'57.6"" 6°42'33.3""",2050,35-39,SO,9,1,1,0,1,0,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,250,80,50
+1011-73-04,2010-12-10,15:00,73,orelle,vanoise,alps,Vanoise,hors-piste sous cime caron,"45°15'7.9"" 6°33'32.7""",2820,30-34,S,9,4,0,0,1,3,hors-piste,"off-piste (ski, snowboard)",traversée,,sèche,tendre,linéaire,accidentelle soi-même,200,80,80
+1314-73-03,2013-12-22,11:15,73,pralognan,vanoise,alps,Vanoise,"entre chalet ritort et rosoire, lit du ruisseau du ritort","45°18'661""/6°41'137""",2150,35-39,NO,2,2,1,1,0,0,randonnée,hiking,descente,1,sèche,,linéaire,accidentelle soi-même,150,80,50
+1213-73-01,2012-12-05,11:25,73,tignes,haute tarentaise,alps,Hte-tarent,secteur paquerette,,2600,30-34,N,11,2,2,2,0,0,hors-piste,"off-piste (ski, snowboard)",,4,sèche,tendre,linéaire,accidentelle soi-même,150,80,60
+1011-73-23,2011-03-20,10:00,73,tignes,haute tarentaise,alps,Hte-tarent,oreilles de mickey,,2600,,SO,3,2,0,0,2,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,,linéaire,accidentelle tiers,150,80,150
+1516-73-05,2016-01-13,13:54,73,tignes,haute tarentaise,alps,Hte-tarent,pentes du lac de Tignes,"45°27'51"" / 6°54'38",2205,35-39,NO,1,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,4,sèche,tendre,linéaire,accidentelle soi-même,125,80,100
+1718-05-08,2018-03-12,12:15,5,la salle les alpes,pelvoux,alps,Pelvoux,rochers de l'enfer / serre chevalier,"44°54'44.5"" / 6°32'32.4""",2300,40-44,N,3,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,dure,linéaire,accidentelle soi-même,100,80,95
+1112-38-01,2012-02-06,15:30,38,la morte,oisans,alps,Oisans,pas de la mine,4502059 00554024,2400,30-34,NO,2,1,1,1,0,0,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,100,80,30
+1415-38-03,2015-02-08,11:30,38,villard de lans,vercors,alps,Vercors,roc cornafion,"45°4'9.75"" / 5°36'3.33",1830,40-44,SO,3,1,0,0,0,0,randonnée,hiking,descente,,,,linéaire,accidentelle soi-même,90,80,50
+1112-38-04,2012-03-23,12:10,38,sainte agnes,belledonne,alps,Belledone,ferrouillet,"45°12'360"" 5°59'590""",2200,35-39,N,2,1,1,0,1,0,randonnée,hiking,descente,2,sèche,tendre,linéaire,accidentelle soi-même,80,80,80
+1112-05-04,2012-03-24,11:30,5,saint veran,queyras,alps,Queyras,pas de la cula,"44°39'32.6"" 6°54'38.9""",2980,35-39,NO,7,1,0,0,0,0,randonnée,hiking,,2,sèche,dure,linéaire,accidentelle soi-même,50,80,80
+1213-38-07,2013-04-07,11:45,38,allemond,belledonne,alps,Belledone,col de roche noire,5°59'20.9'' // 45°11'09'8'',2600,40-44,E,50,3,0,0,0,3,randonnée,hiking,montée,,humide,dure,linéaire,naturelle sérac/corniche,300,75,400
+1516-74-07,2016-02-27,10:15,74,chamonix,mont blanc,alps,Mont-Blanc,lac du brévent,32T331433 / 5088949,2100,30-34,SO,1,1,1,1,0,0,randonnée,hiking,descente,3,sèche,dure,linéaire,accidentelle soi-même,100,75,
+1011-73-07,2011-01-11,11:03,73,val isère,haute tarentaise,alps,Hte-tarent,pointe du grand vallon,"45°26'38.9"" 7°02'16.6""",2700,35-39,N,7,5,4,4,0,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,700,70,80
+1112-74-03,2012-02-04,12:30,74,thollon les mémises,chablais,alps,Chablais,tete de neuva,32t0325929 5137421,1840,35-39,NO,4,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,300,70,50
+1213-73-02,2012-12-12,12:55,73,tignes,haute tarentaise,alps,Hte-tarent,pente barthelemy aiguille percee,,2750,35-39,NO,7,4,2,1,1,0,hors-piste,"off-piste (ski, snowboard)",,4,sèche,dure,linéaire,accidentelle soi-même,250,70,100
+1415-05-09,2015-02-16,,5,cervières,queyras,alps,Queyras,col perdu,"44°49'17.2"" / 6°44'30.4""",2550,35-39,NO,2,2,2,2,0,0,randonnée,hiking,descente,3,sèche,dure,linéaire,accidentelle soi-même,200,70,70
+1314-73-22,2014-04-29,11:30,73,modane,haute maurienne,alps,Hte-maurie,couloir sud aiguille peclet,"45°16'51.4"" / 6°37'26.9""",3490,35-39,S,6,4,0,0,0,4,randonnée,hiking,,2,humide,dure,linéaire,accidentelle soi-même,110,70,100
+1516-73-03,2016-01-05,10:24,73,val d'isere,haute tarentaise,alps,Hte-tarent,HP du Cairn / Bellevarde,"45°26'39"" / 6°57'17""",2650,40-44,E,3,3,2,2,0,0,hors-piste,"off-piste (ski, snowboard)",,4,sèche,,linéaire,accidentelle soi-même,80,70,
+1213-73-09,2013-02-08,11:10,73,saint bon tarentaise,vaoise,alps,Vanoise,sous pas du roc merlet,32T 314970 / 5026393,2350,30-34,NO,3,2,1,1,0,1,hors-piste,"off-piste (ski, snowboard)",descente,2,sèche,tendre,linéaire,accidentelle soi-même,40,70,50
+1516-74-11,2016-06-20,11:30,74,chamonix,mont blanc,alps,Mont-Blanc,tacul,32T0335837 / 5080822,4020,30-34,NO,2,3,1,0,1,2,alpinisme,alpinisme,descente,,sèche,tendre,linéaire,accidentelle soi-même,1200,60,80
+1011-05-05,2011-03-02,16:40,5,val des prés,queyras,alps,Queyras,vallon de Vachette / secteur ombilic,,2005,35-39,NO,3,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,500,60,60
+1516-73-07,2016-01-18,15:05,73,tignes,haute tarentaise,alps,Hte-tarent,couloir des gendarmes,,2600,35-39,NE,4,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle soi-même,300,60,50
+1213-05-15,2013-04-13,10:00,5,orcieres,champsaur,alps,Champsaur,mourre froid,"44°38'39.6"" / 6°23'53.3""",2500,30-34,NO,1,1,0,0,0,1,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,200,60,70
+1011-73-09,2011-03-04,15:15,73,val isère,haute tarentaise,alps,Hte-tarent,barriere de quartz,,2400,35-39,NO,2,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,120,60,50
+1516-74-03,2016-01-13,13:35,74,morzine,chablais,alps,Chablais,secteur arare,,2255,40-44,NO,5,1,0,0,0,0,piste,"piste (ski, snowboard)",descente,3,sèche,dure,linéaire,naturelle,110,60,250
+1213-73-17,2013-03-18,13:10,73,montvalezan,haute tarentaise,alps,Hte-tarent,hp des ecudets,45°38'23.0'' / 6°50'41.2'',1880,35-39,SO,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,100,60,50
+1213-73-21,2013-03-29,16:15,73,bourg saint maurice,vanoise,alps,Vanoise,piste rouge grand renard balise n°14,,2490,40-44,E,6,1,1,1,0,0,piste,"piste (ski, snowboard)",traversée,3,sèche,tendre,linéaire,naturelle,50,60,20
+1617-05-06,2017-02-17,12:35,5,montgenèvre,thabor,alps,Thabor,couloir nord est mont chaberton,"44°57'57.8"" / 6°45'2.6""",3040,40-44,NE,3,3,0,0,0,3,randonnée,hiking,descente,3,sèche,,linéaire,,620,50,
+1213-05-13,2013-03-25,13:45,5,orcieres,champsaur,alps,Champsaur,la coupa,44°37'340 / 6°18'089,2600,30-34,N,2,1,1,0,1,0,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,500,50,
+1011-74-02,2010-12-04,13:05,74,la clusaz,aravis,alps,Aravis,combe borderan,"6°28'30"""" 45°53'10''",2350,,NO,3,3,1,0,3,0,randonnée,hiking,montée,,sèche,tendre,linéaire,accidentelle tiers,400,50,100
+1516-73-15,2016-02-13,12:55,73,la perrière,vanoise,alps,Vanoise,les lanches,"45°24'40"" / 6°35""55""",2150,40-44,N,1,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,tendre,linéaire,accidentelle soi-même,380,50,
+1415-04-01,2015-02-08,11:20,4,le vernet,ubaye,alps,Ubaye,sommet grisonniere,32T293313 / 4904154,1910,35-39,NO,4,1,0,0,0,1,randonnée,hiking,traversée,3,sèche,dure,linéaire,accidentelle soi-même,360,50,30
+1617-73-10,2017-02-13,10:35,73,tignes,haute-tarentaise,alps,Hte-tarent,pentes du lavachet,"45°27'54.74"" / 6°55'6.35""",2450,40-44,NO,4,4,4,4,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle soi-même,330,50,100
+1314-73-10,2014-01-07,11:00,73,champagny,vanoise,alps,Vanoise,col des vés,"45°26'42.62"" //6°51'41.38""",2830,35-39,NO,4,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,310,50,100
+1516-73-01,2016-01-05,13:58,73,saint colomban les villards,maurienne,alps,Maurienne,pierre du turc / crête de tête bellard,"45°15'09"" / 6°13'26""",2150,40-44,NO,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,,,linéaire,accidentelle soi-même,290,50,
+1718-73-08,2018-01-09,14:30,73,valmeinier,haute maurienne,alps,Hte-maurie,piste verte lauze balise 30 31,"45°10'38"" / 6°31'14""",2610,>45,O,12,1,1,0,1,0,piste,"piste (ski, snowboard)",,,sèche,,linéaire,naturelle,270,50,30
+1617-73-03,2017-01-14,14:00,73,bonneval sur arc,haute maurienne,alps,Hte-maurie,plan de l'aigle NO Ouille Motta,,2300,40-44,NO,5,2,0,0,0,2,randonnée,hiking,,3,sèche,,linéaire,accidentelle soi-même,240,50,
+1617-05-08,2017-03-04,,5,saint chaffrey,pelvoux,alps,Pelvoux,couloir NE sous prorel,"44°54'26.67"" / 6°34'50.41""",2440,35-39,NE,2,2,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",traversée,3,sèche,,linéaire,accidentelle soi-même,210,50,40
+1516-88-01,2016-03-03,13:45,88,saint maurice sur moselle,ballon d'alsace,other,other,belvedere de birken,"6°50'46"" / 47°49'26""",1225,>45,E,2,1,0,0,0,1,randonnée,hiking,traversée,,humide,,linéaire,accidentelle soi-même,200,50,
+1516-74-06,2016-02-27,18:00,74,saint gervais les bains,mont blanc,alps,Mont-Blanc,mont lachat,32T0328725 / 5081321,2015,30-34,O,1,1,0,0,0,1,randonnée,hiking,montée,3,sèche,tendre,linéaire,accidentelle soi-même,200,50,200
+1011-38-05,2011-02-28,,38,corrençon en vercors,vercors,alps,Vercors,rancs de combevieux,"45°00'18.4"" / 5°32'40.5''",1850,30-34,N,4,3,3,1,2,0,hors-piste,"off-piste (ski, snowboard)",traversée,3,sèche,tendre,linéaire,accidentelle soi-même,150,50,70
+1011-73-06,2010-12-14,12:50,73,tignes,haute tarentaise,alps,Hte-tarent,grande combe / grande sassière,"45°30'22.2"" 6°58'33.6""",3100,35-39,SO,7,1,1,1,0,0,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,150,50,60
+1718-38-04,2018-02-13,13:45,38,saint christophe en oisans,oisans,alps,Oisans,face est brèche du rateau,"44°59'26"" / 6°17'8""",3140,35-39,SE,5,1,0,0,0,0,randonnée,hiking,descente,2,sèche,tendre,linéaire,accidentelle soi-même,120,50,40
+1617-73-05,2017-01-19,11:50,73,saint bon tarentaise,vanoise,alps,Vanoise,col du biol,"45°22'44.52 / 6°41'14.04""",2430,30-34,O,15,1,1,1,0,0,randonnée,hiking,traversée,3,sèche,dure,linéaire,accidentelle soi-même,120,50,30
+1718-73-05,2018-01-02,14:10,73,lanslebourg,haute maurienne,alps,Hte-maurie,montagne de montfroid,"45°16'4"" / 6°52'7""",2290,35-39,N,6,2,1,1,0,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle tiers,120,50,80
+1213-05-07,2013-02-13,14:15,5,arvieux,queyras,alps,Queyras,barre noire villargaudin,44°44'33.1 / 6°44'204,2400,30-34,E,2,1,0,0,0,0,randonnée,hiking,,3,humide,tendre,linéaire,accidentelle soi-même,100,50,50
+1314-73-05,2013-12-27,09:55,73,saint martin belleville,vanoise,alps,Vanoise,boismint val thorens,45°16'53.89 / 6°33'14.06,2540,35-39,E,6,3,1,1,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,100,50,40
+1112-38-05,2012-04-20,15:45,38,vaujany,grandes rousses,alps,Gdes-rouss,couloir perrin,32T0272119 5001667,2600,40-44,O,2,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,100,50,40
+1011-73-05,2010-12-26,09:34,73,val isère,haute tarentaise,alps,Hte-tarent,combe du signal,"45°25'47.5"" 7°01'40.6""",2740,40-44,N,4,2,2,1,0,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,100,50,140
+1516-73-02,2016-01-05,11:50,73,val d'isere,haute tarentaise,alps,Hte-tarent,super santon,"44°26'6"" / 6°57'24""",2375,35-39,SE,4,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,4,sèche,tendre,linéaire,accidentelle soi-même,100,50,80
+1011-73-21,2010-12-02,11:30,73,tignes,haute tarentaise,alps,Hte-tarent,tovière,,2580,35-39,O,3,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",,,sèche,tendre,linéaire,accidentelle tiers,80,50,50
+1415-73-08,2015-01-31,,73,aussois,vanoise,alps,Vanoise,ruisseau de la fournache,"45°15'55.09"" / 6°43'42.25""",2370,30-34,S,1,1,1,1,0,0,relevés EDF / déplacement ski de rando,"cross-country (ski, snowboard etc.)",montée,4,sèche,,linéaire,accidentelle soi-même,50,50,80
+1011-74-06,2010-12-22,11:00,74,Hauteluce,mont blanc,alps,Mont-Blanc,col de la fenêtre,,2150,<30,O,2,2,1,0,2,0,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,50,50,40
+1617-05-09,2017-03-07,16:00,5,saint andré d'embrun,embrunais parpaillon,alps,Parpaillon,clos chardon,"44°35'5.73 / 6°38'29.58""",2315,>45,NE,3,2,1,1,0,1,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,dure,linéaire,accidentelle tiers,20,50,120
+1314-05-03,2013-12-27,14:50,5,la salle les alpes,pelvoux,alps,Pelvoux,cucumelle,"44°55'51.9"" / 6°31'31.4""",2150,40-44,NE,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",montée,3,sèche,dure,linéaire,accidentelle soi-même,15,50,50
+1516-73-13,2016-01-27,11:38,73,saint bon courchevel,vanoise,alps,Vanoise,couloir du ruisseau de la planche / vallée des avanchers,"45°22'5"" / 6°39'39""",2490,30-34,NE,9,4,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,2,sèche,tendre,linéaire,accidentelle soi-même,,50,30
+1112-73-05,2012-04-09,11:30,73,valmeinier,maurienne,alps,Maurienne,roche noire,,2800,,,2,1,1,1,0,0,randonnée,hiking,,2,sèche,tendre,linéaire,accidentelle soi-même,,50,
+1415-73-10,2015-02-02,08:55,73,valloire,haute maurienne,alps,Hte-maurie,secteur Sétaz,,2200,35-39,NE,2,1,0,0,0,1,minage,other,,,sèche,,linéaire,accidentelle soi-même,,50,30
+1415-73-11,2015-02-02,15:45,73,saint bon tarentaise,vanoise,alps,Vanoise,hors-piste chanrossa,,2250,,,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,50,
+1314-74-04,2013-12-29,13:50,74,chatel,chablais,alps,Chablais,barbossine,,,,,2,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,,linéaire,accidentelle tiers,,50,
+1011-38-04,2011-02-21,14:00,38,les deux alpes,oisans,alps,Oisans,chalance,,2500,30-34,SO,2,2,0,0,0,2,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,80,45,30
+1213-73-06,2013-01-30,11:30,73,sainte marie de cuines,maurienne,alps,Maurienne,crête de la raverotte,45°17'34.9'' / 6°16'47.1'',2000,30-34,NO,4,2,0,0,0,2,randonnée,hiking,,,humide,dure,linéaire,accidentelle soi-même,600,40,50
+1011-74-10,2011-03-17,15:15,74,chamonix,mont blanc,alps,Mont-Blanc,plan de l'aiguille torrent de blaitiere,"45°54'28.4"" 6°53'42.3""",2230,35-39,N,5,1,0,0,1,0,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,450,40,40
+1617-73-08,2017-02-05,14:40,73,modane,haute maurienne,alps,Hte-maurie,couloir en Y du seuil,"45°9'50.76"" / 6°39'56.86""",2240,35-39,NE,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,,linéaire,accidentelle soi-même,430,40,100
+1617-73-17,2017-05-09,11:00,73,bonneval sur arc,haute maurienne,alps,Hte-maurie,col du greffier couloir,"45°20'41.38"" / 7°5'44.64""",2990,>45,NO,3,3,0,0,0,3,alpinisme,alpinisme,,,sèche,dure,linéaire,accidentelle soi-même,350,40,100
+1213-74-11,2013-04-14,13:10,74,vallorcine,mont blanc,alps,Mont-Blanc,tete de la chevrette,46°01'43.9'' / 6°54'13.3'',1970,30-34,S,4,1,0,0,0,0,randonnée,hiking,,4,humide,tendre,linéaire,accidentelle soi-même,300,40,50
+1516-74-01,2016-01-03,12:45,74,chamonix,mont blanc,alps,Mont-Blanc,petite verte grand montets,"45°56'40.4"" / 6°57'46.5",3390,30-34,N,3,3,1,0,1,1,alpinisme,alpinisme,montée,3,sèche,tendre,linéaire,accidentelle soi-même,290,40,50
+1516-73-19,2016-04-19,13:05,73,tignes,haute tarentaise,alps,Hte-tarent,rocher de la grande balme,,2880,40-44,N,4,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,2,sèche,dure,linéaire,accidentelle soi-même,280,40,80
+1415-73-05,2015-01-15,15:10,73,tignes,haute tarentaise,alps,Hte-tarent,couloir lac chardonnet,,2550,>45,NE,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,humide,dure,linéaire,accidentelle soi-même,200,40,150
+1011-73-15,2011-03-21,12:40,73,lanslebourg,haute maurienne,alps,Hte-maurie,,,2530,,NE,2,2,0,0,0,2,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle soi-même,180,40,60
+1112-26-01,2012-02-05,12:55,26,glandage,vercors,alps,Vercors,jocou,"44°42'43.37""/5°38'51.03""",1680,30-34,S,3,2,1,1,0,1,randonnée,hiking,montée,2,sèche,dure,linéaire,accidentelle soi-même,140,40,100
+1415-05-07,2015-02-09,10:45,5,cervières,queyras,alps,Queyras,col de chaudemaison,,2400,30-34,O,3,1,1,1,0,0,randonnée,hiking,traversée,4,sèche,tendre,linéaire,accidentelle soi-même,100,40,50
+1415-74-03,2015-01-31,,74,chatel,chablais,alps,Chablais,les combes,"46°13'59.04"" / 6°48'41.50""",1960,35-39,O,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,90,40,80
+1718-73-02,2017-12-13,12:44,73,tignes,haute tarentaise,alps,Hte-tarent,pointe de fresse / campanules,"45°26'55"" / 6°55'24""",2550,35-39,SE,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle tiers,80,40,90
+1516-04-01,2016-03-05,16:40,4,enchastrayes,ubaye,alps,Ubaye,les roubines / super sauze,"44°20'52.1"" / 6°40'45.4""",1970,40-44,N,2,2,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,accidentelle soi-même,70,40,40
+1314-74-05,2013-12-30,12:25,74,sixt,chablais,alps,Chablais,passage du dérochoir,"45°58'04.7"" / 6°44'59.7""",2150,30-34,N,2,1,0,0,0,1,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,60,40,80
+1718-38-10,2018-03-04,10:45,38,saint agnès,belledonne,alps,Belledone,lac de crop,"45°12'30"" / 5°59'30""",2000,40-44,NO,2,2,1,1,0,1,randonnée,hiking,,,sèche,dure,linéaire,accidentelle soi-même,60,40,60
+1314-73-06,2013-12-27,12:15,73,st bon tarentaise,vanoise,alps,Vanoise,vallée avals,,2100,35-39,NE,2,1,1,1,0,0,accès refuge gardien ski rando,"cross-country (ski, snowboard etc.)",montée,3,sèche,tendre,linéaire,accidentelle soi-même,40,40,40
+1011-05-02,2011-01-30,10:00,5,molines,queyras,alps,Queyras,col agnel,32t0339842 4950312,2650,35-39,O,8,4,1,1,0,3,randonnée,hiking,,2,sèche,tendre,linéaire,accidentelle soi-même,30,40,100
+1112-38-03,2012-02-17,14:05,38,vaujany,grandes rousses,alps,Gdes-rouss,rissiou,"45°10'.730"" 6°04'903""",2050,35-39,SE,4,1,1,1,0,0,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,30,40,100
+1617-73-02,2017-01-13,11:00,73,tignes,haute-tarentaise,alps,Hte-tarent,"secteur palet, entre pentes Lognan et télésiège Tichot",,2400,30-34,SE,3,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,20,40,160
+1617-05-01,2016-12-27,15:10,5,cervières,queyras,alps,Queyras,petit peygu face nord est,"44°50'31.11"" / 6°42'25.83""",2570,35-39,NE,5,5,0,0,0,0,randonnée,hiking,descente,3,sèche,dure,linéaire,accidentelle soi-même,,40,30
+1011-26-01,2010-12-03,16:00,26,ombleze,vercors,alps,Vercors,roc de toulan,"44°53'26.8"" 05°14'05.4""",1000,30-34,O,1,1,0,0,1,0,randonnée,hiking,montée,,sèche,tendre,linéaire,accidentelle soi-même,,40,40
+1415-38-02,2015-02-07,15:00,38,Freney d'Oisans,grandes rousses,alps,Gdes-rouss,grandes buffes,"45°04'06.5"" / 6°06'30.7""",1970,35-39,O,1,1,0,0,0,0,randonnée,hiking,,,sèche,,linéaire,accidentelle soi-même,,40,40
+1718-74-01,2017-12-09,,74,Faverges-Seythenex,bauges,alps,Bauges,petite sambuy,,,,,3,3,1,1,0,1,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,40,60
+1415-73-14,2015-02-07,13:03,73,peisey nancroix,vanoise,alps,Vanoise,couloir des canadiens face nord bellecote,"45°29'54.4"" // 6°46'15.99""",3050,40-44,NO,3,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,1250,30,50
+1314-38-03,2014-01-31,15:50,38,revel,belledonne,alps,Belledone,grand colon face ouest,45°09.680 / 5°55.219,2165,30-34,O,2,1,1,1,0,0,randonnée,hiking,descente,2,sèche,dure,linéaire,accidentelle tiers,720,30,30
+1314-06-01,2014-01-26,10:10,6,st etienne tinee,mercantour,alps,Mercantour,Auron sous telesiege dôme,"44°12'44.8"" / 6°54'04.8""",2300,35-39,E,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,dure,linéaire,accidentelle soi-même,350,30,20
+1314-73-08,2014-01-05,14:05,73,macot,vanoise,alps,Vanoise,crête des bourtes,"45°29'56""/6°42'59""",2350,35-39,NO,2,2,1,1,0,1,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,accidentelle soi-même,250,30,100
+1516-73-18,2016-04-05,10:30,73,bessans,haute maurienne,alps,Hte-maurie,piste noire de fond Barmette / couloir issu pointe de Tierce,"45°18'57"" / 7°0'21""",1970,35-39,NO,12,7,0,0,0,3,piste,"piste (ski, snowboard)",,3,humide,tendre,linéaire,naturelle,220,30,120
+1617-05-11,2017-03-12,13:55,5,guillestre,embrunais parpaillon,alps,Parpaillon,crête de razis,,,,N,3,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,2,sèche,dure,linéaire,accidentelle soi-même,200,30,50
+1718-05-01,2017-12-08,15:15,5,saint véran,queyras,alps,Queyras,pointe des marcelettes,"44°40'5' / 6°51'5""",2550,35-39,NO,2,1,0,0,0,0,randonnée,hiking,descente,,sèche,dure,linéaire,accidentelle soi-même,200,30,40
+1011-68-01,2010-12-17,12:40,68,mittlach,hohneck,other,other,couloir du rainkopf,"48°0'260"" 6°58'592""",1300,30-34,E,2,1,0,0,1,0,randonnée,hiking,descente,,sèche,tendre,linéaire,accidentelle soi-même,200,30,30
+1213-74-06,2013-02-26,09:30,74,saint gervais,mont blanc,alps,Mont-Blanc,mont lachat,45.86970 / 6.78810,1970,35-39,SO,15,6,0,0,0,0,randonnée,hiking,,1,sèche,tendre,linéaire,accidentelle soi-même,170,30,20
+1314-74-02,2013-12-01,12:25,74,avoriaz,chablais,alps,Chablais,pointe de vorlaz,46°10.877 / 6°48.004,2290,35-39,S,2,2,0,0,0,0,randonnée,hiking,montée,,sèche,tendre,linéaire,accidentelle soi-même,150,30,
+1718-74-14,2018-03-29,15:00,74,araches la frasse,chablais,alps,Chablais,,,1700,>45,,6,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,humide,tendre,linéaire,accidentelle soi-même,100,30,
+1516-74-08,2016-02-27,11:10,74,la clusaz,aravis,alps,Aravis,combe de la grande forclaz,32T0307842 / 5089692,1980,35-39,NO,3,1,1,1,0,0,randonnée,hiking,descente,,sèche,dure,linéaire,accidentelle soi-même,90,30,40
+1718-05-09,2018-03-22,10:35,5,champcella,pelvoux,alps,Pelvoux,vallon de la selle / tête de vautisse,"44°42'5"" / 6°29'27""",2900,30-34,E,2,2,1,1,0,1,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,80,30,40
+1011-73-17,2011-03-31,11:10,73,val isère,haute tarentaise,alps,Hte-tarent,solaise,,3000,35-39,SE,2,2,1,0,1,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,80,30,50
+1213-38-04,2013-01-20,13:50,38,auris en oisans,grandes rousses,alps,Gdes-rouss,signal de l'homme,45°03.931'' // 6°04.543',1790,35-39,SO,6,3,3,3,0,0,hors-piste,"off-piste (ski, snowboard)",,3,humide,dure,linéaire,accidentelle soi-même,60,30,20
+1718-38-03,2018-01-17,,38,chamrousse,belledonne,alps,Belledone,brèche robert sud,"45°8'0'' / 5°54'38""",2000,35-39,NO,1,1,1,1,0,0,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,40,30,80
+1213-73-18,2013-03-19,15:55,73,saint martin de belleville (val thorens),vanoise,alps,Vanoise,lac du lou,32T0306717 / 5018817,1990,40-44,NO,5,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,tendre,linéaire,accidentelle soi-même,15,30,80
+1314-73-19,2014-03-06,10:40,73,peisey,vanoise,alps,Vanoise,nord bellecote,"45°29'43.72"" / 6°46'39.49""",3150,40-44,N,3,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,,30,30
+1314-05-06,2014-01-26,,5,st etienne dévoluy,dévoluy,alps,Devoluy,vallon d'ane,,,,,2,1,0,0,0,0,randonnée,hiking,,,sèche,,linéaire,accidentelle soi-même,,30,40
+1718-74-02,2018-02-13,,74,chamonix,mont blanc,alps,Mont-Blanc,balme combe d'arve,,,,,2,2,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,30,20
+1314-05-07,2014-01-28,13:00,5,réallon,champsaur,alps,Champsaur,col coupa,,,,,5,2,0,0,0,2,randonnée,hiking,,,sèche,,linéaire,accidentelle soi-même,,30,
+1516-73-06,2016-01-17,16:30,73,saint martin de belleville,vanoise,alps,Vanoise,piste david douillet,,,,,1,1,0,0,0,0,piste,"piste (ski, snowboard)",descente,3,,,linéaire,,,30,
+1415-73-02,2014-12-22,12:35,73,modane,vanoise,alps,Vanoise,lac de chavière,45°16'10.70 // 6°38'09.40,3100,35-39,SE,5,2,1,1,0,1,randonnée,hiking,descente,2,sèche,dure,linéaire,accidentelle soi-même,300,25,100
+1213-74-08,2013-03-22,12:45,74,samoens,chablais,alps,Chablais,couloir pas de la latte,46°08'16'' / 6°47'34'',2000,40-44,NO,2,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle soi-même,300,25,70
+1112-38-02,2012-02-17,08:25,38,saint pierre de chartreuse,chartreuse,alps,Chartreuse,combe bovinant,"45°22'52.35"" 5°48'52.64""",1774,35-39,O,1,1,1,1,0,0,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,165,25,40
+1718-73-11,2018-02-18,12:06,73,épierre,maurienne,alps,Maurienne,faux gros villan,"45°26'44"" / 6°21'01""",2550,40-44,NO,4,1,0,0,0,0,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,130,25,30
+1415-74-10,2015-04-18,10:45,74,chamonix,mont blanc,alps,Mont-Blanc,face nord aiguille grands montets,32T 341954 / 5090431,3230,40-44,NE,2,1,0,0,0,1,equipement piste,other,descente,2,humide,tendre,linéaire,accidentelle soi-même,100,25,20
+1011-38-01,2010-12-05,11:45,38,st pierre de chartreuse,chartreuse,alps,Chartreuse,col des ayes,"45°18'39.7"" 5°50'23.9""",1570,35-39,NE,3,3,3,3,0,0,randonnée,hiking,,,sèche,tendre,linéaire,accidentelle soi-même,100,25,50
+1011-68-02,2010-12-28,13:45,68,Metzeral,hohneck,other,other,wormspel,"7°1'13.8"" 48°2'16""",1244,35-39,NE,5,1,0,0,1,0,alpinisme,alpinisme,traversée,,sèche,tendre,linéaire,accidentelle soi-même,90,25,25
+1213-74-09,2013-03-22,09:35,74,chamonix,mont blanc,alps,Mont-Blanc,carlaveyron,6°49'29.9'' // 45°55'59.8'',2070,40-44,O,2,1,0,0,0,1,randonnée,hiking,,2,sèche,tendre,linéaire,accidentelle soi-même,50,25,80
+1213-73-19,2013-03-19,15:05,73,les avanchers,maurienne,alps,Maurienne,hors piste des lauzières,32T 295042 / 5035497,1825,30-34,NE,6,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,30,25,60
+1112-05-01,2011-12-10,14:40,5,puy st vincent,pelvoux,alps,Pelvoux,vallon de narreyroux,,2600,<30,NE,2,1,1,1,0,0,randonnée,hiking,,,sèche,tendre,linéaire,accidentelle soi-même,,25,30
+1415-74-06,2015-02-08,11:55,74,cordon,aravis,alps,Aravis,croise baulet couloir nant d'enfer,32T309541/5085482,1930,30-34,O,2,1,0,0,0,1,randonnée,hiking,descente,2,humide,dure,linéaire,accidentelle soi-même,410,20,30
+1314-74-06,2014-01-05,17:30,74,les houches,mont blanc,alps,Mont-Blanc,couloir vogealle,32T0329674 / 5087618,2175,35-39,NO,2,1,0,0,0,1,randonnée,hiking,descente,3,sèche,dure,linéaire,accidentelle soi-même,400,20,80
+1011-74-03,2010-12-21,13:20,74,chamonix,chablais,alps,Chablais,combe d'encrenaz,32t0338270 5096477,2300,40-44,SE,3,1,1,0,0,1,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,400,20,40
+1314-73-30,2014-02-09,14:50,73,saint jean de belleville,vanoise,alps,Vanoise,point 2482 combe pierreux,"45,415449N/6,425394S",2400,40-44,NE,4,1,0,0,0,0,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,350,20,30
+1617-73-07,2017-01-28,16:17,73,montricher albane,maurienne,alps,Maurienne,combe des sallanches,"45°11'4.94"" / 6°23""21.14""",2460,35-39,NE,2,1,0,0,0,1,randonnée,hiking,descente,3,sèche,,linéaire,accidentelle tiers,220,20,40
+1112-74-06,2012-02-21,10:00,74,bellevaux,chablais,alps,Chablais,pointe de chalune,32t 031303 5116923,2050,40-44,O,2,2,0,0,0,0,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,200,20,50
+1011-73-22,2011-01-10,,73,tignes,haute tarentaise,alps,Hte-tarent,couloir des tuffs,,2400,35-39,O,4,1,0,0,1,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle tiers,200,20,20
+1314-73-29,2014-03-02,15:00,73,bonneval sur arc,haute maurienne,alps,Hte-maurie,,,2900,35-39,N,2,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,180,20,60
+1617-68-01,2017-02-12,13:45,68,stosswhir,hohneck,other,other,couloir en Y,"48°02'27"" / 7°00'47""",1300,>45,N,4,2,0,0,0,0,alpinisme,alpinisme,montée,,humide,dure,linéaire,accidentelle soi-même,120,20,40
+1213-73-11,2013-02-20,10:00,73,valloire,maurienne,alps,Maurienne,camp des rochilles,,2510,30-34,O,22,2,1,1,0,1,entrainement militaire descente couloir,other,,,sèche,dure,linéaire,accidentelle soi-même,110,20,60
+1314-74-01,2013-11-11,16:55,74,les contamines,mont blanc,alps,Mont-Blanc,aiguille croche,,2300,30-34,SE,1,1,0,0,0,1,randonnée,hiking,descente,,sèche,,linéaire,accidentelle soi-même,100,20,
+1011-74-01,2010-11-28,12:00,74,mieussy,chablais,alps,Chablais,haute-pointe,,1950,40-44,SE,15,2,2,0,0,2,randonnée,hiking,,,sèche,tendre,linéaire,accidentelle soi-même,100,20,10
+1516-74-09,2016-02-27,13:45,74,sixt fer à cheval,chablais,alps,Chablais,couloir du lion,32T 0331591 / 5098664,1750,35-39,SE,1,1,0,0,0,1,randonnée,hiking,montée,3,sèche,tendre,linéaire,naturelle,100,20,200
+1213-73-12,2013-02-26,16:40,73,pralognan,vanoise,alps,Vanoise,cirque du petit arcellin,45°23.017'' 6°45.689'',2100,30-34,NO,1,1,0,0,0,1,randonnée,hiking,traversée,3,sèche,tendre,linéaire,accidentelle soi-même,80,20,20
+1112-05-02,2012-03-10,11:25,5,ristolas,queyras,alps,Queyras,pic de ségur,"44°44'.28.6"" 6°58'04.1""",2770,30-34,NO,6,1,0,0,0,0,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,80,20,50
+1415-74-04,2015-01-31,12:30,74,chamonix,mont blanc,alps,Mont-Blanc,pré du rocher,32T336030 / 5085683,2190,30-34,NO,3,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,accidentelle soi-même,70,20,40
+1718-73-14,2018-03-01,09:05,73,pralognan la vanoise,vanoise,alps,Vanoise,couloir de l'eau,"45°23'9"" / 6°44'57""",1890,30-34,SO,2,1,0,0,0,0,minage,other,arrêt,2,sèche,dure,linéaire,accidentelle soi-même,60,20,15
+1415-73-17,2015-03-29,11:45,73,bonneval sur arc,haute maurienne,alps,Hte-maurie,col du montet,"45°25'57.7"" // 7°05'37.8""",3200,40-44,S,9,5,2,1,1,2,randonnée,hiking,,2,sèche,tendre,linéaire,accidentelle soi-même,60,20,
+1314-15-01,2014-03-29,14:00,15,la vigerie,lioran,other,other,puy bataillouse,45°06'05.75 / 2°43'21.83,1540,40-44,N,1,1,0,0,0,1,randonnée,hiking,montée,,humide,dure,linéaire,accidentelle soi-même,50,20,25
+1415-74-02,2015-01-21,12:00,74,chamonix,mont blanc,alps,Mont-Blanc,couloir requiin,,2450,40-44,NE,7,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,50,20,
+1718-73-10,2018-02-05,13:35,73,pralognan la vanoise,vanoise,alps,Vanoise,couloir de l'eau,"45°23'9"" / 6°44'59""",1890,30-34,SO,4,1,1,1,0,0,minage,other,arrêt,2,sèche,tendre,linéaire,accidentelle soi-même,30,20,15
+1112-65-01,2012-02-18,,65,bagnère de bigorre,haute bigorre,pyrenees,hte-bigo,pain de sucre,,,,,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,,linéaire,accidentelle soi-même,,20,
+1415-05-03,2015-01-21,09:55,5,puy saint vincent,pelvoux,alps,Pelvoux,couloir des faveyrettes,"44°48'37.1"" / 6°27'30.5""",2350,35-39,NO,2,2,1,0,1,1,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,dure,linéaire,accidentelle soi-même,400,15,100
+1415-09-02,2015-03-03,15:00,9,l'hospitalet pres l'andorre,haute ariege,pyrenees,hte-ariege,roc de carroux / voie RN 320,"42°34'49.1"" / 1°47'06.4""",1900,40-44,SE,2,2,0,0,0,0,voie de communication,other,traversée,3,humide,dure,linéaire,naturelle,350,15,150
+1213-74-01,2012-10-30,11:55,74,chamonix,mont blanc,alps,Mont-Blanc,aiguille marbrée,32T0340153 5079579,3500,30-34,SE,2,2,0,0,0,0,alpinisme,alpinisme,,,sèche,dure,linéaire,accidentelle soi-même,250,15,15
+1314-74-07,2014-02-12,15:50,74,le grand bornand,aravis,alps,Aravis,mont lachat de chatillon,"45°57,460' / 6°28.772'",1975,40-44,SE,3,2,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,humide,dure,linéaire,accidentelle soi-même,225,15,30
+1415-06-02,2014-12-28,11:40,6,saint etienne de tinee,mercantour,alps,Mercantour,secteur cimetière des dames,"44°13'23.3""/6°53'27.7""",2300,40-44,NE,3,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,2,sèche,dure,linéaire,accidentelle soi-même,225,15,30
+1011-66-01,2011-03-05,12:50,66,porté puymorens,capcir puymorens,pyrenees,capcir,face NO pic de l'Estagnol,,2300,35-39,NO,2,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,dure,linéaire,accidentelle tiers,100,15,60
+1011-74-07,2010-12-24,15:00,74,Vallorcine,mont blanc,alps,Mont-Blanc,balme,,2175,>45,NE,1,1,0,0,1,0,minage,other,,3,sèche,tendre,linéaire,accidentelle soi-même,75,15,30
+1011-74-08,2010-12-26,10:55,74,le reposoir,aravis,alps,Aravis,col de l'encrenaz,,1950,30-34,S,3,1,1,0,1,0,randonnée,hiking,montée,3,sèche,dure,linéaire,accidentelle soi-même,30,15,20
+1314-73-15,2014-01-26,16:10,73,tignes,haute tarentaise,alps,Hte-tarent,palet droite Tichat,,2400,30-34,SE,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,dure,linéaire,accidentelle soi-même,10,15,50
+1213-73-22,2013-04-01,14:00,73,les allues,vanoise,alps,Vanoise,aiguille du fruit,6°37'49.5'' / 45°21'12.8'',2900,>45,NO,3,2,0,0,0,0,randonnée,hiking,montée,3,sèche,tendre,linéaire,accidentelle soi-même,600,10,
+1718-74-06,2018-03-04,14:00,74,vallorcine,mont blanc,alps,Mont-Blanc,posettes,"46°0'55.42"" / 6°56'9.36""",2050,35-39,O,3,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,300,10,10
+1718-74-07,2018-03-04,16:00,74,vallorcine,mont blanc,alps,Mont-Blanc,posettes,"46°0'55.42"" / 6°56'9.36""",2050,35-39,O,3,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,300,10,10
+1516-65-02,2016-03-22,17:35,65,bareges,haute bigorre,pyrenees,hte-bigo,entrée vallon dets coubous,"42°53'38.2"" / 0°6'44.11""",1850,>45,O,15,15,0,0,0,3,randonnée,hiking,traversée,2,humide,tendre,linéaire,naturelle,300,10,40
+1112-74-07,2012-04-03,15:50,74,chamonix,mont blanc,alps,Mont-Blanc,bec de la cluy,32t 03421505 095500,1900,30-34,NO,2,1,1,0,1,0,randonnée,hiking,,2,humide,tendre,linéaire,naturelle,300,10,
+1314-73-13,2014-01-25,13:45,73,presle,belledonne,alps,Belledone,"couloir SO ""intime"" Gargoton","45,41996 / 6,21212",2330,35-39,SO,2,2,1,1,0,1,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,250,10,60
+1718-38-05,2018-02-14,14:45,38,lavaldens,oisans,alps,Oisans,vallon guillaume,44°56'37.96'' / 5°55'18.8'',2300,30-34,NO,1,1,0,0,0,1,randonnée,hiking,montée,2,sèche,tendre,linéaire,accidentelle soi-même,200,10,30
+1314-74-09,2014-03-02,15:30,74,chamonix,mont blanc,alps,Mont-Blanc,aiguille belvedere,32t0335523 / 5094797,2880,35-39,SO,3,1,1,0,1,0,randonnée,hiking,montée,2,humide,,linéaire,accidentelle soi-même,180,10,15
+1213-74-03,2013-01-19,13:10,74,abondance,chablais,alps,Chablais,mont de grange,,2100,40-44,O,2,1,0,0,0,0,randonnée,hiking,,3,sèche,tendre,linéaire,accidentelle soi-même,100,10,30
+1112-74-04,2012-02-04,11:15,74,mieussy,chablais,alps,Chablais,combe du vélard,32T03116945113758,1780,,NO,4,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,50,10,15
+1314-74-11,2014-03-02,10:30,74,la clusaz,aravis,alps,Aravis,,,,,,2,2,0,0,0,0,randonnée,hiking,montée,,,,linéaire,accidentelle tiers,,10,
+1718-65-04,2018-02-13,14:45,65,gavarnie,haute bigorre,pyrenees,hte-bigo,piste gypaete / pic de la Pahule,"42°43'22"" / 0°1'49""",2120,35-39,N,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,dure,linéaire,accidentelle soi-même,100,8,30
+1112-73-02,2012-02-18,11:05,73,jarsy,bauges,alps,Bauges,face SO mont de la Coche,32T0283745 5060850,1980,30-34,SO,2,1,0,0,0,1,randonnée,hiking,traversée,3,sèche,tendre,linéaire,accidentelle soi-même,250,5,50
+1011-05-04,2011-02-26,16:10,5,orcières,champsaur,alps,Champsaur,col combeau / grande autane,32t 0292853 4947510,2100,40-44,N,7,3,0,0,1,2,randonnée,hiking,,3,sèche,tendre,linéaire,naturelle,100,5,30
+1112-05-03,2012-03-20,10:00,5,saint crepin,queyras,alps,Queyras,pic beal traversier,,2800,40-44,N,4,1,0,0,0,0,randonnée,hiking,,2,sèche,tendre,linéaire,accidentelle soi-même,50,5,30
+1314-05-09,2014-03-02,12:00,5,la salle les alpes,thabor,alps,Thabor,crête echaillon,44.99943 / 6.58156,2560,30-34,NE,7,1,0,0,0,0,randonnée,hiking,descente,,sèche,,linéaire,accidentelle soi-même,,5,30
+1011-73-03,2010-12-09,12:37,73,val isère,haute tarentaise,alps,Hte-tarent,charvet couloir des pisteurs,45°25'39.9'' 6°57'13.3'',2650,>45,N,2,2,1,1,1,0,hors-piste,"off-piste (ski, snowboard)",,,sèche,tendre,linéaire,accidentelle soi-même,300,3,100
+1415-05-08,2015-02-14,16:00,5,le monetier les bains,pelvoux,alps,Pelvoux,source des fraches,,2200,>45,NO,1,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,accidentelle soi-même,240,2,15
+1415-65-02,2015-02-01,08:15,65,aulon,haute bigorre,pyrenees,hte-bigo,village / couloir La Peyrie,"42°52'10""/0°17'11""",2200,35-39,SE,2,2,0,0,0,2,habitation,other,arrêt,4,sèche,dure,linéaire,naturelle,1000,,
+1718-05-05,2018-03-02,17:15,5,la grave,oisans,alps,Oisans,couloir d'orcières,"45°1'24"" / 6°15'33""",2400,40-44,NO,4,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,naturelle,840,,
+1718-74-13,2018-04-30,11:00,74,chamonix,mont blanc,alps,Mont-Blanc,glacier rond,"45°52'41.4"" / 6°52'39.6""",3450,>45,NO,4,1,1,0,1,0,randonnée,hiking,arrêt,3,sèche,,linéaire,accidentelle tiers,700,,
+1314-09-01,2014-03-29,12:55,9,rabat les trois seigneurs,couserans,pyrenees,couseran,pic des trois seigneurs,,2050,,NE,3,3,2,2,0,0,alpinisme,alpinisme,montée,2,humide,tendre,linéaire,,700,,
+1314-74-08,2014-02-25,12:30,74,vallorcine,mont blanc,alps,Mont-Blanc,Mont Buet,32T333730 / 5099285,3040,>45,NE,2,1,1,0,1,0,randonnée,hiking,descente,3,sèche,,linéaire,accidentelle soi-même,650,,
+1617-73-18,2017-05-20,18:10,73,sainte foy tarentaise,haute tarentaise,alps,Hte-tarent,face nord pointe des plates des chamois sous point coté 3441 m,"45°32'18.01"" / 6°58'20.03""",3240,>45,N,2,1,0,0,0,0,randonnée,hiking,,,humide,tendre,linéaire,accidentelle soi-même,640,,
+1718-65-06,2018-03-03,12:00,65,aragnouet,haute bigorre,pyrenees,hte-bigo,pic de marioules,,,,,5,3,2,2,0,1,randonnée,hiking,,3,,,linéaire,accidentelle soi-même,600,,
+1011-73-18,2011-04-01,11:35,73,val isère,haute tarentaise,alps,Hte-tarent,face est de Charvet,,2660,40-44,E,7,1,0,0,1,0,hors-piste,"off-piste (ski, snowboard)",,3,humide,tendre,ponctuel,accidentelle soi-même,600,,
+1617-05-14,2017-05-08,12:00,5,vars,queyras,alps,Queyras,couloir nord crête laugier,"44°35'38.38"" / 6°45'29.09""",2950,>45,NE,1,1,0,0,0,0,randonnée,hiking,montée,,humide,tendre,,naturelle,450,,
+1112-73-07,2012-04-17,19:00,73,saint martin de belleville,vanoise,alps,Vanoise,mont du borgne,32T 0312336 5019279,2950,40-44,NO,3,1,0,0,0,1,randonnée,hiking,descente,3,sèche,tendre,linéaire,accidentelle soi-même,400,,100
+1415-73-20,2015-04-06,,73,saint jean de belleville,vanoise,alps,Vanoise,mont du fut face nord,,2730,,,2,1,0,0,0,0,randonnée,hiking,descente,,sèche,,linéaire,accidentelle soi-même,400,,
+1415-73-19,2015-04-06,13:35,73,bourg saint maurice,vanoise,alps,Vanoise,couloir télécabine aiguille rouge,,2700,,,3,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,400,,
+1718-74-09,2018-03-05,16:30,74,Faverges-Seythenex,bauges,alps,Bauges,sambuy,"45°41'34""/6°15'53""",2060,35-39,NO,1,1,0,0,0,1,randonnée,hiking,descente,,humide,dure,ponctuel,accidentelle soi-même,370,,
+1415-64-01,2015-02-17,16:15,64,eaux bonnes,aspe ossau,pyrenees,aspe-ossau,route D918 / ravin des arrious,"42°57'58.4"" / 00°19'41.3""",1690,35-39,SO,5,5,4,4,0,1,randonnée,hiking,traversée,3,humide,tendre,ponctuel,naturelle,365,,
+1617-05-05,2017-02-11,11:00,5,val des prés,queyras,alps,Queyras,couloir bois vacher,"44°54'20.75"" / 6°42'14.6""",2270,35-39,O,2,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,320,,
+1718-73-03,2017-12-15,14:10,73,granier,beaufortain,alps,Beaufortin,la poula face est pointe combe benite,"45°35'26"" / 6°37'4""",2410,40-44,E,2,1,1,1,0,0,randonnée,hiking,descente,3,sèche,,linéaire,accidentelle soi-même,315,,
+1415-05-02,2015-01-18,13:00,5,puy saint vincent,pelvoux,alps,Pelvoux,col du bal,,2400,,NE,3,3,2,2,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,,linéaire,accidentelle soi-même,300,,
+1112-73-04,2012-04-09,11:30,73,pralognan,haute maurienne,alps,Hte-maurie,combe de rosoire,,3200,,NO,7,3,0,0,0,0,randonnée,hiking,,2,sèche,tendre,linéaire,accidentelle soi-même,300,,
+1718-73-17,2018-03-04,,73,arêche beaufort,beaufortain,alps,Beaufortin,couloir des grangettes,,,,,4,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,300,,
+1314-73-11,2014-01-09,12:30,73,valloire,maurienne,alps,Maurienne,crête de lachat,,2840,40-44,NO,3,3,0,0,0,0,randonnée,hiking,montée,3,sèche,dure,linéaire,accidentelle soi-même,290,,
+1718-38-14,2018-03-18,11:45,38,sarcenas,chartreuse,alps,Chartreuse,chamechaude couloir folatière,"45°17'12"" / 5°47'14""",2040,35-39,O,4,3,0,0,0,0,randonnée,hiking,descente,2,sèche,,linéaire,accidentelle soi-même,280,,
+1617-05-04,2017-02-11,15:55,5,val des prés,queyras,alps,Queyras,couloir ombilic,"44°53'39.24"" / 6°41'57.31""",2350,40-44,N,3,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,250,,80
+1213-74-12,2013-08-13,03:50,74,chamonix,mont blanc,alps,Mont-Blanc,face nord tacul,,4300,40-44,N,6,3,2,2,0,1,alpinisme,alpinisme,,,sèche,dure,linéaire,naturelle sérac/corniche,250,,
+1718-06-01,2018-03-02,10:30,6,entraunes,haut var,alps,Ht_Var-Ver,estenc / tête de crépine / cabane garret,"44°15'2"" / 6°44'40""",2280,35-39,E,6,6,5,4,1,1,randonnée,hiking,,4,sèche,tendre,linéaire,,230,,110
+1718-65-03,2018-01-09,15:00,65,aragnouet,haute bigorre,pyrenees,hte-bigo,,,1600,,,2,1,1,1,0,0,randonnée,hiking,,3,,,linéaire,accidentelle soi-même,200,,
+1011-63-01,2010-11-28,14:00,63,le mont dore,sancy,other,other,puy redon / couloir de l'envers du redon,"45°31'58.0"" 2°48'23""",1725,40-44,NO,2,1,0,0,1,0,randonnée,hiking,descente,,sèche,tendre,linéaire,accidentelle soi-même,200,,
+1314-73-07,2013-12-29,16:15,73,aime,vanoise,alps,Vanoise,dos des frasses,32T317154 / 5041892,2200,40-44,NO,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,,linéaire,accidentelle soi-même,200,,
+1112-74-09,2012-07-12,05:20,74,chamonix,mont blanc,alps,Mont-Blanc,mont maudit,32t 0334992 5079521,4200,40-44,N,23,23,9,9,0,0,alpinisme,alpinisme,,,sèche,dure,linéaire,naturelle sérac/corniche,200,,
+1718-65-08,2018-03-31,15:30,65,ferrère,haute bigorre,pyrenees,hte-bigo,montagne d'areng / couloir le potager du retraité,"42°54'54.60"" / 0°27'54.20""",1900,35-39,N,3,2,1,0,1,1,alpinisme,alpinisme,montée,3,sèche,tendre,linéaire,accidentelle soi-même,185,,
+1011-31-01,2011-02-22,,31,Oô,luchonnais,pyrenees,luchonnais,vallon d'esquierry,"42°45'20.8"" 00°27'56.2""",2250,35-39,SE,2,2,2,2,0,0,randonnée,hiking,descente,4,humide,tendre,ponctuel,naturelle,180,,
+1718-38-07,2018-02-24,09:30,38,pinsot,belledonne,alps,Belledone,refuge de l'oule,"45°18'38"" / 6°8'17""",2035,35-39,N,2,1,0,0,0,1,randonnée,hiking,,,,,linéaire,accidentelle soi-même,160,,
+1314-73-09,2014-01-05,14:00,73,la léchère,beaufortain,alps,Beaufortin,croix de la bagnaz,,2300,,,4,2,0,0,0,0,randonnée,hiking,arrêt,4,sèche,tendre,linéaire,accidentelle soi-même,150,,
+1516-73-04,2016-01-09,13:00,73,les allues,vanoise,alps,Vanoise,mont de péclet,,,,,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,,linéaire,accidentelle soi-même,150,,
+1011-74-09,2011-03-03,,74,vacheresse,chablais,alps,Chablais,pointe de bénévent,,,,,3,3,0,0,2,1,randonnée,hiking,,3,,,linéaire,accidentelle soi-même,150,,
+1011-74-12,2011-06-04,17:25,74,chamonix,mont blanc,alps,Mont-Blanc,aiguille du chardonnet,"45°58'08.5"" / 6°59'51.2""",3650,>45,SO,2,1,1,1,0,0,alpinisme,alpinisme,,,humide,tendre,ponctuel,naturelle,150,,
+1314-73-04,2013-12-26,11:00,73,aime,vanoise,alps,Vanoise,dos des frasses,45°30'27.79'' / 6°39'40.68'',2245,35-39,N,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,dure,linéaire,accidentelle soi-même,145,,125
+1314-73-16,2014-01-26,10:05,73,modane,haute maurienne,alps,Hte-maurie,couloir du seuil valfréjus,32T 316540 / 5003895,2200,35-39,NE,3,2,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,,sèche,,linéaire,accidentelle soi-même,140,,
+1718-65-09,2018-02-23,,65,vieille aure,aure louron,pyrenees,aure_lour,versant sud pic d'aygues cluses,"42°52'15.8"" / 0°10'0.0""",2570,>45,SE,1,1,1,1,0,0,randonnée,hiking,montée,3,sèche,,linéaire,naturelle sérac/corniche,140,,
+1718-38-01,2017-12-02,,38,saint christophe sur guiers,chartreuse,alps,Chartreuse,combe de l'ours petit som,"45°23'5"" / 5°48'35""",1670,35-39,SO,2,2,2,2,0,0,randonnée,hiking,montée,,sèche,tendre,linéaire,accidentelle soi-même,125,,
+1415-38-05,2015-02-28,10:10,38,saint pierre de chartreuse,charteuse,alps,Chartreuse,combe ouest charmant som,"45°19'37.0""/5°45'41.3""",1690,30-34,O,7,1,1,1,0,0,randonnée,hiking,descente,2,sèche,tendre,linéaire,accidentelle soi-même,105,,10
+1011-65-02,2011-05-08,10:00,65,gedre,haute bigorre,pyrenees,hte-bigo,pic de Gabiedou,31T 0262103 4733774,2280,>45,NO,2,1,1,1,0,0,randonnée,hiking,montée,,humide,tendre,linéaire,naturelle,100,,
+1213-38-09,2013-04-17,,38,le freney d'oisans,grandes rousses,alps,Gdes-rouss,proche refuge sarenne,,,35-39,S,2,2,1,1,0,1,voie de communication,other,,,humide,dure,linéaire,naturelle,100,,
+1011-73-02,2010-11-12,08:20,73,val isère,haute tarentaise,alps,Hte-tarent,RD col Iseran Le Quartz,,2480,,N,5,2,0,1,1,0,voie de communication,other,,,humide,tendre,linéaire,,100,,
+1213-73-13,2013-03-02,16:40,73,sainte foy tarentaise,haute tarentaise,alps,Hte-tarent,sous pointe des gavies / ruisseau des gavies,45°35'44.6'' 6°57'20.2'',2200,30-34,N,2,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,3,,tendre,ponctuel,accidentelle soi-même,100,,
+1718-38-08,2018-03-02,16:45,38,mont de lans,oisans,alps,Oisans,piste verte bellecombe 1,"44°59'57.6"" / 6°9'15.95""",2430,35-39,NE,1,1,1,1,0,0,piste,"piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,accidentelle tiers,90,,
+1516-05-03,2016-02-23,13:00,5,ceillac,queyras,alps,Queyras,vallon ste anne,"44°37'14.6"" / 6°48'6.45""",2520,35-39,NE,20,3,1,1,0,0,randonnée,hiking,descente,3,humide,tendre,linéaire,accidentelle soi-même,80,,60
+1718-65-02,2018-01-09,13:30,65,cauterets,haute bigorre,pyrenees,hte-bigo,cascade ilhéou,"42°52'10"" / 0°9'46""",1790,30-34,N,2,1,0,0,0,1,randonnée,hiking,descente,3,sèche,dure,linéaire,accidentelle soi-même,60,,30
+1718-15-01,2017-12-16,,15,laveissière,lioran,other,other,fond alagnon,"45°5'33"" / 2°43'3""",1530,35-39,SE,1,1,1,0,1,0,randonnée,hiking,descente,,humide,tendre,linéaire,accidentelle soi-même,50,,
+1718-38-02,2017-12-02,,38,saint pancrasse,chartreuse,alps,Chartreuse,pas de l'oeille dent de crolles,"45°18'31"" / 5°51'8""",1910,40-44,SO,1,1,0,0,0,0,randonnée,hiking,descente,,sèche,tendre,linéaire,accidentelle soi-même,50,,
+1415-09-01,2015-01-18,13:00,9,auzat,haute ariege,pyrenees,hte-ariege,secteur etang du pinet,"42°40'59.1"" / 1°23'25.4""",2440,35-39,NO,2,1,1,1,0,0,alpinisme,alpinisme,traversée,3,sèche,tendre,linéaire,accidentelle soi-même,50,,
+1617-38-02,2017-02-12,14:00,38,st christophe sur guiers,chartreuse,alps,Chartreuse,pas du loup,31T719513 / 5029285,1400,30-34,SO,2,1,0,0,0,0,randonnée,hiking,descente,2,humide,tendre,ponctuel,accidentelle soi-même,50,,
+1718-74-03,2018-03-03,14:05,74,le grand bornand,aravis,alps,Aravis,refuge gramusset,,1800,40-44,SE,6,6,0,0,0,6,randonnée,hiking,montée,3,sèche,dure,linéaire,accidentelle soi-même,40,,
+1112-74-01,2012-01-21,10:00,74,praz sur arly,mont blanc,alps,Mont-Blanc,crêt du midi,,1780,>45,NE,3,1,0,0,0,1,minage,other,,4,sèche,tendre,linéaire,accidentelle soi-même,25,,40
+1617-05-02,2017-01-29,11:40,5,ceillac,queyras,alps,Queyras,col des ugousses,,,,,2,2,0,0,0,0,randonnée,hiking,,2,,,linéaire,accidentelle soi-même,,,
+1718-73-15,2018-03-03,13:35,73,arêche beaufor,beaufortain,alps,Beaufortin,lac tournant,,2000,30-34,N,,2,1,0,1,1,randonnée,hiking,descente,3,humide,tendre,linéaire,accidentelle soi-même,,,
+1718-05-03,2018-02-17,,5,villard d'arene,oisans,alps,Oisans,couloir express col roc noir combeynot,,,,,1,1,0,0,0,1,randonnée,hiking,descente,,humide,tendre,linéaire,accidentelle soi-même,,,
+1314-73-20,2014-03-19,14:50,73,bourg st maurice,vanoise,alps,Vanoise,face ouest aiguille rouge grande cascade,,,,NO,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",montée,3,humide,tendre,linéaire,accidentelle soi-même,,,40
+1617-73-04,2017-01-14,13:00,73,saint bon tarentaise,vanoise,alps,Vanoise,saulire,,,,,,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,,,
+1617-73-12,2017-03-03,14:25,73,villaroger,vanoise,alps,Vanoise,combe des lanchettes,,2300,,,7,5,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,,,
+1213-38-06,2013-03-19,11:45,38,La Ferrière,belledonne,alps,Belledone,secteur le pleynet F9,,1850,,,1,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,,linéaire,accidentelle soi-même,,,
+1314-09-02,2014-03-06,10:30,9,ax les thermes,haute ariège,pyrenees,hte-ariege,station le saquet,,,,,4,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,,linéaire,accidentelle soi-même,,,
+1415-74-05,2015-02-02,16:25,74,chatel,chablais,alps,Chablais,sous le val linga,,1900,,,4,4,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,accidentelle soi-même,,,
+1415-74-08,2015-03-05,,74,chatel,chablais,alps,Chablais,secteur piste rennes,,,,,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,dure,linéaire,accidentelle soi-même,,,
+1415-31-01,2015-02-02,14:30,31,boutx,luchonnais,pyrenees,luchonnais,couloir fontaine de pan,,,,N,5,5,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,sèche,tendre,linéaire,accidentelle soi-même,,,
+1617-06-01,2017-03-07,12:00,6,isola,mercantour,alps,Mercantour,sistron cloutas,,,,,1,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,,,
+1617-06-02,2017-03-07,14:15,6,isola,mercantour,alps,Mercantour,sistron cloutas,,,,,1,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,,,
+1718-38-17,2018-03-23,13:15,38,mont de lans,oisans,alps,Oisans,combe de chalance / piège à surfers,"45°0'16"" / 6°11'31""",2840,40-44,O,2,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,tendre,linéaire,accidentelle soi-même,,,
+1718-38-15,2018-05-03,12:20,38,saint christophe en oisans,oisans,alps,Oisans,col des écrins,,,,,2,1,0,0,0,0,randonnée,hiking,descente,,sèche,,linéaire,accidentelle soi-même,,,
+1617-05-07,2017-03-03,12:30,5,risoul,embrunnais,alps,Pelvoux,cabane valbelle,,,,,,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,,linéaire,accidentelle soi-même,,,
+1314-05-04,2014-01-05,15:00,5,pelvoux,pelvoux,alps,Pelvoux,ravin du bouisset,,,,,3,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,,linéaire,accidentelle soi-même,,,
+1516-73-14,2016-02-06,14:35,73,landry,vanoise,alps,Vanoise,couloir NO aiguille grive,,,,,3,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,,linéaire,accidentelle soi-même,,,
+1415-74-07,2015-02-09,16:00,74,le grand bornand,aravis,alps,Aravis,piste noire lachat piste rouge lanche,,,,,4,4,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,sèche,dure,linéaire,accidentelle soi-même,,,
+1617-73-15,2017-04-30,12:05,73,bourg saint maurice,beaufortain,alps,Beaufortin,versant nord col nova,,,,,1,1,0,0,0,1,randonnée,hiking,descente,,sèche,,linéaire,accidentelle soi-même,,,
+1213-38-03,2013-01-12,11:30,38,pinsot,belledonne,alps,Belledone,pic des grandes lanches,,,35-39,O,1,1,0,0,0,1,randonnée,hiking,montée,3,sèche,,linéaire,accidentelle soi-même,,,
+1415-65-01,2014-12-12,,65,sers,haute bigorre,pyrenees,hte-bigo,pic de barbe,,,,,4,2,0,0,0,2,randonnée,hiking,montée,,sèche,,linéaire,accidentelle soi-même,,,
+1112-73-01,2012-02-01,10:25,73,valloire,maurienne,alps,Maurienne,combe aiguille noire,,,,,19,10,6,6,0,0,randonnée,hiking,,2,sèche,,linéaire,accidentelle soi-même,,,
+1516-74-10,2016-03-09,,74,le petit bornand des glières,aravis,alps,Aravis,pointe de sosay,,,,,3,2,1,1,0,0,randonnée,hiking,,3,sèche,,linéaire,accidentelle soi-même,,,150
+1112-65-02,2012-02-18,,65,vieille aure,haute bigorre,pyrenees,hte-bigo,corneblanque,,,,,1,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,,linéaire,accidentelle soi-même,,,
+1011-38-02,2010-12-26,15:15,38,alpe d'huez,grandes rousses,alps,Gdes-rouss,pic blanc,,3200,,O,2,1,0,0,1,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,,,
+1011-73-19,2011-04-03,13:00,73,bessans,haute maurienne,alps,Hte-maurie,vallon oney - ouille arbéron,,2500,35-39,NO,8,4,0,0,1,3,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,,,
+1415-73-01,2014-12-18,09:20,73,tignes,haute tarentaise,alps,Hte-tarent,grattalu / aiguillette,,2747,>45,SE,11,4,1,1,0,3,randonnée,hiking,,3,sèche,dure,linéaire,accidentelle soi-même,,,
+1011-38-03,2011-01-12,13:30,38,les deux alpes,oisans,alps,Oisans,chalance,,2800,30-34,SO,4,2,0,0,0,2,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle soi-même,,,
+1213-05-09,2013-03-09,10:30,5,molines,queyras,alps,Queyras,combe crose,,2600,,,3,3,1,1,0,1,hors-piste,"off-piste (ski, snowboard)",,3,sèche,,linéaire,accidentelle soi-même,,,30
+1011-05-10,2011-04-03,11:30,5,risoul,embrunnais,alps,Pelvoux,les côtes du lièvre,,2400,,NO,2,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",,4,sèche,dure,linéaire,accidentelle soi-même,,,
+1011-05-06,2011-03-16,14:30,5,ceillac,queyras,alps,Queyras,col du tronchet,,2600,35-39,NO,,1,1,0,0,1,randonnée,hiking,,4,sèche,tendre,linéaire,accidentelle soi-même,,,
+1718-73-07,2018-01-09,,73,val d'isere,haute tarentaise,alps,Hte-tarent,solaise super S,,,,,2,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,5,sèche,,linéaire,accidentelle soi-même,,,
+1516-73-11,2016-01-21,13:55,73,la cote d'aime,beaufortain,alps,Beaufortin,mont rosset,,2440,,,1,1,0,0,0,0,randonnée,hiking,,,sèche,,linéaire,accidentelle soi-même,,,
+1415-38-06,2015-03-05,13:00,38,allemond,belledonne,alps,Belledone,col de roche noire,"45°11'7.74"" / 5°59'26.36""",2500,30-34,NE,2,1,1,1,0,0,randonnée,hiking,,,sèche,,linéaire,accidentelle soi-même,,,
+1516-38-02,2016-03-05,12:00,38,les adrets,belledonne,alps,Belledone,,,,,,2,2,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,,sèche,,linéaire,accidentelle soi-même,,,
+1718-38-16,2017-12-28,13:45,38,la combe de lancey,belledonne,alps,Belledone,lac de la sitre,"45°10'52"" / 5°57'5""",2120,35-39,SO,2,1,0,0,0,0,randonnée,hiking,,,sèche,tendre,linéaire,accidentelle soi-même,,,
+1617-05-03,2017-02-04,,5,dévoluy,dévoluy,alps,Devoluy,vallon pierea d'agnère combe sommarel,,2300,,NO,10,3,2,2,0,1,hors-piste,"off-piste (ski, snowboard)",,,sèche,,linéaire,accidentelle soi-même,,,
+1718-38-19,2017-12-09,09:30,38,alpe d'huez,grandes rousses,alps,Gdes-rouss,sommet marmottes 2,,,,,2,2,0,0,0,1,minage,other,,,sèche,,linéaire,accidentelle soi-même,,,15
+1213-64-01,2013-01-02,12:45,64,eaux bonnes,aspe ossau,pyrenees,aspe-ossau,vallon anglas,,,,,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,,sèche,,linéaire,accidentelle soi-même,,,
+1617-73-20,2017-03-01,15:00,73,lanslevillard,haute maurienne,alps,Hte-maurie,pas du loup,,2250,>45,,3,1,0,0,0,0,randonnée,hiking,,,sèche,,linéaire,accidentelle soi-même,,,
+1213-74-04,2013-02-05,16:10,74,chatel,chablais,alps,Chablais,télésiège des combes,,,,,1,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",,,sèche,,linéaire,accidentelle soi-même,,,40
+1213-73-14,2013-03-05,16:15,73,valloire,maurienne,alps,Maurienne,combe des granges,,,35-39,NO,2,2,1,1,0,1,hors-piste,"off-piste (ski, snowboard)",,,sèche,dure,linéaire,accidentelle soi-même,,,
+1112-74-08,2012-04-28,12:55,74,chamonix,mont blanc,alps,Mont-Blanc,glacier du milieu,,,,,3,1,0,0,0,0,alpinisme,alpinisme,,,sèche,,linéaire,accidentelle soi-même,,,
+1213-38-02,2013-01-02,,38,la morte,oisans,alps,Oisans,pas de la mine,5°54'05.2'' // 45°02'02.3'',2450,35-39,O,3,1,0,0,0,0,randonnée,hiking,,,sèche,,linéaire,accidentelle soi-même,,,
+1213-05-10,2013-03-15,13:30,5,monetier les bains,pelvoux,alps,Pelvoux,route du galibier,,,,,3,3,0,0,0,0,randonnée,hiking,,,sèche,,linéaire,accidentelle soi-même,,,
+1213-05-12,2013-03-25,,5,puy st vincent,pelvoux,alps,Pelvoux,col de bal,,,,,2,2,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,,sèche,,linéaire,accidentelle soi-même,,,
+1718-73-18,2018-03-04,13:15,73,arêche beaufort,beaufortain,alps,Beaufortin,combe nord col de la bathie,,,,,2,2,2,2,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,,,linéaire,accidentelle soi-même,,,
+1314-38-04,2014-03-06,13:45,38,la ferrière d'allevard,belledonne,alps,Belledone,couloir NO rocher blanc,,,,,3,1,0,0,0,0,randonnée,hiking,descente,3,,,linéaire,accidentelle soi-même,,,
+1415-73-07,2015-01-30,16:10,73,la perrière,vanoise,alps,Vanoise,dou des lanches,,2100,,,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,,,linéaire,accidentelle soi-même,,,
+1718-74-05,2018-03-04,,74,vallorcine,mont blanc,alps,Mont-Blanc,couloir rand,,,,,4,2,0,0,0,0,randonnée,hiking,descente,,,,linéaire,accidentelle soi-même,,,
+1718-38-06,2018-02-18,15:40,38,saint christophe en oisans,oisans,alps,Oisans,refuge de la selle,,2850,,S,,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1516-05-02,2016-02-14,12:30,5,Vars,embrunnais-parpaillon,alps,Parpaillon,chagnon de peinier,,,,,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,,,linéaire,accidentelle soi-même,,,
+1718-88-01,2018-02-01,,88,saint maurice sur moselle,ballon d'alsace,other,other,couloir de Birkel,"47°49'26"" / 6°50'48""",1210,>45,E,1,1,1,0,1,0,randonnée,hiking,descente,3,,,linéaire,accidentelle soi-même,,,
+1314-05-08,2014-02-17,,5,st véran,queyras,alps,Queyras,chateau renard,,,,,2,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1718-65-07,2018-03-21,11:40,65,bagnères de bigorre,haute bigorre,pyrenees,hte-bigo,pic du midi,,,,,4,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,4,,,linéaire,accidentelle soi-même,,,
+1415-73-13,2015-02-03,,73,saint martin de belleville,vanoise,alps,Vanoise,hors piste de l'entonnoir,,,,,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1617-73-01,2016-11-20,12:30,73,champagny en vanoise,vanoise,alps,Vanoise,col des vés,,,,,4,1,0,0,0,1,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1314-04-01,2014-01-17,14:00,4,uvernet fours,ubaye,alps,Ubaye,pra loup teleski du lac,,,,,2,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1213-73-20,2013-03-19,,73,les allues,vanoise,alps,Vanoise,télésiège cote brune,,,,N,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1213-73-23,2013-04-01,,73,saint martin de belleville (val thorens),vanoise,alps,Vanoise,face ouest aiguille des st pères,,2800,,O,3,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1314-73-17,2014-01-27,16:30,73,montchavin,vanoise,alps,Vanoise,,,,,,,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1415-73-09,2015-01-31,,73,méribel,vanoise,alps,Vanoise,secteur du verdet,,,,,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1415-73-15,2015-03-03,11:35,73,orelle,vanoise,alps,Vanoise,,,,,,4,4,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,linéaire,accidentelle soi-même,,,
+1516-05-01,2016-01-16,12:00,5,les orres,embrunnais-parpaillon,alps,Parpaillon,tête de la mazelière / rocher marcelinas,,,,,2,1,0,0,0,1,randonnée,hiking,montée,,,,linéaire,accidentelle soi-même,,,
+1112-73-08,2012-04-29,13:40,73,bonneval,vanoise,alps,Vanoise,,,,,O,15,1,0,0,0,0,randonnée,hiking,montée,,,,linéaire,accidentelle soi-même,,,
+1718-73-21,2018-03-31,11:45,73,villaroger,vanoise,alps,Vanoise,bas du couloir en S / envers aiguille rouge,,2450,,,,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",traversée,,,,linéaire,accidentelle soi-même,,,
+1011-65-01,2011-03-06,13:30,65,cauteret,haute bigorre,pyrenees,hte-bigo,refuge d'ilhéou/pic Né,,2000,,,3,3,1,0,1,2,randonnée,hiking,,2,,,linéaire,accidentelle soi-même,,,
+1112-74-05,2012-02-16,,74,contamines montjoie,mont blanc,alps,Mont-Blanc,envers mont joly,,,,,3,3,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,2,,,linéaire,accidentelle soi-même,,,
+1011-74-04,2010-12-21,,74,samoens,chablais,alps,Chablais,station,,,,,2,2,0,0,2,0,hors-piste,"off-piste (ski, snowboard)",,3,,,linéaire,accidentelle soi-même,,,
+1617-73-09,2017-02-12,14:55,73,le chatel,vanoise,alps,Vanoise,la barnière,"45°19'46.4"" / 6°22'14.9""",1490,,,5,1,0,0,0,0,randonnée,hiking,,3,,,linéaire,accidentelle soi-même,,,
+1516-38-04,2016-04-24,11:00,38,laval,belledonne,alps,Belledone,cime de la jasse est,,2300,30-34,SE,9,5,3,2,1,1,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1718-05-06,2018-03-04,13:50,5,la grave,grandes rousses,alps,Gdes-rouss,puy golèfre,,,,,,1,0,0,0,1,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1718-38-11,2018-03-04,11:55,38,oz en oisans,grandes rousses,alps,Gdes-rouss,poutran,,,,,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,,,,linéaire,accidentelle soi-même,,,
+1718-38-12,2018-03-04,14:35,38,oz en oisans,grandes rousses,alps,Gdes-rouss,couloir perrins,,,,,5,3,1,1,0,1,hors-piste,"off-piste (ski, snowboard)",,,,,linéaire,accidentelle soi-même,,,
+1718-38-13,2018-03-04,15:10,38,vaujany,grandes rousses,alps,Gdes-rouss,cote belle,,,,,6,1,1,1,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1718-73-19,2018-03-16,14:50,73,lanslebourg,haute maurienne,alps,Hte-maurie,amont de la piste solert,,2550,,,6,4,0,0,0,3,hors-piste,"off-piste (ski, snowboard)",,,,,linéaire,accidentelle soi-même,,,
+1213-09-01,2013-03-15,,9,ax les thermes,haute ariège,pyrenees,hte-ariege,,,,,,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,,,,linéaire,accidentelle soi-même,,,
+1213-09-02,2013-03-15,,9,ax les thermes,haute ariège,pyrenees,hte-ariege,,,,,,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,,,,linéaire,accidentelle soi-même,,,
+1213-65-02,2013-03-15,,65,bagnères de bigorre,haute bigorre,pyrenees,hte-bigo,sud pic du midi de bigorre,,,,S,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,,,,linéaire,accidentelle soi-même,,,
+1314-73-24,2014-05-04,,73,ste foy tarentaise,haute tarentaise,alps,Hte-tarent,grande sassiere,,,,,1,1,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1617-73-19,2016-11-13,11:15,73,tignes,haute tarentaise,alps,Hte-tarent,face nord pointe du chardonnet,,2800,,,4,1,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1718-73-09,2018-02-05,17:35,73,sainte foy tarentaise,haute tarentaise,alps,Hte-tarent,pointe du grand soliet,"45°34'50"" / 6°56'25""",2880,40-44,NE,4,1,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1718-73-22,2018-04-13,12:20,73,val d'isere,haute tarentaise,alps,Hte-tarent,grand vallon,,2550,,,2,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,,,,linéaire,accidentelle soi-même,,,
+1314-66-01,2014-01-26,14:00,66,err,cerdagne canigou,pyrenees,cerdagne,puigmal err,,,,,7,1,0,0,0,1,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1213-05-04,2013-01-20,13:30,5,névache,thabor,alps,Thabor,,,,,,1,1,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1213-05-05,2013-02-03,,5,montgenevre,thabor,alps,Thabor,vallon des baysses,,,,,1,1,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",,,,,linéaire,accidentelle soi-même,,,
+1314-05-05,2014-01-25,17:00,5,névache,thabor,alps,Thabor,pointe riou blanc,,,,,6,1,1,1,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1213-38-08,2013-04-14,09:55,38,saint christophe en oisans,oisans,alps,Oisans,col de la lauze,,2900,30-34,SE,8,2,0,0,0,0,randonnée,hiking,,,humide,tendre,linéaire,accidentelle tiers,,,
+1415-74-09,2015-04-06,13:00,74,la clusaz,aravis,alps,Aravis,couloir lana / combe creuse,,,,,3,3,1,1,0,1,randonnée,hiking,montée,,sèche,,linéaire,accidentelle tiers,,,
+1516-38-03,2016-03-07,11:45,38,la ferrière,belledonne,alps,Belledone,combe perdue,,,,,1,1,1,0,1,0,hors-piste,"off-piste (ski, snowboard)",,3,sèche,tendre,linéaire,accidentelle tiers,,,
+1718-73-01,2017-12-09,15:55,73,aime,vanoise,alps,Vanoise,piste pavane,,,,,2,2,0,0,0,2,autre,other,à pieds,,sèche,,linéaire,accidentelle soi-même,,,
+1617-73-16,2017-05-05,,73,avrieux,haute maurienne,alps,Hte-maurie,face NO aiguille scolette,,,,,2,2,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1314-05-10,2014-03-05,,5,chateauroux les alpes,champsaur,alps,Champsaur,tête clotinailles,,,,NE,,1,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1314-73-23,2014-05-04,,73,orelle,maurienne,alps,Maurienne,roche des marches,,,,,1,1,0,0,0,0,randonnée,hiking,,,,,linéaire,naturelle sérac/corniche,,,
+1516-63-01,2016-05-01,12:00,63,mont dore,mont dore,other,other,cascade de la dore,,,,N,2,1,1,1,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1314-05-11,2014-03-08,14:00,5,villar arene,oisans,alps,Oisans,passe de midi,,,,NE,2,1,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1718-65-01,2017-11-26,,65,aragnouet,haute bigorre,pyrenees,hte-bigo,pic du piau,,,,N,3,1,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1314-05-01,2013-12-23,,5,cervières,queyras,alps,Queyras,col peygus,,2600,,,2,2,0,0,0,0,randonnée,hiking,,,,,linéaire,accidentelle soi-même,,,
+1314-74-10,2014-04-13,11:10,74,la clusaz,aravis,alps,Aravis,combe à marion,,,,,,8,0,0,0,2,randonnée,hiking,montée,,humide,tendre,linéaire,naturelle,,,
+1112-73-03,2012-02-27,,73,doucy en bauges,bauges,alps,Bauges,,,,,,1,1,1,1,0,0,randonnée,hiking,,2,humide,tendre,linéaire,naturelle,,,
+1213-38-05,2013-01-30,,38,chantelouve,oisans,alps,Oisans,voie cros de quinchiol / Gd Armet,5°56'47.2'' // 44°59'01.6'',2320,>45,SE,2,2,2,0,2,0,alpinisme,alpinisme,,,humide,tendre,linéaire,naturelle,,,
+1213-05-08,2013-03-05,,5,crévoux,embrunais parpaillon,alps,Parpaillon,goulotte barre des enfers,,,,,5,5,0,0,0,0,alpinisme,alpinisme,,2,sèche,,linéaire,naturelle,,,
+1213-05-14,2013-04-19,10:20,5,vars,embrunais parpaillon,alps,Parpaillon,piste bleue vallon crête peyrol,,2300,,,1,1,0,0,0,0,piste,"piste (ski, snowboard)",,,,,linéaire,naturelle,,,
+1011-73-13,2011-03-18,13:00,73,méribel,vanoise,alps,Vanoise,mont du vallon lac du borgne,,,,,,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,3,sèche,tendre,linéaire,,,,
+1516-74-02,2016-01-11,,74,chamonix,mont blanc,alps,Mont-Blanc,route col des montets,,,,,1,1,0,0,0,0,voie de communication,other,,4,,,,naturelle,,,
+1516-66-01,2016-03-20,11:00,66,porta,capcir puymorens,pyrenees,capcir,roc des isards,,,,,4,4,0,0,0,0,randonnée,hiking,,3,humide,,,accidentelle soi-même,,,
+1718-05-10,2018-05-26,,5,la chapelle en valgaudemar,pelvoux,alps,Pelvoux,couloir ouest brèche des roux,,,>45,O,11,2,1,1,0,1,alpinisme,alpinisme,arrêt,,humide,tendre,,naturelle,,,
+1314-38-05,2014-03-13,17:00,38,pinsot,belledonne,alps,Belledone,couloir pertuis,,,,O,1,1,0,0,0,1,randonnée,hiking,traversée,2,humide,tendre,,naturelle,,,
+1516-73-12,2016-01-25,14:50,73,champagny en vanoise,vanoise,alps,Vanoise,vallon de la velière,,,>45,S,3,1,0,0,0,0,randonnée,hiking,traversée,,humide,tendre,,naturelle,,,
+1112-31-02,2012-04-05,15:30,31,bagnères de luchon,luchonnais,pyrenees,luchonnais,sentier cascade enfer,,,,NE,,2,2,2,0,0,randonnée,hiking,,2,humide,tendre,,naturelle,,,
+1213-65-01,2013-03-06,16:00,65,st lary soulan,haute bigorre,pyrenees,hte-bigo,GR Espiaube Plat Adet,,,,,8,6,0,0,0,6,randonnée,hiking,,3,humide,tendre,,naturelle,,,
+1314-73-27,2014-05-18,12:30,73,bessans,haute maurienne,alps,Hte-maurie,pointe charbonnel,,,,NE,2,2,1,0,1,0,randonnée,hiking,,,humide,tendre,,naturelle,,,
+1415-06-03,2015-02-06,,6,isola,mercantour,alps,Mercantour,route accès isola M97,,,,,3,3,0,0,0,0,voie de communication,other,traversée,4,sèche,,,naturelle,,,
+1415-73-06,2015-01-29,,73,aillons le vieux,bauges,alps,Bauges,col de la cochette,,,,,1,1,1,1,0,0,randonnée,hiking,arrêt,,,,,naturelle,,,
+1516-68-01,2016-02-13,14:15,68,stockersohn,ballon des vosges,other,other,secteur col des perches,,,,,8,1,0,0,0,0,randonnée,hiking,traversée,,,,,naturelle,,,
+1213-05-01,2012-12-14,,5,la grave,oisans,alps,Oisans,rd 1091 les traverses,,,,,3,3,0,0,0,0,voie de communication,other,,,,,,naturelle,,,
+1718-05-02,2018-02-02,,5,le monetier les bains,pelvoux,alps,Pelvoux,vallon roche noire pic blanc galibier,,,,,3,1,0,0,0,0,randonnée,hiking,descente,,,,,,,,
+1415-38-07,2015-01-23,12:30,38,villard de lans,vercors,alps,Vercors,crête des crocs,"45°4'42.13"" / 5°36'22.8""",,35-39,NO,4,1,0,0,0,0,randonnée,hiking,descente,,,,,,,,
+1718-04-01,2018-04-06,15:10,4,saint paul sur ubaye,ubaye,alps,Ubaye,tete de l'eyssilloun couloir nord principal,44°505423 / 6°809782,2890,,,4,1,0,0,0,0,randonnée,hiking,descente,,,,,,,,
+1213-73-04,2012-12-28,,73,saint martin de belleville (val thorens),vanoise,alps,Vanoise,lac du lou,,,,,5,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,,,,,
+1213-73-07,2013-02-03,,73,saint martin de belleville (val thorens),vanoise,alps,Vanoise,lac du lou,,,,,2,2,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,,,,,
+1213-73-08,2013-02-08,,73,saint martin de belleville (val thorens),vanoise,alps,Vanoise,cime caron,,,,,3,3,0,0,0,0,hors-piste,"off-piste (ski, snowboard)",descente,,,,,,,,
+1415-06-04,2015-02-16,10:15,6,saint dalmas de selvage,mercantour,alps,Mercantour,route col bonnette lieudit Le Pra,,,,,,3,2,2,0,1,randonnée,hiking,montée,3,,,,,,,
+1516-65-03,2016-04-17,08:30,65,bagnères de bigorre,haute bigorre,pyrenees,hte-bigo,couloir des poubelles pic du midi (couloir nord est),"42°56'19.26"" / 0°08'53.07""",2360,40-44,NE,3,3,0,0,0,3,alpinisme,alpinisme,montée,3,,,,,,,
+1516-73-17,2016-03-15,14:15,73,saint martin belleville,vanoise,alps,Vanoise,face SE cochet,,1700,,,2,2,0,0,0,0,randonnée,hiking,montée,,,,,,,,
+1516-74-05,2016-02-12,,74,chamonix,mont blanc,alps,Mont-Blanc,couloir ortha,,,,NO,2,2,0,0,0,0,randonnée,hiking,traversée,,,,,,,,
+1718-74-10,2018-03-24,,74,chevaline,bauges,alps,Bauges,couloir nord Trélod,,,,,1,1,0,0,0,1,randonnée,hiking,,3,,,,,,,
+1011-73-10,2011-03-04,,73,villarodin bourget,maurienne,alps,Maurienne,station la norma,,,,,2,1,0,0,1,0,hors-piste,"off-piste (ski, snowboard)",,3,,,,,,,
+1213-05-11,2013-03-22,13:00,5,ceillac,queyras,alps,Queyras,col tronchet,,,,,10,2,0,0,0,0,randonnée,hiking,,3,,,,,,,
+1011-73-14,2011-03-20,14:35,73,champagny,vanoise,alps,Vanoise,Glières,,,,,4,1,1,1,0,0,randonnée,hiking,,3,,,,,,,
+1213-73-05,2013-01-20,,73,valloire,maurienne,alps,Maurienne,telesiege montissot,,,,,1,1,1,1,0,0,hors-piste,"off-piste (ski, snowboard)",,4,,,,,,,
+1718-74-08,2018-03-05,,74,le reposoir,aravis,alps,Aravis,pointe d'areu,,,,,2,2,0,0,0,0,randonnée,hiking,,,,,,,,,
+1718-88-09,2018-12-13,,74,Manigod,aravis,alps,Aravis,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-11,2018-12-18,,74,La Clusaz,aravis,alps,Aravis,,,,,,,1,1,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-25,2019-01-26,,74,Manigod,aravis,alps,Aravis,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-32,2019-01-31,,73,La Giettaz,aravis,alps,Aravis,,,,,,,2,0,0,1,1,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-73,2019-11-24,,74,Les Clefs,aravis,alps,Aravis,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-75,2019-12-06,,74,La Clusaz,aravis,alps,Aravis,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-85,2019-12-31,,74,Le Bouchet Montcharvin,aravis,alps,Aravis,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-105,2020-03-03,,74,La Clusaz,aravis,alps,Aravis,,,,,,,2,0,0,0,2,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-23,2019-01-25,,73,Chevaline,bauges,alps,Bauges,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-52,2019-03-10,,74,Seythenex,bauges,alps,Bauges,,,,,,,5,0,0,0,5,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-18,2019-01-14,,73,La Léchère,beaufortin,alps,Beaufortin,,,,,,,1,1,1,0,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-60,2019-04-20,,38,La Ferrière,belledonne,alps,Belledone,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-70,2019-11-14,,38,Chamrousse,belledonne,alps,Belledone,,,,,,,1,1,0,1,0,autre non récréatif,other,,,,,,,,,
+1718-88-87,2020-01-02,,38,Revel,belledonne,alps,Belledone,,,,,,,2,0,2,0,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-88,2020-01-18,,38,Les Adrets,belledonne,alps,Belledone,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-34,2019-01-31,,38,Oz en Oisans,grandes rousses,alps,Gdes-rouss,,,,,,,1,1,1,0,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-80,2019-12-25,,38,Le Freneyr d'Oisans,grandes rousses,alps,Gdes-rouss,,,,,,,2,0,0,0,2,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-83,2019-12-28,,38,Le Freney d'Oisans,grandes rousses,alps,Gdes-rouss,,,,,,,1,0,0,0,1,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-36,2019-02-03,,4,Allos,Haut-Verdon,alps,Ht_Var-Ver,,,,,,,1,0,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-02,2018-11-24,,73,Bonneval S/ Arc,haute maurienne,alps,Hte-maurie,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-05,2018-12-05,,73,Bonneval S/ Arc,haute maurienne,alps,Hte-maurie,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-21,2019-01-18,,73,Valmeinier,haute maurienne,alps,Hte-maurie,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-35,2019-02-02,,73,Lanslebourg,haute maurienne,alps,Hte-maurie,,,,,,,3,1,1,2,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-63,2019-04-25,,73,Bessans,haute maurienne,alps,Hte-maurie,,,,,,,1,1,1,0,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-72,2019-11-23,,73,Modane,haute maurienne,alps,Hte-maurie,,,,,,,4,1,0,2,2,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-86,2020-01-02,,73,Lanslebourg,haute maurienne,alps,Hte-maurie,,,,,,,2,0,0,0,2,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-90,2020-01-24,,73,Valmeinier,haute maurienne,alps,Hte-maurie,,,,,,,1,1,1,0,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-07,2018-12-11,,73,Tignes,haute tarentaise,alps,Hte-tarent,,,,,,,1,0,0,0,1,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-08,2018-12-11,,73,Val d'Isère,haute tarentaise,alps,Hte-tarent,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-16,2018-12-25,,73,Val d'Isère,haute tarentaise,alps,Hte-tarent,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-20,2019-01-15,,73,Val d'Isère,haute tarentaise,alps,Hte-tarent,,,,,,,1,0,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-38,2019-02-04,,73,Val d'Isère,haute tarentaise,alps,Hte-tarent,,,,,,,2,0,0,0,2,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-39,2019-02-04,,73,Val d'Isère,haute tarentaise,alps,Hte-tarent,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-43,2019-02-08,,73,Ste Foy Tarentaise,haute tarentaise,alps,Hte-tarent,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-44,2019-02-08,,73,Ste Foy Tarentaise,haute tarentaise,alps,Hte-tarent,,,,,,,2,1,0,0,2,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-66,2019-04-30,,73,Val d'Isère,haute tarentaise,alps,Hte-tarent,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-107,2020-03-03,,73,Tignes,haute tarentaise,alps,Hte-tarent,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-108,2020-03-03,,73,Tignes,haute tarentaise,alps,Hte-tarent,,,,,,,1,0,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-109,2020-03-03,,73,Val d'Isère,haute tarentaise,alps,Hte-tarent,,,,,,,1,0,0,0,1,hors-piste à snowboard,"off-piste (ski, snowboard)",,,,,,,,,
+1213-74-07,2013-03-19,,74,bernex,chablais,alps,Chablais,,,,,,1,1,1,0,1,0,randonnée,hiking,,,,,,,,,
+1617-74-03,2017-04-28,,74,avoriaz,chablais,alps,Chablais,,,,,,,1,1,1,0,0,randonnée,hiking,,,,,,,,,
+1718-74-11,2018-03-31,13:00,74,sixt fer à cheval,chablais,alps,Chablais,désert de platé,,,,,8,8,0,0,0,8,randonnée,hiking,,,,,,,,,
+1718-88-42,2019-02-07,,74,Chatel,chablais,alps,Chablais,,,,,,,2,0,0,0,2,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-61,2019-04-19,,74,Samoens,chablais,alps,Chablais,,,,,,,1,1,1,0,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-38-09,2018-03-03,,38,saint pancrasse,chartreuse,alps,Chartreuse,pas de l'oeille dent de crolles,,,,,,1,0,0,0,0,randonnée,hiking,,,,,,,,,
+1718-88-22,2019-01-25,,38,St Bernard du Touvet,chartreuse,alps,Chartreuse,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-29,2019-01-29,,38,St Pierre de Chartreuse,chartreuse,alps,Chartreuse,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-31,2019-01-30,,38,St Pierre de Chartreuse,chartreuse,alps,Chartreuse,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-33,2019-01-31,,38,Sarcenas,chartreuse,alps,Chartreuse,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-10,2018-12-13,,73,Montsapey,maurienne,alps,Maurienne,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-19,2019-01-14,,73,Les Avanchers-Valmorel,maurienne,alps,Maurienne,,,,,,,1,0,0,0,1,hors-piste à snowboard,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-56,2019-03-16,,73,Montgellafrey,maurienne,alps,Maurienne,,,,,,,1,1,1,0,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-74,2019-12-04,,73,Montricher-Albanne,maurienne,alps,Maurienne,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-84,2019-12-29,,73,St François Longchamp,maurienne,alps,Maurienne,,,,,,,2,0,0,0,2,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-96,2020-01-30,,73,Fontcouverte La Toussuire,maurienne,alps,Maurienne,,,,,,,3,3,2,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-99,2020-01-31,,73,Pontamafrey Montpascal,maurienne,alps,Maurienne,,,,,,,1,1,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-111,2020-03-06,,73,Montgellafrey,maurienne,alps,Maurienne,,,,,,,1,1,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-45,2019-02-09,,6,St Dalmas le Selvage,mercantour,alps,Mercantour,,,,,,,11,0,0,2,9,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-67,2019-05-06,,6,Isola,mercantour,alps,Mercantour,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-69,2019-05-19,,6,St Martin Vésubie,mercantour,alps,Mercantour,,,,,,,2,1,1,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-76,2019-12-07,,6,St Dalmas le Selvage,mercantour,alps,Mercantour,,,,,,,3,0,0,3,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1415-74-11,2015-08-25,08:40,74,chamonix,mont blanc,alps,Mont-Blanc,face nord goûter,,,,,3,2,0,0,0,0,alpinisme,alpinisme,,,,,,,,,
+1516-65-01,2016-03-08,,65,bagnères de bigorre,haute bigorre,pyrenees,hte-bigo,col d'aouet,,,,NO,5,2,1,1,0,1,randonnée,hiking,,,,,,,,,
+1718-88-53,2019-03-10,,74,Chamonix,mont blanc,alps,Mont-Blanc,,,,,,,5,0,0,0,5,"rando (ski, snowboard, snowshoes)","cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-55,2019-03-14,,74,Chamonix,mont blanc,alps,Mont-Blanc,,,,,,,1,0,0,1,0,alpinisme (cascade),alpinisme,,,,,,,,,
+1718-88-62,2019-04-21,,74,Chamonix,mont blanc,alps,Mont-Blanc,,,,,,,3,0,0,0,3,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-68,2019-05-18,,74,Vallorcine,mont blanc,alps,Mont-Blanc,,,,,,,1,1,1,0,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-82,2019-12-28,,74,Chamonix,mont blanc,alps,Mont-Blanc,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-92,2020-01-29,,74,St Gervais les Bains,mont blanc,alps,Mont-Blanc,,,,,,,1,1,1,0,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-94,2020-01-30,,74,Les Contamines Montjoie,mont blanc,alps,Mont-Blanc,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-95,2020-01-30,,74,Les Contamines Montjoie,mont blanc,alps,Mont-Blanc,,,,,,,1,0,0,0,1,hors-piste à snowboard,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-100,2020-02-03,,74,St Gervais les Bains,mont blanc,alps,Mont-Blanc,,,,,,,1,0,0,1,0,"rando (ski, snowboard, snowshoes)","cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-103,2020-03-01,,74,Vallorcine,mont blanc,alps,Mont-Blanc,,,,,,,1,1,1,0,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-114,2020-05-31,,74,Chamonix,mont blanc,alps,Mont-Blanc,,,,,,,2,0,1,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-115,2020-06-20,,74,Chamonix,mont blanc,alps,Mont-Blanc,,,,,,,2,0,0,1,1,alpinisme,alpinisme,,,,,,,,,
+1718-88-12,2018-12-18,,38,Ornon,oisans,alps,Oisans,,,,,,,3,0,0,0,3,alpinisme,alpinisme,,,,,,,,,
+1718-88-28,2019-01-29,,38,St Christophe en Oisans,oisans,alps,Oisans,,,,,,,2,2,2,0,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-51,2019-03-09,,38,St Christophe en Oisans,oisans,alps,Oisans,,,,,,,3,0,0,0,3,alpinisme (cascade),alpinisme,,,,,,,,,
+1718-88-58,2019-04-13,,38,St Christophe en Oisans,oisans,alps,Oisans,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-71,2019-11-20,,5,Les Orres,embrunnais-parpaillon,alps,Parpaillon,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1213-05-06,2013-02-06,,5,freissiniere,pelvoux,alps,Pelvoux,lac palluel,,,,,12,1,0,0,0,1,randonnée,hiking,,,,,,,,,
+1516-05-04,2016-04-24,,5,pelvoux,pelvoux,alps,Pelvoux,coup de sabre,,,>45,NO,2,2,0,0,0,0,alpinisme,alpinisme,,,,,,,,,
+1718-88-04,2018-11-24,,5,Le Monêtier les Bains,pelvoux,alps,Pelvoux,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-48,2019-03-01,,5,Le Monêtier les Bains,pelvoux,alps,Pelvoux,,,,,,,3,0,1,1,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-64,2019-04-27,,5,Monêtier les Bains,pelvoux,alps,Pelvoux,,,,,,,2,0,0,2,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-37,2019-02-03,,5,Vars,queyras,alps,Queyras,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-79,2019-12-14,,5,Vars,queyras,alps,Queyras,,,,,,,1,1,1,0,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-89,2020-01-20,,5,Cervières,queyras,alps,Queyras,,,,,,,1,0,0,1,0,randonnée à skis-alpinisme,alpinisme,,,,,,,,,
+1718-88-104,2020-03-03,,5,Cervières,queyras,alps,Queyras,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1415-05-05,2015-02-06,,5,le monetier les bains,thabor,alps,Thabor,ruisseau rif blanc,,,,,3,1,0,0,0,0,randonnée,hiking,,,,,,,,,
+1718-88-14,2018-12-21,,5,Névache,thabor,alps,Thabor,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-50,2019-03-09,,5,Névache,thabor,alps,Thabor,,,,,,,1,0,0,1,0,alpinisme (ski alpinisme),alpinisme,,,,,,,,,
+1718-88-106,2020-03-03,,5,Névache,thabor,alps,Thabor,,,,,,,3,1,0,0,3,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-03,2018-11-24,,4,Jausiers,ubaye,alps,Ubaye,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-46,2019-02-09,,4,Uvernet Fours,ubaye,alps,Ubaye,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-47,2019-02-12,,4,Uvernet Fours,ubaye,alps,Ubaye,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-24,2019-01-26,,66,Formigueres,capcir puymorens,pyrenees,capcir,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-26,2019-01-27,,68,Wasserbourg,vosges,other,other,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-27,2019-01-29,,31,Gouaux de Larboust,luchonnais,pyrenees,luchonnais,,,,,,,2,0,0,2,0,déclenchement préventif,other,,,,,,,,,
+1718-88-57,2019-03-19,,68,Stosswihr,vosges,other,other,,,,,,,1,0,0,0,1,randonnée à snowboard,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-59,2019-04-14,,20,Lozzi,cinto,other,other,,,,,,,1,0,0,0,1,randonnée à pied,hiking,,,,,,,,,
+1718-88-77,2019-12-10,,9,Aston,haute ariege,pyrenees,hte-ariege,,,,,,,1,0,0,1,0,"rando (ski, snowboard, snowshoes)","cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-06,2018-12-11,,73,St Martin de Belleville,vanoise,alps,Vanoise,,,,,,,3,0,0,0,3,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-15,2018-12-25,,73,Peisey-Nancroix,vanoise,alps,Vanoise,,,,,,,2,0,0,0,2,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-17,2018-12-26,,73,Bellentre,vanoise,alps,Vanoise,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-91,2020-01-28,,65,Aragnouet,haute bigorre,pyrenees,hte-bigo,,,,,,,1,0,0,0,1,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-30,2019-01-30,,73,Macot La Plagne,vanoise,alps,Vanoise,,,,,,,1,1,1,0,0,déclenchement préventif,other,,,,,,,,,
+1718-88-40,2019-02-04,,73,Villaroger,vanoise,alps,Vanoise,,,,,,,1,0,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-41,2019-02-06,,73,Courchevel,vanoise,alps,Vanoise,,,,,,,2,0,0,0,2,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-49,2019-03-07,,73,St Martin de Belleville,vanoise,alps,Vanoise,,,,,,,1,1,1,0,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-54,2019-03-12,,73,Bourg St Maurice,vanoise,alps,Vanoise,,,,,,,1,1,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-65,2019-04-29,,73,Orelle,vanoise,alps,Vanoise,,,,,,,1,0,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-78,2019-12-10,,73,Orelle,vanoise,alps,Vanoise,,,,,,,1,1,0,0,1,piste,"piste (ski, snowboard)",,,,,,,,,
+1718-88-81,2019-12-25,,73,Les Belleville,vanoise,alps,Vanoise,,,,,,,1,0,0,1,0,other,other,,,,,,,,,
+1718-88-93,2020-01-30,,73,Bourg St Maurice,vanoise,alps,Vanoise,,,,,,,1,1,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-97,2020-01-30,,73,Les Allues,vanoise,alps,Vanoise,,,,,,,1,0,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-98,2020-01-31,,73,Peisey Nancroix,vanoise,alps,Vanoise,,,,,,,2,0,0,0,2,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-101,2020-02-05,,73,Orelle,vanoise,alps,Vanoise,,,,,,,1,0,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-102,2020-02-28,,73,Les Belleville,vanoise,alps,Vanoise,,,,,,,1,0,0,1,0,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-110,2020-03-06,,73,La Plagne Tarentaise,vanoise,alps,Vanoise,,,,,,,3,1,1,0,2,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1718-88-112,2020-03-11,,73,Termignon,vanoise,alps,Vanoise,,,,,,,5,3,0,0,5,hors-piste à skis,"off-piste (ski, snowboard)",,,,,,,,,
+1213-26-01,2012-12-09,,26,bezaudun sur bine,vercors diois,alps,Vercors,pas de sierra le veyou,,1270,40-44,S,,1,0,0,0,0,randonnée,hiking,,,,,,,,,
+1718-88-113,2020-03-15,,65,Barèges,haute bigorre,pyrenees,hte-bigo,,,,,,,4,2,2,0,2,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
+1718-88-13,2018-12-18,,38,St Honoré,vercors,alps,Vercors,,,,,,,1,0,0,1,0,randonnée à skis,"cross-country (ski, snowboard etc.)",,,,,,,,,
